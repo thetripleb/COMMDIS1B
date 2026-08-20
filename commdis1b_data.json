@@ -37,6 +37,76 @@
       "def": "Intrinsic laryngeal muscles that move the vocal folds apart (away from midline), opening the glottis."
     },
     {
+      "id": "tx-g001",
+      "term": "Accent",
+      "def": "Variations in pronunciation of sounds, modulation of pitch or tone, and prominence of syllables or words during speech.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g002",
+      "term": "Accommodation",
+      "def": "Cognitive process whereby new schemes are created for information that does not fit existing schemes.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g003",
+      "term": "Account",
+      "def": "Spontaneous description of an event or experience without prompting from an adult.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g004",
+      "term": "Adaptations",
+      "def": "Changes children make to their schemes in order to fit into and function within their environment when experiencing cognitive conflict, achieved through assimilation or accommodation.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g005",
+      "term": "Additive approach",
+      "def": "Strategy whereby teachers add to an existing curriculum to take cultures other than the dominant culture into account by expanding content and introducing culturally related concepts, themes, and perspectives without altering the basic structure of the curriculum.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g006",
+      "term": "Additive bilingual environment",
+      "def": "Environment in which children are encouraged to retain their first language and to embrace their native culture while learning the majority language and also embracing a second culture.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g007",
+      "term": "Additive conjunctive relation",
+      "def": "Connects two or more sentences, clauses, or parts of clauses by adding more information to what is already there (and, in addition, also); the first conjunctive relation developed by children.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
       "id": "ch1-g020",
       "term": "Adductors",
       "image": null,
@@ -47,6 +117,96 @@
       "def": "Intrinsic laryngeal muscles that bring the vocal folds together (toward midline), closing the glottis for phonation."
     },
     {
+      "id": "tx-g008",
+      "term": "Adjectival",
+      "def": "Word or phrase that modifies a noun and can be an adjective (pretty, tall), an ordinal (second, last), or a quantifier (one, couple, few).",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g009",
+      "term": "Adverbial",
+      "def": "Word that describes or changes the meaning of a verb or verb phrase, but it also qualifies adjectives, other adverbs, and clauses. Adverbs often end in -ly and answer wh-questions, such as how, when, where, and why.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g010",
+      "term": "Adverbial conjuncts",
+      "def": "Adverb that connects two clauses and demonstrates addition (furthermore, equally important), a time sequence (simultaneously, after a while), contrast (in spite of, regardless), comparison (likewise, also), or other relationships.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g011",
+      "term": "Adverbial disjuncts",
+      "def": "Clause that expresses information about the speaker's attitude towards the content of the sentence, possibly intended to focus attention on the speaker's purpose, apart from or in addition to the communication (\"To be quite honest with you, you're making a mistake\").",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g012",
+      "term": "Adversative conjunctive relation",
+      "def": "Coordinating conjunctions used to express comparisons or contrasts with regard to the main clause of the sentence (e.g., but, yet, still, however, although).",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g013",
+      "term": "Age of acquisition effect",
+      "def": "As new learning occurs, this phenomenon allows the neural network to retain its plasticity and its stability in word representations so that word learning increases efficiently across time. This effect is associated with the tendency for words that are learned earlier to show faster retrieval during naming and reading tasks than words learned later.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g014",
+      "term": "Agent",
+      "def": "Words that refer to things that cause action.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g015",
+      "term": "Agentive",
+      "def": "Grammatical form that denotes the doer of a given action, often (but not always) accomplished by adding an -er to a verb in order to change it into a noun (e.g., a person who teaches is a teacher).",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g016",
+      "term": "Allophone",
+      "def": "One speech sound among a set of sounds used to pronounce a single phoneme.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
       "id": "ch1-g028",
       "term": "Alveolar ridge",
       "image": null,
@@ -55,6 +215,56 @@
       "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
       "created": "2026-08-19T17:17:56-07:00",
       "def": "The hard, bumpy ridge directly behind the top front teeth; an articulation landmark."
+    },
+    {
+      "id": "tx-g018",
+      "term": "Analytic level",
+      "def": "Reading level that activates a reader's deep processing of the information.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g017",
+      "term": "Anaphoric reference",
+      "def": "Type of reference in which a pronoun is used to refer to something in a preceding utterance.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g019",
+      "term": "Animate nouns",
+      "def": "Nouns that refer to living things.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g020",
+      "term": "Anticipatory coarticulation",
+      "def": "Feature or characteristic of a speech sound is anticipated during the production of a preceding speech sound.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g021",
+      "term": "Arbitrariness",
+      "def": "Idea that there is nothing inherent in a spoken word to account for its meaning, no limitation to what language can describe, and no explicit or necessary connection between sounds used and the message being sent; Charles Hockett's eighth \"design-feature\" of language.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
     },
     {
       "id": "ch1-g032",
@@ -77,6 +287,16 @@
       "def": "The fourth subsystem of speech: refining sound by restricting or interrupting the airstream with the articulators. Most associated with shaping consonant sounds."
     },
     {
+      "id": "tx-g022",
+      "term": "Articulation disorder",
+      "def": "A disorder in the use of the speech mechanism to form the necessary place, manner, and voicing of sounds.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
       "id": "ch1-g027",
       "term": "Articulators",
       "image": null,
@@ -97,6 +317,46 @@
       "def": "Pyramid-shaped cartilages that sit atop the cricoid. Each has a vocal process and a lateral process; muscles move the lateral processes to bring the vocal folds together or apart."
     },
     {
+      "id": "tx-g023",
+      "term": "Aspiration",
+      "def": "Release of air on the production of phonemes during speech.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g024",
+      "term": "Assimilation",
+      "def": "Cognitive process whereby a new stimulus is fitted into an existing schema.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g025",
+      "term": "Assimilation processes",
+      "def": "Form of simplification during speech in which one sound takes on the identity (or some of the characteristics) of another sound.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g026",
+      "term": "Attrition",
+      "def": "Process by which a dominant first language fades, and a second language becomes dominant.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
       "id": "ch1-g054",
       "term": "Auditory nerve",
       "image": null,
@@ -105,6 +365,86 @@
       "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
       "created": "2026-08-19T17:17:56-07:00",
       "def": "The nerve that connects to the cochlea and carries hearing messages to the brain."
+    },
+    {
+      "id": "tx-g027",
+      "term": "Autism spectrum disorder",
+      "def": "Group of developmental disabilities, with an onset before 36 months of age, that can cause significant social, communication, and behavioral challenges.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g028",
+      "term": "Auxiliary verb",
+      "def": "\"Helping\" verb, such as be, do, or have, that accompanies a main verb and expresses tense, aspect, modality, voice, or emphasis.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g029",
+      "term": "Aversive stimulus",
+      "def": "Warning that there will be an unpleasant consequence for a particular behavior.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g030",
+      "term": "Babbling",
+      "def": "Combinations of vowel- and consonant-like sounds produced without meaning.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g031",
+      "term": "Bilingual first language acquisition",
+      "def": "Process of acquiring two languages from birth and becoming competent in both languages at a relatively equal rate.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g032",
+      "term": "Bilingual second language acquisition",
+      "def": "Process of acquiring one language before exposure to a second language.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g033",
+      "term": "Book-sharing activities",
+      "def": "Reading activity in which caregivers engage in interactive reading with a child.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g034",
+      "term": "Bound morpheme",
+      "def": "Morphemes that are attached to words and cannot stand alone (e.g., possessive form of -s).",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
     },
     {
       "id": "ch1-g006",
@@ -117,6 +457,16 @@
       "def": "If a gas is kept at constant temperature, pressure and volume are inversely proportional (and have a constant product). Explains inhalation/exhalation: as thoracic volume increases, pressure drops and air rushes in; as volume decreases, pressure rises and air flows out."
     },
     {
+      "id": "tx-g035",
+      "term": "Broadcast transmission",
+      "def": "Idea that the sound of speech is heard in all directions but listeners interpret it as coming from one specific direction; Charles Hockett's second \"design-feature\" of language.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
       "id": "ch1-g033",
       "term": "Broca's area",
       "image": null,
@@ -125,6 +475,46 @@
       "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
       "created": "2026-08-19T17:17:56-07:00",
       "def": "A left-hemisphere region responsible for the motor planning and coordination of articulation."
+    },
+    {
+      "id": "tx-g036",
+      "term": "Case grammar",
+      "def": "Semantic theory developed by Charles Fillmore to explain the importance and influence of semantics on the form of language; a form of generative grammar that describes the deep structure of sentences in terms of the relation of a verb to a set of semantic cases.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g037",
+      "term": "Causal conjunctive relation",
+      "def": "One clause expresses an action or state of being, and the other clause provides a reason or describes the effect.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g038",
+      "term": "Causality",
+      "def": "Understanding that people, objects, or events can have an effect on other people, objects, or events.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g039",
+      "term": "Centering",
+      "def": "Organizational narrative structure that involves building a story around a central theme with each item or action in the narrative being connected to the central theme by an attribute that is related to the theme.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
     },
     {
       "id": "ch1-g037",
@@ -137,6 +527,66 @@
       "def": "The brain and spinal cord; the pathway along which speech and language messages travel from the brain toward the muscles of speech."
     },
     {
+      "id": "tx-g040",
+      "term": "Cerebrovascular accident",
+      "def": "Stroke; damage to the brain due to a lack of blood flow and oxygen.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g041",
+      "term": "Chaining",
+      "def": "Instructional procedure that involves reinforcing individual responses occurring in a sequence to form a complex behavior; organizational narrative structure that involves ordering events so that one event logically follows the preceding event.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g042",
+      "term": "Chunking",
+      "def": "Process of placing words into categories based on their semantic relationships.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g043",
+      "term": "Classical conditioning",
+      "def": "Variation of conditioned learning in which an originally neutral stimulus is repeatedly paired with an unconditioned stimulus that elicits a desired response.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g044",
+      "term": "Cluttering",
+      "def": "A disorder that involves both speech and language errors including sound omissions and distortions, irregular rate and lack of pausing, poor awareness and self-monitoring, incomplete phrases, and disorganization in the construction and execution of verbal information.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g045",
+      "term": "Coarticulation",
+      "def": "During rapid speech, a speech sound is influenced by, and becomes more like, a preceding or following speech sound.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
       "id": "ch1-g049",
       "term": "Cochlea",
       "image": null,
@@ -145,6 +595,176 @@
       "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
       "created": "2026-08-19T17:17:56-07:00",
       "def": "The spiral, snail-shell-shaped structure of the inner ear (within the temporal bone) responsible for hearing."
+    },
+    {
+      "id": "tx-g046",
+      "term": "Code mixing",
+      "def": "Combinations of words or phrases from more than one language.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g047",
+      "term": "Communication",
+      "def": "Sending and receiving information, ideas, feelings, or messages.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g048",
+      "term": "Communicative context",
+      "def": "Situation in which a communicative event takes place.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g049",
+      "term": "Comparative adjective",
+      "def": "Adjective used to compare one noun to another noun; occurs through the addition of the suffix -er.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g050",
+      "term": "Comparative level",
+      "def": "Reading level that requires a reader to use all the other reading levels to reflect on information from multiple sources in order to compare meanings.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g051",
+      "term": "Conductive hearing loss",
+      "def": "Hearing loss that occurs due to poor transmission of information from the outer or middle ear to the inner ear, with the most common causes being fluid in the middle ear, malformations of the outer ear, impacted cerumen, perforation or inflammation of the tympanic membrane, or poor functioning of the tiny bones of the middle ear (malleus, incus, and stapes).",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g052",
+      "term": "Conjoining",
+      "def": "Process of combining and joining language constructions.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g053",
+      "term": "Consolidation phase",
+      "def": "Second phase of writing development in which a child writes strings of words using the same vocabulary and rules of grammar used in his own speech.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g054",
+      "term": "Consonant clusters",
+      "def": "Group of two or more consonant sounds that come before, after, or between vowels.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g055",
+      "term": "Contingent responding",
+      "def": "Parent's prompt response to a child's behavior or verbalization.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g056",
+      "term": "Contracted verb",
+      "def": "Reduction or shortening of a pronoun and verb phrase (e.g., he's running).",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g057",
+      "term": "Contributions approach",
+      "def": "Strategy whereby teachers include information on selected heroes and holidays from a range of cultures, and they focus on a few specific characteristics of these cultures while maintaining the existing curriculum.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g058",
+      "term": "Controlled attention",
+      "def": "Capacity to maintain and hold relevant information, especially when there are internal or external distractions or interferences in the environment.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g059",
+      "term": "Conversational repair",
+      "def": "Revision, clarification, or repetition of a message to increase the chances of successful communication.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g060",
+      "term": "Conversations",
+      "def": "Forms of interactive communication between two or more people.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g061",
+      "term": "Cooing",
+      "def": "Production of vowel-like sounds and brief consonant-like sound during the first few months.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g062",
+      "term": "Copula verb",
+      "def": "Word used to link the subject and predicate of a sentence; main verb.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
     },
     {
       "id": "ch1-g039",
@@ -157,6 +777,26 @@
       "def": "The 12 pairs of nerves that transmit sensory and motor information; 6 are primarily associated with motor speech."
     },
     {
+      "id": "tx-g063",
+      "term": "Creole",
+      "def": "Language that develops as a result of contact between two groups that do not know each other's language.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g064",
+      "term": "Creolist theory",
+      "def": "Hypotheses which suggests that African American Vernacular English is a complicated hybrid derived from several African languages and Portuguese, Dutch, French, and English as a result of the early contact between Africans and Europeans.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
       "id": "ch1-g014",
       "term": "Cricoid cartilage",
       "image": null,
@@ -165,6 +805,176 @@
       "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
       "created": "2026-08-19T17:17:56-07:00",
       "def": "A ring-shaped cartilage that sits within the thyroid cartilage at its base."
+    },
+    {
+      "id": "tx-g065",
+      "term": "Cross-linguistic studies",
+      "def": "Research about language or language development that looks for universal patterns among various languages.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g066",
+      "term": "Cultural curriculum",
+      "def": "Knowledge students must learn regarding the world that is shared at particular grade levels, regardless of cultural backgrounds of individual students.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g067",
+      "term": "Cultural hearths",
+      "def": "Five places along the eastern and southern coasts of the United States from which most regional dialects have evolved: Boston, Philadelphia, tidewater Virginia, Charleston, and New Orleans.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g068",
+      "term": "Customary production",
+      "def": "Average age of a group of children at which a particular phoneme is produced with more than 50% accuracy in at least two word positions.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g069",
+      "term": "Decontextualized",
+      "def": "Devoid of situation or context.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g070",
+      "term": "Decreolization",
+      "def": "Process by which a creole language becomes increasingly similar to the language of the dominant culture.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g071",
+      "term": "Deep structure",
+      "def": "In Chomsky's transformational grammar, the underlying syntactic structure of a sentence generated by phrase-structure rules.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g072",
+      "term": "Deictic gestures",
+      "def": "Use of pointing, showing, or reaching for something to call attention to or indicate an object or event.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g073",
+      "term": "Deictic word pairs",
+      "def": "Words bound to either a linguistic or extralinguistic context for their interpretation that specify identity, spatial, or temporal location from the perspective of a speaker or listener in the context in which the message occurs (here/there, this/that, and I/you).",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g074",
+      "term": "Deixis",
+      "def": "Phenomenon in which understanding the meaning of certain words and phrases in an utterance requires contextual information; message interpretation depends on extralinguistic contexts, such as who is speaking, time, place, location, and gestures of the speaker.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g075",
+      "term": "Delayed imitation",
+      "def": "More complex form of imitation whereby an action or behavior is repeated some time after the model.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g076",
+      "term": "Delta stimulus",
+      "def": "Signal indicating that reinforcement will not follow a particular response.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g077",
+      "term": "Derivational morpheme",
+      "def": "Morphemes added to the beginning (e.g., re-, un-) and end (e.g., -ly, -un) of words; prefixes and suffixes.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g078",
+      "term": "Determiner",
+      "def": "First unit in a noun phrase that is an article (a, the), a possessive pronoun (my, his, her), a demonstrative pronoun (this, that, these, those), or a qualifier (some, most, any).",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g079",
+      "term": "Developing readers",
+      "def": "Individuals who are not yet reading independently, but read for meaning using the text, illustrations, letter-sound associations, and their own knowledge of print conventions to sample, predict, and confirm printed words.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g080",
+      "term": "Developmental disability",
+      "def": "Broad term used when a disability occurs prior to the age of 22 and is associated with mental or physical impairments.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g081",
+      "term": "Dialect",
+      "def": "Any given variety of a language shared by a group of speakers.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
     },
     {
       "id": "ch1-g007",
@@ -177,6 +987,146 @@
       "def": "The primary muscle of inhalation, a dome-shaped muscle sitting just below the lungs. When it contracts it flattens, enlarging the thorax; at rest it returns to its dome shape, driving exhalation."
     },
     {
+      "id": "tx-g082",
+      "term": "Differentiation phase",
+      "def": "Third stage of writing development in which students' writing becomes differentiated from the way they talk through the use of more sophisticated grammar; this stage continues for many people throughout their lives.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g083",
+      "term": "Directional reception",
+      "def": "Listener can compare the loudness and timing of sound reaching each ear and can determine the direction from where the sound is coming; Charles Hockett's second \"design-feature\" of language.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g084",
+      "term": "Disappearance",
+      "def": "When an object has been present, but then disappears; words used to express this relationship may be bye-bye.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g085",
+      "term": "Discreteness",
+      "def": "Idea that each language is limited to a finite or discrete number of sounds. Furthermore, each sound used in one or more human languages has very specific characteristics and can be placed in distinct categories that differentiate them from one another; Charles Hockett's ninth \"design-feature\" of language.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g086",
+      "term": "Discriminative stimulus",
+      "def": "Stimulus, such as a cue, that provides information about what to do.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g087",
+      "term": "Displacement",
+      "def": "Human ability to refer to things in space and time and communicate about things that are not currently present; Charles Hockett's 10th \"design-feature\" of language.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g088",
+      "term": "Distancing",
+      "def": "Ability to use an abstract symbol or word to represent the real object. Language is the way humans represent people, places, and things in thought and interactions.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g089",
+      "term": "Distinctive feature approach",
+      "def": "View that speech sounds comprise characteristics of place of articulation, manner of articulation, and voicing.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g090",
+      "term": "Dual language system hypothesis",
+      "def": "Concept that a child who is exposed to two languages from birth uses two separate language systems from the very beginning and does not go through stages in which a conjoined language system is gradually differentiated into two language systems.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g091",
+      "term": "Duality of patterning",
+      "def": "The restricted number of sounds in a given language can be combined in an infinite number of ways to produce an infinite variety of words, which in turn are combined again to make meaningful sentences; Charles Hockett's 12th \"design-feature\" of language.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g092",
+      "term": "Early phonemic stage",
+      "def": "Second stage of spelling development in which a child often only attends to the first letter of a word, uses consonants but excludes vowels, and other letters typically have no correspondence to the remaining segments of the target word.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g093",
+      "term": "Echolalia",
+      "def": "Imitation or repetition of words, phrases, or whole sentences spoken by another person.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g094",
+      "term": "Embedding",
+      "def": "Placing new strings of words within already existing constructions.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g095",
+      "term": "Emergent readers",
+      "def": "Individuals who are not yet reading, but are just beginning to grasp the basic concepts of books and print and developing alphabetical knowledge and phonological awareness skills.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
       "id": "ch1-g015",
       "term": "Epiglottis",
       "image": null,
@@ -185,6 +1135,76 @@
       "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
       "created": "2026-08-19T17:17:56-07:00",
       "def": "A cartilage attached to the cricoid. It contributes little to speech but plays a major role in protecting the windpipe during swallowing."
+    },
+    {
+      "id": "tx-g096",
+      "term": "Equilibrium",
+      "def": "Cognitive process to maintain a balance between existing schemata (assimilation) and the creation of new schemata (accommodation).",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g097",
+      "term": "Event sequence",
+      "def": "Order or sequence of events taking place in a story.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g098",
+      "term": "Existence",
+      "def": "When an object is present in a child's immediate environment and the child is attending to it; words used to express this relationship may be this, that, and there.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g099",
+      "term": "Expansion",
+      "def": "When an adult repeats what a child has said adding additional words and/or structure to the utterance.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g100",
+      "term": "Expressive elaboration",
+      "def": "Use of components including introductory information, background information, and evaluations (emphasis and meaning) to generate more creative and meaningful narratives.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g101",
+      "term": "Expressive language",
+      "def": "Producing and conveying communicative messages through speaking, writing, signing, or gestures.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g102",
+      "term": "Extension",
+      "def": "When an adult repeats a child's utterance adding additional words, structure, and new information to the utterance.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
     },
     {
       "id": "ch1-g042",
@@ -207,6 +1227,46 @@
       "def": "A special pathway of the central nervous system controlling more gross and unskilled motor movements."
     },
     {
+      "id": "tx-g103",
+      "term": "Fast mapping",
+      "def": "Act of learning a new concept after limited exposure, commonly used by young children when acquiring language.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g104",
+      "term": "Figurative language",
+      "def": "Nonliteral form of language used to describe something by comparing it with something else (e.g., idioms, similes, metaphors, and irony).",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g105",
+      "term": "Financial/material capital",
+      "def": "Objects that have value, but do not do anything (e.g., money); wealth of the individual within a society.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g106",
+      "term": "First words",
+      "def": "A child's initial words that convey meaning in a purposeful, consistent, and specific way.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
       "id": "ch1-g005",
       "term": "Four Processes of Speech",
       "image": null,
@@ -215,6 +1275,46 @@
       "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
       "created": "2026-08-19T17:17:56-07:00",
       "def": "Respiration, Phonation, Resonation, and Articulation — the ordered chain of subsystems that produce speech. All the structures involved are designed for other, more basic biological purposes."
+    },
+    {
+      "id": "tx-g109",
+      "term": "Fully resonant nuclei",
+      "def": "Vowel and consonant sounds with a full range of frequencies and resonant characteristics.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g108",
+      "term": "Functional core hypothesis",
+      "def": "Idea that children do not categorize things according to perceptual attributes (e.g., shapes and size), but rather develop meanings of early words based on their actions if they are animate objects, or on the objects performed on them if they are inanimate objects; children form concepts by viewing objects in terms of the whole, not a sum of parts or features.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g107",
+      "term": "Functional disorder",
+      "def": "Disorder in which there is a failure to identify a pathology of an organ system after using the best diagnostic procedures and technologies available.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g110",
+      "term": "Gerund",
+      "def": "Verbal or nonfinite verb form (based on a verb and expresses action or a state of being) that ends in -ing and functions as a noun.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
     },
     {
       "id": "ch1-g018",
@@ -227,6 +1327,26 @@
       "def": "The space between the vocal folds."
     },
     {
+      "id": "tx-g111",
+      "term": "Grammatical ellipsis",
+      "def": "When speakers delete or withhold information that they assume listeners already possess.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g112",
+      "term": "Graphophonemic awareness",
+      "def": "Ability to match letters to individual sounds.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
       "id": "ch1-g029",
       "term": "Hard palate",
       "image": null,
@@ -235,6 +1355,46 @@
       "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
       "created": "2026-08-19T17:17:56-07:00",
       "def": "The bony front portion of the roof of the mouth."
+    },
+    {
+      "id": "tx-g113",
+      "term": "Heaps",
+      "def": "Unrelated statements connected by a common originating stimulus where information is simply chained together in an additive fashion without a meaningful sequence.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g114",
+      "term": "Hidden curriculum",
+      "def": "Expectations teachers have for student behavior.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g115",
+      "term": "Horizontal expansion",
+      "def": "Adding semantic features to one's definitions of a word to create a greater understanding and use of a word in common situations with greater differentiation of it from other words.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g116",
+      "term": "Human capital",
+      "def": "Collective skills, knowledge, or other intangible assets of individuals that can be used to create economic value. These skills are influenced by culture and are affected by parent and societal beliefs about age, gender, and birth order.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
     },
     {
       "id": "ch1-g019",
@@ -247,6 +1407,66 @@
       "def": "A bone of the laryngeal region (U-shaped, in the neck) that supports the larynx and tongue musculature."
     },
     {
+      "id": "tx-g117",
+      "term": "Idioms",
+      "def": "Commonly used combination of words that has a figurative meaning, which is separate from the literal meaning or definition of the actual words in the phrase (e.g., \"The cat's out of the bag\").",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g118",
+      "term": "Illocutionary act",
+      "def": "Purpose or motive underlying an utterance.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g119",
+      "term": "Illocutionary stage",
+      "def": "Time between 8 and about 12 months of age when infants begin to use gestures and combine these with vocalizations to express a range of specific and recognizable communicative functions.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g120",
+      "term": "Imitation",
+      "def": "Duplication of models one hears and sees.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g121",
+      "term": "Inanimate nouns",
+      "def": "Noun that refers to nonliving things.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g122",
+      "term": "Incidence",
+      "def": "Number of new cases of a disorder.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
       "id": "ch1-g046",
       "term": "Incus (anvil)",
       "image": null,
@@ -257,6 +1477,86 @@
       "def": "The middle ossicle, connecting the malleus to the stapes."
     },
     {
+      "id": "tx-g123",
+      "term": "Independent readers",
+      "def": "Readers who confidently and competently read on their own and when they are alone, pay little conscious attention to the details of printed words but rather focus on constructing and maintaining meaning.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g124",
+      "term": "Indexicality",
+      "def": "Pragmatic feature of language referring to the circumstances or context in which a communicative message takes place; situational context is important in establishing meaning in our communicative attempts.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g125",
+      "term": "Indirect request",
+      "def": "Expression of desire or inclination requiring the receiver of a request to use an inference (I am very thirsty).",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g126",
+      "term": "Inflection",
+      "def": "Change in a word created by adding a grammatical morpheme.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g127",
+      "term": "Inflectional morpheme",
+      "def": "Suffixes that change the meaning of words by marking grammatical adjustments for things such as plurality, possession, and verb tense.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g128",
+      "term": "Information processing theory",
+      "def": "Theory that examines the sequence and execution of cognitive events, focusing on how individuals attend, encode, relate, store, and retrieve information, particularly for language acquisition purposes.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g129",
+      "term": "Informative",
+      "def": "Providing information.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g130",
+      "term": "Initiator",
+      "def": "Word or phrase that precedes a determiner and places a limit on the noun (only, all, both, just).",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
       "id": "ch1-g053",
       "term": "Inner hair cells",
       "image": null,
@@ -265,6 +1565,216 @@
       "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
       "created": "2026-08-19T17:17:56-07:00",
       "def": "Sensory cells in the cochlea arranged by the tone/frequency of the sound they pick up; their stimulation generates the neural signal for hearing."
+    },
+    {
+      "id": "tx-g131",
+      "term": "Inspectual level",
+      "def": "Reading level at which a reader quickly scans reading materials to determine the main ideas.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g132",
+      "term": "Instructional conversation",
+      "def": "Teaching format that involves engaging, informal discussion about a designated topic between students and teacher in which ideas are explored.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g133",
+      "term": "Integration phase",
+      "def": "Fourth and final stage of writing development in which writers develop a style that reflects their own personality, makes them unique, and allows them to express varying moods and attitudes in their writing; not all individuals will reach this stage.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g134",
+      "term": "Intellectual disability",
+      "def": "Significant limitations in intelligence as determined by an IQ test score below 70, and limitations in adaptive behavior.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g135",
+      "term": "Intelligibility",
+      "def": "Degree to which speech can be understood.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g136",
+      "term": "Interchangeability",
+      "def": "Anything that people are able to hear, they are also able to reproduce through spoken language; Charles Hockett's fourth \"design-feature\" of language.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g137",
+      "term": "Interlanguage",
+      "def": "Type of language hybrid that combines rules from a dominant language, rules from a second language, and rules a child invents to bridge any gaps between the two.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g138",
+      "term": "Intersubjectivity",
+      "def": "Term to conceptualize the psychological relationship between individuals.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g139",
+      "term": "Invented spellings",
+      "def": "Stage of spelling development in which young children use their best judgments about spelling words using visual memory and sounding-out strategies.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g140",
+      "term": "IRE model",
+      "def": "The initiate-response-evaluate (IRE) model of questioning; a traditional teacher-directed question-and-answer session to check for factual knowledge or fast recall whereby the teacher initiates a question, the student responds, and the teacher then evaluates the answer.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g141",
+      "term": "Ironic compliment",
+      "def": "Negative statement intended to mean something positive.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g142",
+      "term": "Ironic criticism",
+      "def": "Positive statement with the intent to mean something negative.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g143",
+      "term": "Irony",
+      "def": "Use of words to express something other than or opposite to the literal meaning.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g144",
+      "term": "Irregular verb",
+      "def": "Verb form that indicates an action took place in the past, but does not follow conventional past tense (-ed) morphology rules (e.g., ran, sat).",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g145",
+      "term": "Jargon babbling",
+      "def": "Final stage of babbling, also known as conversational babbling, in which productions are distinguished by melodic patterns and have many of the characteristics of real speech such as rhythm, stress, rate variations, and intonational contours.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g146",
+      "term": "Joint attention",
+      "def": "Shared focus of two individuals (e.g., caregiver and child) on each other or on an object or event; joint reference.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g147",
+      "term": "Language",
+      "def": "System of arbitrary, established symbols and rule-governed structures used for communication that change over time; conventionalized sounds, signs, gestures, or symbols that have shared and understood meanings.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g148",
+      "term": "Language acquisition device (LAD)",
+      "def": "Concept of the nativist theory of language that humans are born with the innate \"device\" for acquiring language.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g149",
+      "term": "Language of academic subjects or curriculum",
+      "def": "Specific vocabulary and manners of discourse associated with education and academics.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g150",
+      "term": "Language of behavior management",
+      "def": "Traditional type of language used by teachers to establish who is allowed to talk, what one is allowed to say, and how one is allowed to say it in a classroom environment.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g151",
+      "term": "Language of personal identity",
+      "def": "Language that is necessary for people to express themselves to others and develop a sense of self.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
     },
     {
       "id": "ch1-g022",
@@ -287,6 +1797,26 @@
       "def": "The 'voice box.' Its primary function is protecting the trachea and lungs from foreign material; its secondary function is sound production. Built from cartilages — most importantly the thyroid, cricoid, epiglottis, and arytenoids."
     },
     {
+      "id": "tx-g152",
+      "term": "Learnability",
+      "def": "Idea that learning occurs when people's innate capacity for learning, a learning environment, and some stimulus for learning that comes from learners themselves are combined, suggesting that cognitive structures interact with experience to produce learning.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g153",
+      "term": "Learning disability",
+      "def": "Broad term used to designate difficulties in acquiring spoken language, written language, and mathematical skills; disorder is presumed to be due to neurological causes and not due to other causes, such as sensory loss, motor conditions, environment, and cultural differences.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
       "id": "ch1-g030",
       "term": "Left hemisphere",
       "image": null,
@@ -295,6 +1825,86 @@
       "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
       "created": "2026-08-19T17:17:56-07:00",
       "def": "The cerebral hemisphere where primary speech and language functions originate for most people."
+    },
+    {
+      "id": "tx-g154",
+      "term": "Legally blind",
+      "def": "Visual acuity that is 20/200 or less in the better eye, or having a 20-degree visual field.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g155",
+      "term": "Letter-name stage",
+      "def": "Third stage of spelling development in which a child represents vowels as well as consonants with letters whose names sound like the speech sounds they are assumed to represent.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g156",
+      "term": "Limited capacity hypothesis",
+      "def": "Theory that children have the innate ability to acquire one language completely, but do not have the ability to acquire two or more languages simultaneously without suffering some reduction in competence in one or both languages.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g157",
+      "term": "Literal level",
+      "def": "Level of reading at which a student focuses on word meanings and the relationships between ideas conveyed in the paragraph.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g158",
+      "term": "Locutionary act",
+      "def": "Producing an utterance using words via speaking, signing, or using assistive technology.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g159",
+      "term": "Locutionary stage",
+      "def": "Time around 12 months and older when a child begins using words to communicate.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g160",
+      "term": "Logical sequences",
+      "def": "Organization of narrative information or components into a temporal order of related ideas.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g161",
+      "term": "Low vision",
+      "def": "Some functional use of eyesight ranging from a moderate to severe impairment.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
     },
     {
       "id": "ch1-g010",
@@ -317,6 +1927,126 @@
       "def": "The first ossicle, attached to the eardrum; it is set into motion first, then vibrates the incus."
     },
     {
+      "id": "tx-g162",
+      "term": "Manner of articulation",
+      "def": "Description of how a consonant sound is produced, such as a stop, fricative, or nasal.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g163",
+      "term": "Marginal babbling",
+      "def": "Early form of babbling in which an infant strings together single consonants and vowels that are made in a row, such as \"a, a, a,\" and \"da, da, da.\"",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g164",
+      "term": "Marked sounds",
+      "def": "Sounds that occur less frequently in languages of the world and develop later because they are more difficult to produce.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g165",
+      "term": "Mastered sounds",
+      "def": "Sounds that a child can consistently produce accurately.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g166",
+      "term": "Mathetic",
+      "def": "Relating to science or learning.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g167",
+      "term": "Mean length of utterance",
+      "def": "Calculation of the average number of morphemes a child produces in a representative sample of utterances.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g168",
+      "term": "Means-ends",
+      "def": "Conceptual extension of causality; the understanding that there are ways (means) to attain a goal (end).",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g169",
+      "term": "Metalinguistics",
+      "def": "Ability to think about the language and manipulate the components of language, such as counting syllables and sounds in words.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g170",
+      "term": "Mirror neurons",
+      "def": "Specialized neurons whose activity has been found to represent actions that can be used not only for imitating actions but also to recognize and determine differences in the actions of others; neurons that \"mirror\" the behavior of others, as though the observer itself were acting. It has been proposed that problems with the mirror neural system may underlie cognitive disorders, particularly in children with autism.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g171",
+      "term": "Mixed hearing loss",
+      "def": "Combination of conductive and sensorineural hearing loss.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g172",
+      "term": "Modal",
+      "def": "Type of auxiliary verb used to indicate the attitude or mood of the verb that it precedes (e.g., must, will, should).",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g173",
+      "term": "Modality",
+      "def": "Characteristics of sentences such as verb tense or the expression of negation or interrogation.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
       "id": "ch1-g051",
       "term": "Modiolus",
       "image": null,
@@ -325,6 +2055,46 @@
       "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
       "created": "2026-08-19T17:17:56-07:00",
       "def": "The cone-shaped bone at the core of the cochlea around which the nerve pathways spiral; it connects to the auditory nerve."
+    },
+    {
+      "id": "tx-g174",
+      "term": "Modulations of meaning",
+      "def": "Children learn to expand on noun and verb phrases in order to create distinct meanings with words in sentences.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g175",
+      "term": "Morpheme",
+      "def": "Smallest grammatical unit in a language that conveys meaning.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g176",
+      "term": "Morphophonemic alteration",
+      "def": "Speech sound change that occurs when the shape of the base morpheme is changed (e.g., the final sound in the word public is the k sound, but when public becomes publicity, that k becomes an s sound).",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g177",
+      "term": "Motherese",
+      "def": "General style used by adults when talking to young children, often characterized by higher pitch, a \"cooing\" intonation, and simplified or shortened words.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
     },
     {
       "id": "ch1-g034",
@@ -337,6 +2107,56 @@
       "def": "The brain region that sends signals to the speech mechanism to produce the speech that represents the formulated language."
     },
     {
+      "id": "tx-g178",
+      "term": "Multicultural education",
+      "def": "Idea that all students regardless of gender, race, culture, social class, religion, or exceptionality should experience educational equality in the school.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g179",
+      "term": "Muscle tension dysphonia",
+      "def": "Voice disorder in which the larynx is strained due to inappropriate or excessive use of the muscles above and around the vocal folds.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g180",
+      "term": "Naming deficit",
+      "def": "Brief period during which a child (typically 18-20 months) experiences short-term difficulty with word recall. Thought to occur due to the densely packed representations stored in memory during rapid vocabulary growth which produces competition in word selection, or because the child's words are undergoing reorganization, causing confusion about words that have strong semantic relationships.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g181",
+      "term": "Narrative",
+      "def": "A story; an account of events or experiences.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g182",
+      "term": "Narrative discourse",
+      "def": "Type of written or verbal communication that involves telling a story, typically involving a sequential order of events.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
       "id": "ch1-g025",
       "term": "Nasal cavity",
       "image": null,
@@ -347,6 +2167,106 @@
       "def": "The nose cavity; a resonating chamber, coupled or sealed off from the vocal tract by the velum."
     },
     {
+      "id": "tx-g183",
+      "term": "Natural sounds",
+      "def": "Sounds common to all languages and emerge first in developing children.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g184",
+      "term": "Neurogenic voice disorders",
+      "def": "Variety of conditions related to muscle control and innervations of the muscles involved in respiration, phonation, resonation, and articulation.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g185",
+      "term": "Nonexistence",
+      "def": "An object is expected to be present or occur, but is not, or an action is expected to occur, but does not; words used to express this relationship may be all gone or no.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g186",
+      "term": "Noun phrase",
+      "def": "Group of words containing a noun and words that describe or modify the noun.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g187",
+      "term": "Object",
+      "def": "Words that refer to things receiving action.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g188",
+      "term": "Object permanence",
+      "def": "Knowledge that objects exist in time and space even if you can't see or act on them.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g189",
+      "term": "Object specification",
+      "def": "Semantic relation of using and to connect a clause that describes or elaborates on the subject of the preceding clause; linking subjects and objects appropriately in a listing sense.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g190",
+      "term": "Objective pronoun",
+      "def": "Personal pronoun that acts as the object of a sentence and receives the action of the verb (e.g., me, her, him, them).",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g191",
+      "term": "Open words",
+      "def": "Words that can be used alone and in combination with other open words, in combination with pivot words, and in either the first or second position of two-word utterances.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g192",
+      "term": "Operant",
+      "def": "Any behavior whereby frequency can be affected by the responses following it.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
       "id": "ch1-g024",
       "term": "Oral cavity",
       "image": null,
@@ -355,6 +2275,36 @@
       "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
       "created": "2026-08-19T17:17:56-07:00",
       "def": "The mouth; a resonating cavity whose shape is changed (by tongue, jaw, and lips) to alter the sound produced."
+    },
+    {
+      "id": "tx-g193",
+      "term": "Order of mention",
+      "def": "When a child learning language interprets a sentence according to the order of the phrases, rather than the meaning of the phrases; concept that in the normal thought process, a cause is identified before its effect is considered.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g194",
+      "term": "Organic disorder",
+      "def": "Disorder caused by a demonstrable pathology of an organ system.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g195",
+      "term": "Organization",
+      "def": "Natural tendency of the mind to organize information into related, interconnected structures, with a scheme being the most basic structure.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
     },
     {
       "id": "ch1-g044",
@@ -377,6 +2327,36 @@
       "def": "The oval-shaped opening into which the stapes footplate fits; its motion sets the inner-ear fluids moving."
     },
     {
+      "id": "tx-g196",
+      "term": "Overextension",
+      "def": "When a child uses a word or concept too broadly (e.g., calling all four-legged animals \"doggie\").",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g197",
+      "term": "Passive transformation",
+      "def": "Changing the surface structure of a sentence so that the grammatical subject receives the verb's action; example: \"The ball was hit by the boy.\"",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g198",
+      "term": "Perception",
+      "def": "Processes by which an individual selects, organizes, integrates, and interprets sensory stimuli.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
       "id": "ch1-g038",
       "term": "Peripheral nervous system (PNS)",
       "image": null,
@@ -385,6 +2365,26 @@
       "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
       "created": "2026-08-19T17:17:56-07:00",
       "def": "The cranial and spinal nerves that carry speech and language messages out to the muscles. Includes 12 pairs of cranial nerves and 31 pairs of spinal nerves."
+    },
+    {
+      "id": "tx-g199",
+      "term": "Perlocutionary act",
+      "def": "Effect a locutionary act might have on a listener, which may or may not be consistent with the speaker's communicative intention.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g200",
+      "term": "Perlocutionary stage",
+      "def": "Time between birth and about 8 months of age during which infants respond in a reflexive manner to their environment and are not signaling any communication intent other than crying and nonspecific use of face and body.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
     },
     {
       "id": "ch1-g023",
@@ -407,6 +2407,96 @@
       "def": "The second subsystem of speech: the production of sound at the larynx. Biological function is airway protection; speech function is generating the raw laryngeal (glottal) tone."
     },
     {
+      "id": "tx-g201",
+      "term": "Phoneme",
+      "def": "Speech sound; the smallest contrastive unit in the sound system of a particular language.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g202",
+      "term": "Phonological awareness",
+      "def": "Ability to focus on and understand the sound structure of language.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g203",
+      "term": "Phonological disorder",
+      "def": "Underlying disorder in establishing and using the appropriate rules for sounds and their combinations, characterized by difficulty mastering where to use speech sounds in order to make words sound different from each other.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g204",
+      "term": "Phonological encoding",
+      "def": "Human ability to process rapidly paced speech and impose a phonemic (sound) identity to incoming speech sounds which are then analyzed, the structure of words is determined, and the code for each word is stored, along with its meaning, in long-term, semantic memory.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g205",
+      "term": "Phonology",
+      "def": "Study of speech sounds and the rules that determine how sounds can be sequenced into syllables and words in a language.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g206",
+      "term": "Phonotactics",
+      "def": "Rules that govern the permissible arrangements of sounds in a given language.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g207",
+      "term": "Phrase",
+      "def": "Combination of words that are related to one another and that serves a grammatical purpose, but does not contain both a subject and a predicate.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g208",
+      "term": "Phrase structure rules",
+      "def": "Universal rules for all languages, associated with Chomsky's transformational grammar, that describe the underlying relationships of words and phrases.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g209",
+      "term": "Pidgin",
+      "def": "Language that usually develops for the purpose of allowing groups with different languages to trade or communicate, and includes a combination of both languages, beginning as an informal language consisting mostly of nouns and many gestures and eventually becoming more formal.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
       "id": "ch1-g041",
       "term": "Pinna (outer ear)",
       "image": null,
@@ -417,6 +2507,346 @@
       "def": "The visible ear on the outside of the head; it helps direct sound into the ear canal."
     },
     {
+      "id": "tx-g211",
+      "term": "Pivot words",
+      "def": "Words that cannot be used alone or combined with other pivot words but can be used in conjunction with almost any other word a child has learned, and are used in either the first or second position of two-word utterances.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g210",
+      "term": "Pivot-open grammar",
+      "def": "Proposed primitive form of grammar which suggests that children have two classes of words: open and pivot; concept used to explain the structure behind two-word phrases often used by children.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g212",
+      "term": "Place of articulation",
+      "def": "Point of contact where an obstruction occurs in the vocal tract when producing a consonant, helping to give a consonant its distinctive sound.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g213",
+      "term": "Plasticity",
+      "def": "Dynamic flexibility and adaptability of the human brain to change—physically, functionally, and chemically throughout life, and as individuals constantly learn.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g214",
+      "term": "Play",
+      "def": "Child-directed activities that provide children with opportunities for learning.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g215",
+      "term": "Plural",
+      "def": "Noun form used to denote that there are two or more of something.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g216",
+      "term": "Possessive",
+      "def": "Noun form used to denote ownership, marked by adding an 's to the end of a noun, or an apostrophe after plural nouns.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g217",
+      "term": "Postmodifier",
+      "def": "Adjective phrase that comes after a noun (\"The man who called last night is my uncle\").",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g218",
+      "term": "Poverty threshold",
+      "def": "Minimum level of income based on the size of the family unit and updated each year by the U.S. Census Bureau to use for statistical estimates of the number of Americans living in poverty.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g219",
+      "term": "Pragmatics",
+      "def": "Component of language regarding the ability to functionally use language in social contexts; the rules for social language needed to establish and maintain relationships with others.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g220",
+      "term": "Preparation phase",
+      "def": "First stage of writing development in which a child is learning to form letters.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g221",
+      "term": "Prephonemic stage",
+      "def": "First stage of spelling development in which children scribble, inconsistently form letters, and string letters together with little awareness that letters represent phonemes or speech sounds.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g222",
+      "term": "Present progressive",
+      "def": "Verb form that indicates an action is taking place right now.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g223",
+      "term": "Presupposition",
+      "def": "Assumption that speakers make concerning what their listener knows about the subject of their conversation.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g224",
+      "term": "Prevalence",
+      "def": "Total number of cases of a disorder/disease in a population at a particular time.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g225",
+      "term": "Prevarication",
+      "def": "Ability of humans to intentionally deceive others in their communications.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g226",
+      "term": "Primary auxiliary verb",
+      "def": "Verb that usually accompanies or helps the main verb by expressing or making distinctions in mood, voice, aspect, and tense.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g227",
+      "term": "Primary motor strip",
+      "def": "Area in the frontal lobe of the brain, also known as the precentral gyrus or primary motor cortex, involved in the planning and execution of motor movements, including swallowing and speech.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g228",
+      "term": "Primitive speech act",
+      "def": "Child's use of a word, a change in prosodic pattern, or a gesture to communicate.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g229",
+      "term": "Principle of minimal distance",
+      "def": "Concept that the preceding noun closest to the verb is treated as the subject of the sentence.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g231",
+      "term": "Print interest",
+      "def": "A child's realization that oral language can be represented by print, or written language.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g232",
+      "term": "Print referencing",
+      "def": "During reading, when a caregiver highlights and points out basic elements of print to direct a child's attention to the forms, features, and functions of written language.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g230",
+      "term": "Print-concept knowledge",
+      "def": "Knowledge of the rule-governed organizational properties of print, including being able to show the front of the book, the title, the difference between pictures and print, left-to-right and top-to-bottom directionality for reading, and the concepts of letter and first letter in a word.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g233",
+      "term": "Productivity",
+      "def": "Human ability to create an infinite variety of novel and unique messages from a previously existing finite collection of sounds; Charles Hockett's 11th \"design-feature\" of language.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g234",
+      "term": "Pronoun",
+      "def": "Word that takes the place of a noun or noun phrase.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g235",
+      "term": "Proposition",
+      "def": "Characteristics of a sentence such as the relationship between nouns and verbs; the content of a meaningful, declarative sentence.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g236",
+      "term": "Protodeclarative",
+      "def": "Primitive speech act used to establish social interaction and direct a caregiver's attention; use of a gesture (sometimes paired with a vocalization) to gain attention to an object or event.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g237",
+      "term": "Protoimperative",
+      "def": "Primitive speech act used as a request for objects or actions as well as to control and manipulate the behaviors of others.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g238",
+      "term": "Protonarratives",
+      "def": "Young children's early recounts or storytelling in temporal-causal sequences.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g239",
+      "term": "Prototype hypothesis",
+      "def": "Idea that children rely on both perceptual features and functions of words to develop early meanings; children build mental models of a conceptual category—an ideal or representative example (prototype) that other members of this group must resemble.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g240",
+      "term": "Proverb",
+      "def": "Popular, wise saying or a precise statement of truth.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g241",
+      "term": "Psychogenic stuttering",
+      "def": "Onset of stuttering associated with a specific, identifiable psychological trauma.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g242",
+      "term": "Psychogenic voice disorders",
+      "def": "Hoarseness or complete loss of the voice without physical cause, but rather due to severe emotional trauma or conflict.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g243",
+      "term": "Punishment",
+      "def": "Consequence used to cause a behavior to occur with less frequency.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
       "id": "ch1-g035",
       "term": "Pyramidal system",
       "image": null,
@@ -425,6 +2855,156 @@
       "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
       "created": "2026-08-19T17:17:56-07:00",
       "def": "A special pathway of the central nervous system controlling refined, intricate movements of structures such as the lips and tongue (the articulators)."
+    },
+    {
+      "id": "tx-g244",
+      "term": "Quasi-resonant nuclei",
+      "def": "Sounds that have a low pitch and a muffled resonance quality (e.g., grunting, crying, reflexive fussing, and vegetative sounds).",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g245",
+      "term": "Rapid fading",
+      "def": "Speech signals are transitory and a listener can only receive specific auditory information at the time it is spoken; Charles Hockett's third \"design-feature\" of language.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g246",
+      "term": "Receptive language",
+      "def": "Listening to and understanding what is communicated; the ability to comprehend a message.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g247",
+      "term": "Recounts",
+      "def": "The narration or telling of past events or experiences.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g248",
+      "term": "Recurrence",
+      "def": "When an object reappears or an event happens again; words used to express this relationship may be more or another.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g249",
+      "term": "Recursion",
+      "def": "Human ability to use acquired knowledge to create language, imagine what others may be thinking, engage in mental time travel to the past and the future, think about and gain understanding of self, and to relate to a divine being in the development and demonstration of spirituality.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g250",
+      "term": "Reduplicated babbling",
+      "def": "More specific term for babbling involving repeated consonant-vowel (CV) syllables (e.g., \"mamama\").",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g251",
+      "term": "Reflexiveness",
+      "def": "Human ability to use language to think and talk about language; also referred to as metalinguistic ability.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g252",
+      "term": "Regional dialect",
+      "def": "A variety of language used by people living in a restricted geographic area and distinguished by features of vocabulary, grammar, and pronunciation from other regional variations.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g253",
+      "term": "Regular verb",
+      "def": "Verb form that indicates an action took place in the past (e.g., danced, looked).",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g254",
+      "term": "Reinforcement",
+      "def": "Consequence used to cause a behavior to occur with greater frequency.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g255",
+      "term": "Relational words",
+      "def": "Words that indicate relationships among people, objects, and events; these words reflect a child's understanding of space, time, amount, dimensions, and kinship.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g256",
+      "term": "Relevance",
+      "def": "Pertinence, timeliness, or usefulness of a conversational topic.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g257",
+      "term": "Representation",
+      "def": "Ability to think about things or use words without having to act on them directly.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g258",
+      "term": "Representational gestures",
+      "def": "Signify some features of an object or its function; have meaning independent of the objects (e.g., holding a fist to the ear to mean \"telephone\").",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
     },
     {
       "id": "ch1-g003",
@@ -447,6 +3027,136 @@
       "def": "The first subsystem of speech. Biologically it is breathing (O2/CO2 exchange); for speech it provides the 'power' — the airstream that drives sound production. Breathing for life is ~50% inhalation / 50% exhalation; breathing for speech is ~15% inhalation / 85% exhalation (controlled, extended exhalation up to ~15 seconds)."
     },
     {
+      "id": "tx-g259",
+      "term": "Retentive coarticulation",
+      "def": "When a preceding sound affects a sound that follows.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g260",
+      "term": "Revoicing",
+      "def": "Student-led format in which a teacher facilitates learning by promoting student discussion, acknowledging responses, and posing questions to prompt further thought; repeating part or all of a student's utterance or response and asking the student to verify whether the interpretation is correct.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g261",
+      "term": "Rich interpretation",
+      "def": "Using context to help determine the meanings of a child's utterances.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g262",
+      "term": "Saliency",
+      "def": "Perceptual relevance; a pronounced feature.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g263",
+      "term": "Scaffolding",
+      "def": "Support given during the learning process that is tailored to the needs of the individual and gradually removed to promote independent learning.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g264",
+      "term": "Schema",
+      "def": "Cognitive structure that helps children process, identify, organize, and store information.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g265",
+      "term": "School or classroom curriculum",
+      "def": "Conceptualized rules about who talks to whom and when these interactions should occur in a classroom environment, as well as the attitudes and values of teachers regarding the expectations of how to use language in the classroom.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g266",
+      "term": "Self-organizing neural network",
+      "def": "Interconnected neural system, in which learning in one language domain, such as the sound system, cannot help but affect other language domains, such as grammar; network involved in the learning, storing, organizing, and retrieving of information.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g267",
+      "term": "Self-regulated writing",
+      "def": "Proactive and self-directed process of writing in which a writer takes into account aspects such as the audience and the literary style most appropriate to convey the message.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g268",
+      "term": "Semantic feature hypothesis",
+      "def": "Idea that the order of appearance of words in the course of a child's language acquisition is governed by the type and complexity of the semantic features they contain.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g271",
+      "term": "Semantic-syntactic rules",
+      "def": "Underlying rules for combining words and grammar to produce meaningful utterances; concept that emphasizes that meaning precedes and influences form.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g269",
+      "term": "Semanticity",
+      "def": "Ability to use human speech to convey particular messages, and the idea that speech is needed in most cases to ensure the specificity of messages; Charles Hockett's seventh \"design-feature\" of language.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g270",
+      "term": "Semantics",
+      "def": "Component of language regarding the meaning and interpretation of language; the use of vocabulary to construct ideas through relationships between words.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
       "id": "ch1-g050",
       "term": "Semicircular canals",
       "image": null,
@@ -455,6 +3165,186 @@
       "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
       "created": "2026-08-19T17:17:56-07:00",
       "def": "The inner-ear structures responsible for balance."
+    },
+    {
+      "id": "tx-g272",
+      "term": "Sensorineural hearing loss",
+      "def": "Hearing loss caused by damage to the auditory nervous system, due to heredity, infection, trauma, exposure to toxins, or repeated exposure to loud noise. The damage may be located in the cochlea of the inner ear, the auditory nerve, various points along the auditory pathway, or in the primary auditory cortex in the temporal lobe of the brain.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g273",
+      "term": "Sentence",
+      "def": "Grammatical unit consisting of one or more words meaningfully grouped to express a statement, question, exclamation, request, command, or suggestion; a grammatical unit consisting of a noun and verb phrase.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g274",
+      "term": "Shading",
+      "def": "Changing the topic of conversation by deriving a new topic from the immediately previous topic so that some continuity in the conversational flow is maintained.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g275",
+      "term": "Shape bias",
+      "def": "Tendency of young children learning common nouns to generalize on the basis of shape, rather than material, color, or texture.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g276",
+      "term": "Shaping",
+      "def": "Developing a behavior through small steps that gradually approximate the target behavior.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g277",
+      "term": "Signature tunes",
+      "def": "Rhythmic characteristic of motherese, which is more regular than adult speech, resulting in what some researchers describe as a singsong cadence.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g278",
+      "term": "Simultaneous acquisition",
+      "def": "Process by which a child learns two languages at once during early childhood.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g279",
+      "term": "Slow mapping",
+      "def": "Gradual process over time of expanding, reorganizing, and fine-tuning word meanings as words are acquired and the relationship between words develops along with cognition and linguistic attainments.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g280",
+      "term": "Social action approach",
+      "def": "Educational strategy that leads students, through their increased understanding of cultural diversity, to make decisions about how best to address social issues affected by cultural differences and encouraging students to actually take action to solve problems that are created by cultural differences.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g282",
+      "term": "Social interactionism",
+      "def": "Explanation of language acquisition in which both environmental and biological factors are important in the process; however, the role of social interaction between the developing child and linguistically knowledgeable adults is emphasized.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g281",
+      "term": "Social-cultural capital",
+      "def": "Resources available to individuals based on group membership, relationships inside and outside of the group, and networks of influence and support in combination with access to forms of knowledge, skills, education, advantages, and attitudes necessary to gain social and economic mobility.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g283",
+      "term": "Social-material capital",
+      "def": "Nonfinancial social assets that promote social mobility beyond economic means (e.g., education, intellect, dress).",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g284",
+      "term": "Social-political capital",
+      "def": "Expected combined or economic benefits taken from the preferential treatment and cooperation between individuals and groups.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g285",
+      "term": "Socioeconomic status (SES)",
+      "def": "Position of an individual on a hierarchical social-economic scale that measures factors such as education, income, type of occupation, and place of residence.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g286",
+      "term": "Sound waves",
+      "def": "Fluctuation of pressure passed through some medium (e.g., air or water), composed of frequencies within the range of hearing.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g287",
+      "term": "Specialization",
+      "def": "Idea that speech is a specialized human function (made apparent by the anatomy of human speech organs and the human ability to exhibit some control over these organs), is specifically designed for communication, and serves no other purpose; Charles Hockett's sixth \"design-feature\" of language.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g288",
+      "term": "Specific language impairment",
+      "def": "Term used to categorize a childhood language disorder that is not accompanied by deficits in hearing, intelligence, neurological, or motor function.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g289",
+      "term": "Speech",
+      "def": "Oral expression of language.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
     },
     {
       "id": "ch1-g040",
@@ -467,6 +3357,16 @@
       "def": "The 31 pairs of nerves that, among other roles, are responsible for controlling respiration."
     },
     {
+      "id": "tx-g290",
+      "term": "Standard dialect",
+      "def": "Variety of a language spoken by people of relatively high status who have economic, political, social, and educational power.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
       "id": "ch1-g047",
       "term": "Stapes (stirrup)",
       "image": null,
@@ -477,6 +3377,146 @@
       "def": "The third ossicle; its footplate fits into the oval window, moving the fluids of the inner ear."
     },
     {
+      "id": "tx-g291",
+      "term": "Story grammar",
+      "def": "Knowledge about general structure of stories and how to ask oneself important questions while reading stories to facilitate comprehension.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g292",
+      "term": "Stuttering",
+      "def": "Speech disorder characterized by disruptions in the flow of speech by involuntary repetitions and prolongations of sounds, syllables, words, or phrases as well as involuntary silent pauses or blocks in which sound is unable to be produced.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g293",
+      "term": "Subjective pronoun",
+      "def": "Personal pronoun (e.g., I, he, she, they) that acts as the subject of the sentence and performs the action of the verb.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g294",
+      "term": "Substantive words",
+      "def": "Words that refer to objects or events that have perceptual or functional features in common (e.g., doggie, horsie, truck).",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g295",
+      "term": "Substitution processes",
+      "def": "Form of language simplification in which children use phonemes within their developmental level as substitutes for sounds they are not able to use consistently.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g296",
+      "term": "Subtractive bilingual environment",
+      "def": "Environment in which children who speak a minority language give up their minority language when acquiring the majority language, and in this process, give up their culture.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g297",
+      "term": "Successive acquisition",
+      "def": "The consecutive development of two or more languages.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g298",
+      "term": "Superlative adjective",
+      "def": "Adjective used to compare three or more nouns, occurs through the addition of the suffix -est.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g299",
+      "term": "Suprasegmental",
+      "def": "Features of speech, such as stress, pitch, and duration, that accompany individual speech sounds, words, and sentences.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g300",
+      "term": "Surface structure",
+      "def": "In Chomsky's transformational grammar, the outward form of a sentence, which is derived from deep structures by a series of transformations.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g301",
+      "term": "Syllable structure",
+      "def": "Arrangement of vowels and consonants that make up a single syllable.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g302",
+      "term": "Symbolic play",
+      "def": "A play activity in which objects or actions are used to represent other objects and actions.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g303",
+      "term": "Syntagmatic-paradigmatic shift",
+      "def": "Change in a child's processing and organization of words to reflect more adultlike patterns of organizing words into classes, rather than by syntactic relationships (e.g., syntagmatic relationship: \"cat-meows\"; paradigmatic relationship: \"cat-animal\").",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g304",
+      "term": "Syntax",
+      "def": "Rules that govern the ways in which words combine to form phrases, clauses, and sentences; sentence structure.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
       "id": "ch1-g052",
       "term": "Tectorial membrane",
       "image": null,
@@ -485,6 +3525,36 @@
       "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
       "created": "2026-08-19T17:17:56-07:00",
       "def": "A membrane within the cochlea whose movement (from fluid motion) triggers the inner hair cells."
+    },
+    {
+      "id": "tx-g305",
+      "term": "Telegraphic speech",
+      "def": "Simplified manner of speech during the early years of language acquisition using the most important content words for expressing ideas lacking appropriate grammar and inflection.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g306",
+      "term": "Temporal conjunctive relation",
+      "def": "Expresses aspects and relations of time to discuss one event that follows another in time.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g307",
+      "term": "Theory of mind",
+      "def": "Cognitive ability to designate mental states—beliefs, intents, desires, knowledge, and so on—to oneself and others, and to understand that others have different mental states than oneself.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
     },
     {
       "id": "ch1-g008",
@@ -507,6 +3577,46 @@
       "def": "The outer cartilage of the larynx, which may protrude as the 'Adam's apple.' The vocal folds attach to it."
     },
     {
+      "id": "tx-g310",
+      "term": "Topic collaborating",
+      "def": "Strategy whereby one conversational partner matches the topic of the other conversational partner.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g308",
+      "term": "Topic-associating narrative",
+      "def": "Story that connects two or more different events that share a common theme, in which each episode in the narrative might have different characters, and the stories might occur in different places and times.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g309",
+      "term": "Topic-based narrative",
+      "def": "Story centered on single characters or on single events having clearly defined chronologies.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g311",
+      "term": "Total feedback",
+      "def": "Speakers have the ability to hear themselves speak, and through this, receive feedback allowing them to make constant adjustments so that output is as finely tuned as possible for conveying accurate thoughts. This feedback also provides control for the mechanics of speech so that speech errors are caught and corrected or even anticipated and avoided; Charles Hockett's fifth \"design-feature\" of language.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
       "id": "ch1-g011",
       "term": "Trachea",
       "image": null,
@@ -515,6 +3625,76 @@
       "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
       "created": "2026-08-19T17:17:56-07:00",
       "def": "The windpipe; the tube through which exhaled air passes up from the lungs toward the larynx."
+    },
+    {
+      "id": "tx-g312",
+      "term": "Traditional transmission",
+      "def": "Idea that speech is instinctive in humans and the capacity for language acquisition is genetic; however, the details of a language, including vocabulary and structural rules, are learned; Charles Hockett's 13th and last \"design-feature\" of language.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g313",
+      "term": "Transformation approach",
+      "def": "Education strategy that fundamentally changes an existing curriculum by redesigning it to allow students to understand, appreciate, and value concepts, issues, events, and themes from the perspectives of a representative range of ethnic and cultural groups.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g314",
+      "term": "Transformational generative grammar",
+      "def": "Linguistic theory, developed by Noam Chomsky, that attempts to account for the infinite number of grammatical sentences possible in a language. This theory suggests that language is processed at two levels, deep and surface.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g315",
+      "term": "Transformations",
+      "def": "Nonuniversal rules or conventions that describe a language's deep structure and surface structure.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g316",
+      "term": "Transitional stage",
+      "def": "Fourth and last stage of spelling development in which children may try a number of spelling strategies including using a particular spelling they saw in print, applying rules for spelling they observed, and continuing to rely on letter-name spellings and sounding-out strategies to spell words.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g317",
+      "term": "Traumatic brain injury",
+      "def": "Sudden trauma to the brain that causes injury.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g318",
+      "term": "True narrative",
+      "def": "Stories that focus on a true plot, character development, a sequence of events, and a definite resolution of the central conflict or problem.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
     },
     {
       "id": "ch1-g043",
@@ -527,6 +3707,46 @@
       "def": "The eardrum, located at the end of the ear canal; it absorbs sound energy and vibrates, passing that vibration to the ossicles."
     },
     {
+      "id": "tx-g319",
+      "term": "Underextension",
+      "def": "When a child uses a word too narrowly (e.g., only calling golden retrievers \"doggie\"); not applying a new word to things that are included in the meaning of that word.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g320",
+      "term": "Underground curriculum",
+      "def": "Styles of language used during the school day appropriate for interactions with peers.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g321",
+      "term": "Unitary language system hypothesis",
+      "def": "Concept that children who are exposed to two languages from birth in the first stage of language development, actually function with a single language that is a hybrid of two distinctly different languages, a hybrid that includes vocabulary and grammatical rules from both languages.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g322",
+      "term": "Variegated babbling",
+      "def": "More complex form of babbling involving more complex combinations of consonant and vowel syllables (e.g., \"madagaba\").",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
       "id": "ch1-g026",
       "term": "Velum (soft palate)",
       "image": null,
@@ -535,6 +3755,46 @@
       "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
       "created": "2026-08-19T17:17:56-07:00",
       "def": "The soft, muscular back portion of the roof of the mouth. It moves up and back to close the mouth off from the nasal cavity, directing airflow."
+    },
+    {
+      "id": "tx-g323",
+      "term": "Verb phrase",
+      "def": "Group of words that contains a verb and possibly other supporting or qualifying words.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g324",
+      "term": "Vernacular dialect",
+      "def": "Native, nonstandard variety of language from a specific population.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g325",
+      "term": "Vertical expansion",
+      "def": "Developing an understanding of the deeper meanings of words by taking a known word and breaking it down into categories.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g326",
+      "term": "Vocables",
+      "def": "Consistent patterns of sounds, unique to individual children, used in reference to particular things or situations; also referred to as phonetically consistent forms, performatives, or protowords.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
     },
     {
       "id": "ch1-g017",
@@ -547,6 +3807,46 @@
       "def": "Paired structures of muscle and ligament that attach to the thyroid cartilage and to the arytenoids. Their rapid opening and closing (vibration) in the airstream produces the laryngeal tone."
     },
     {
+      "id": "tx-g328",
+      "term": "Vocal play",
+      "def": "Process by which infants \"play\" and experiment with their voices by changing the loudness, pitch, rate, and quality (e.g., squeals, grunts, raspberries).",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g327",
+      "term": "Vocal-auditory channel",
+      "def": "Idea that standard human language occurs as a vocal type of communication in which air is forced through the vocal folds of the larynx, breaking the vibrating air stream into sounds of speech, which are organized into words and sentences and perceived through a listener's ears; Charles Hockett's first \"design-feature\" of language.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g329",
+      "term": "Voicing",
+      "def": "Use of vocal fold vibration to produce all vowel sounds and certain consonant sounds.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g330",
+      "term": "Vowel processes",
+      "def": "Simplification of vowel sounds due to a child's tendency to produce vowels in the center of the oral cavity, making it neither high-low nor front-back, which results in vowels that are either too high or low or made too far in front or back of the intended target; a process more common for children with hearing loss.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
       "id": "ch1-g031",
       "term": "Wernicke's area",
       "image": null,
@@ -555,6 +3855,56 @@
       "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
       "created": "2026-08-19T17:17:56-07:00",
       "def": "A left-hemisphere region responsible for language comprehension and formulation."
+    },
+    {
+      "id": "tx-g331",
+      "term": "Whole-word templates",
+      "def": "Idea that the organizing principle in early phonological development is whole words, not features or segments.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g332",
+      "term": "Word retrieval",
+      "def": "Ability to recall stored information, or known words, from long-term memory.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g333",
+      "term": "Word storage",
+      "def": "Process of creating a permanent record of encoded information of a specific word in memory.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g334",
+      "term": "Working memory",
+      "def": "System that actively holds and allows for the voluntary, focused, and exclusive processing and maintenance of task-relevant information.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "tx-g335",
+      "term": "Zone of proximal development",
+      "def": "Range of abilities a child can perform with assistance, but cannot yet perform independently.",
+      "image": null,
+      "module": null,
+      "chapter": null,
+      "source": "Born to Talk",
+      "created": "2026-08-19T18:49:16-07:00"
     }
   ],
   "flashcards": [
