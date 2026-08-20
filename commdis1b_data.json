@@ -4,10 +4,1231 @@
     "course": "Speech-Language Pathology",
     "created": "2026-08-06T23:59:50.195Z"
   },
-  "modules": [],
-  "glossary": [],
-  "flashcards": [],
-  "questions": [],
-  "notes": [],
+  "modules": [
+    {
+      "id": "mod-1",
+      "name": "Anatomy & Physiology of Speech, Language & Hearing",
+      "desc": "The four subsystems of speech (respiration, phonation, resonation, articulation), the brain's speech/language centers and neural pathways, and the anatomy of the hearing mechanism.",
+      "chapters": [
+        "Lecture 1"
+      ],
+      "created": "2026-08-19T17:17:56-07:00"
+    }
+  ],
+  "glossary": [
+    {
+      "id": "ch1-g009",
+      "term": "Abdomen",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "The body region located below the diaphragm."
+    },
+    {
+      "id": "ch1-g021",
+      "term": "Abductors",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "Intrinsic laryngeal muscles that move the vocal folds apart (away from midline), opening the glottis."
+    },
+    {
+      "id": "ch1-g020",
+      "term": "Adductors",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "Intrinsic laryngeal muscles that bring the vocal folds together (toward midline), closing the glottis for phonation."
+    },
+    {
+      "id": "ch1-g028",
+      "term": "Alveolar ridge",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "The hard, bumpy ridge directly behind the top front teeth; an articulation landmark."
+    },
+    {
+      "id": "ch1-g032",
+      "term": "Arcuate fasciculus",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "The nerve-fiber bundle that transmits language information, connecting Wernicke's area to Broca's area."
+    },
+    {
+      "id": "ch1-g004",
+      "term": "Articulation",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "The fourth subsystem of speech: refining sound by restricting or interrupting the airstream with the articulators. Most associated with shaping consonant sounds."
+    },
+    {
+      "id": "ch1-g027",
+      "term": "Articulators",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "The movable and fixed structures that shape speech sounds: teeth, tongue, lips, alveolar ridge, hard palate, soft palate (velum), and jaw."
+    },
+    {
+      "id": "ch1-g016",
+      "term": "Arytenoid cartilages",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "Pyramid-shaped cartilages that sit atop the cricoid. Each has a vocal process and a lateral process; muscles move the lateral processes to bring the vocal folds together or apart."
+    },
+    {
+      "id": "ch1-g054",
+      "term": "Auditory nerve",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "The nerve that connects to the cochlea and carries hearing messages to the brain."
+    },
+    {
+      "id": "ch1-g006",
+      "term": "Boyle's Law",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "If a gas is kept at constant temperature, pressure and volume are inversely proportional (and have a constant product). Explains inhalation/exhalation: as thoracic volume increases, pressure drops and air rushes in; as volume decreases, pressure rises and air flows out."
+    },
+    {
+      "id": "ch1-g033",
+      "term": "Broca's area",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "A left-hemisphere region responsible for the motor planning and coordination of articulation."
+    },
+    {
+      "id": "ch1-g037",
+      "term": "Central nervous system (CNS)",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "The brain and spinal cord; the pathway along which speech and language messages travel from the brain toward the muscles of speech."
+    },
+    {
+      "id": "ch1-g049",
+      "term": "Cochlea",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "The spiral, snail-shell-shaped structure of the inner ear (within the temporal bone) responsible for hearing."
+    },
+    {
+      "id": "ch1-g039",
+      "term": "Cranial nerves",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "The 12 pairs of nerves that transmit sensory and motor information; 6 are primarily associated with motor speech."
+    },
+    {
+      "id": "ch1-g014",
+      "term": "Cricoid cartilage",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "A ring-shaped cartilage that sits within the thyroid cartilage at its base."
+    },
+    {
+      "id": "ch1-g007",
+      "term": "Diaphragm",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "The primary muscle of inhalation, a dome-shaped muscle sitting just below the lungs. When it contracts it flattens, enlarging the thorax; at rest it returns to its dome shape, driving exhalation."
+    },
+    {
+      "id": "ch1-g015",
+      "term": "Epiglottis",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "A cartilage attached to the cricoid. It contributes little to speech but plays a major role in protecting the windpipe during swallowing."
+    },
+    {
+      "id": "ch1-g042",
+      "term": "External auditory meatus",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "The ear canal, running from the pinna to the eardrum."
+    },
+    {
+      "id": "ch1-g036",
+      "term": "Extrapyramidal system",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "A special pathway of the central nervous system controlling more gross and unskilled motor movements."
+    },
+    {
+      "id": "ch1-g005",
+      "term": "Four Processes of Speech",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "Respiration, Phonation, Resonation, and Articulation — the ordered chain of subsystems that produce speech. All the structures involved are designed for other, more basic biological purposes."
+    },
+    {
+      "id": "ch1-g018",
+      "term": "Glottis",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "The space between the vocal folds."
+    },
+    {
+      "id": "ch1-g029",
+      "term": "Hard palate",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "The bony front portion of the roof of the mouth."
+    },
+    {
+      "id": "ch1-g019",
+      "term": "Hyoid bone",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "A bone of the laryngeal region (U-shaped, in the neck) that supports the larynx and tongue musculature."
+    },
+    {
+      "id": "ch1-g046",
+      "term": "Incus (anvil)",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "The middle ossicle, connecting the malleus to the stapes."
+    },
+    {
+      "id": "ch1-g053",
+      "term": "Inner hair cells",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "Sensory cells in the cochlea arranged by the tone/frequency of the sound they pick up; their stimulation generates the neural signal for hearing."
+    },
+    {
+      "id": "ch1-g022",
+      "term": "Laryngeal (glottal) tone",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "The raw buzzing sound produced by vocal-fold vibration before it is shaped by resonation into recognizable speech sounds."
+    },
+    {
+      "id": "ch1-g012",
+      "term": "Larynx",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "The 'voice box.' Its primary function is protecting the trachea and lungs from foreign material; its secondary function is sound production. Built from cartilages — most importantly the thyroid, cricoid, epiglottis, and arytenoids."
+    },
+    {
+      "id": "ch1-g030",
+      "term": "Left hemisphere",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "The cerebral hemisphere where primary speech and language functions originate for most people."
+    },
+    {
+      "id": "ch1-g010",
+      "term": "Lungs",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "Passive structures in the thorax that receive air — they do not actively 'suck in' air; airflow results from pressure changes governed by Boyle's Law."
+    },
+    {
+      "id": "ch1-g045",
+      "term": "Malleus (hammer)",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "The first ossicle, attached to the eardrum; it is set into motion first, then vibrates the incus."
+    },
+    {
+      "id": "ch1-g051",
+      "term": "Modiolus",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "The cone-shaped bone at the core of the cochlea around which the nerve pathways spiral; it connects to the auditory nerve."
+    },
+    {
+      "id": "ch1-g034",
+      "term": "Motor cortex",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "The brain region that sends signals to the speech mechanism to produce the speech that represents the formulated language."
+    },
+    {
+      "id": "ch1-g025",
+      "term": "Nasal cavity",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "The nose cavity; a resonating chamber, coupled or sealed off from the vocal tract by the velum."
+    },
+    {
+      "id": "ch1-g024",
+      "term": "Oral cavity",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "The mouth; a resonating cavity whose shape is changed (by tongue, jaw, and lips) to alter the sound produced."
+    },
+    {
+      "id": "ch1-g044",
+      "term": "Ossicles",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "The chain of three tiny bones in the middle ear — malleus, incus, and stapes — that transmit eardrum vibration to the inner ear."
+    },
+    {
+      "id": "ch1-g048",
+      "term": "Oval window",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "The oval-shaped opening into which the stapes footplate fits; its motion sets the inner-ear fluids moving."
+    },
+    {
+      "id": "ch1-g038",
+      "term": "Peripheral nervous system (PNS)",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "The cranial and spinal nerves that carry speech and language messages out to the muscles. Includes 12 pairs of cranial nerves and 31 pairs of spinal nerves."
+    },
+    {
+      "id": "ch1-g023",
+      "term": "Pharynx",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "The throat cavity; one of the three resonating cavities that shape the laryngeal tone."
+    },
+    {
+      "id": "ch1-g002",
+      "term": "Phonation",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "The second subsystem of speech: the production of sound at the larynx. Biological function is airway protection; speech function is generating the raw laryngeal (glottal) tone."
+    },
+    {
+      "id": "ch1-g041",
+      "term": "Pinna (outer ear)",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "The visible ear on the outside of the head; it helps direct sound into the ear canal."
+    },
+    {
+      "id": "ch1-g035",
+      "term": "Pyramidal system",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "A special pathway of the central nervous system controlling refined, intricate movements of structures such as the lips and tongue (the articulators)."
+    },
+    {
+      "id": "ch1-g003",
+      "term": "Resonation",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "The third subsystem of speech: the laryngeal tone is shaped by the size and shape of the pharynx, oral, and nasal cavities. Plays its most important role in shaping vowel sounds (open sounds with free airflow)."
+    },
+    {
+      "id": "ch1-g001",
+      "term": "Respiration",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "The first subsystem of speech. Biologically it is breathing (O2/CO2 exchange); for speech it provides the 'power' — the airstream that drives sound production. Breathing for life is ~50% inhalation / 50% exhalation; breathing for speech is ~15% inhalation / 85% exhalation (controlled, extended exhalation up to ~15 seconds)."
+    },
+    {
+      "id": "ch1-g050",
+      "term": "Semicircular canals",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "The inner-ear structures responsible for balance."
+    },
+    {
+      "id": "ch1-g040",
+      "term": "Spinal nerves",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "The 31 pairs of nerves that, among other roles, are responsible for controlling respiration."
+    },
+    {
+      "id": "ch1-g047",
+      "term": "Stapes (stirrup)",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "The third ossicle; its footplate fits into the oval window, moving the fluids of the inner ear."
+    },
+    {
+      "id": "ch1-g052",
+      "term": "Tectorial membrane",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "A membrane within the cochlea whose movement (from fluid motion) triggers the inner hair cells."
+    },
+    {
+      "id": "ch1-g008",
+      "term": "Thorax (thoracic cavity)",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "The chest cavity containing the lungs, diaphragm, and 12 thoracic vertebrae, caged in by 12 pairs of ribs. Changes in its volume drive breathing."
+    },
+    {
+      "id": "ch1-g013",
+      "term": "Thyroid cartilage",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "The outer cartilage of the larynx, which may protrude as the 'Adam's apple.' The vocal folds attach to it."
+    },
+    {
+      "id": "ch1-g011",
+      "term": "Trachea",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "The windpipe; the tube through which exhaled air passes up from the lungs toward the larynx."
+    },
+    {
+      "id": "ch1-g043",
+      "term": "Tympanic membrane",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "The eardrum, located at the end of the ear canal; it absorbs sound energy and vibrates, passing that vibration to the ossicles."
+    },
+    {
+      "id": "ch1-g026",
+      "term": "Velum (soft palate)",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "The soft, muscular back portion of the roof of the mouth. It moves up and back to close the mouth off from the nasal cavity, directing airflow."
+    },
+    {
+      "id": "ch1-g017",
+      "term": "Vocal folds",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "Paired structures of muscle and ligament that attach to the thyroid cartilage and to the arytenoids. Their rapid opening and closing (vibration) in the airstream produces the laryngeal tone."
+    },
+    {
+      "id": "ch1-g031",
+      "term": "Wernicke's area",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "def": "A left-hemisphere region responsible for language comprehension and formulation."
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "ch1-f001",
+      "front": "What are the four processes (subsystems) of speech, in order?",
+      "back": "Respiration → Phonation → Resonation → Articulation.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-f002",
+      "front": "Respiration: bio function vs. speech function?",
+      "back": "Bio: breathing / gas exchange. Speech: provides the 'power' (the airstream).",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-f003",
+      "front": "Breathing ratio for life vs. for speech?",
+      "back": "Life ≈ 50% inhalation / 50% exhalation. Speech ≈ 15% inhalation / 85% exhalation (controlled exhalation up to ~15 sec).",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-f004",
+      "front": "State Boyle's Law.",
+      "back": "At constant temperature, pressure and volume are inversely proportional (constant product). Volume up → pressure down → air rushes in; volume down → pressure up → air flows out.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-f005",
+      "front": "What is the primary muscle of inhalation, and what happens when it contracts?",
+      "back": "The diaphragm. It flattens from its resting dome shape, enlarging the thorax (volume up, pressure down) so air is forced into the lungs.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-f006",
+      "front": "Phonation: bio function vs. speech function?",
+      "back": "Bio: airway protection. Speech: produces sound (the laryngeal tone).",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-f007",
+      "front": "Name the four most important laryngeal cartilages.",
+      "back": "Thyroid, cricoid, epiglottis, and arytenoids.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-f008",
+      "front": "Which cartilage is the 'Adam's apple'?",
+      "back": "The thyroid cartilage (outer cartilage of the larynx).",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-f009",
+      "front": "What is the glottis?",
+      "back": "The space between the vocal folds.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-f010",
+      "front": "Adductors vs. abductors of the vocal folds?",
+      "back": "Adductors bring the folds together (close the glottis); abductors move them apart (open the glottis).",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-f011",
+      "front": "List the 5 steps of the phonation cycle.",
+      "back": "1) Adduction of the vocal folds. 2) Exhaled air pressure builds beneath the adducted folds. 3) Pressure blows the folds apart, releasing a puff of air. 4) Sub-fold pressure drops. 5) Reduced pressure + fold elasticity snaps them back together — cycle repeats.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-f012",
+      "front": "How many phonation cycles per second in males vs. females?",
+      "back": "Males: ~120–145 per second. Females: ~200–260 per second.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-f013",
+      "front": "Resonation: which cavities shape the tone, and what does it shape most?",
+      "back": "Pharynx, oral, and nasal cavities. Shapes vowel sounds most importantly.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-f014",
+      "front": "Articulation is most associated with shaping which speech sounds?",
+      "back": "Consonant sounds.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-f015",
+      "front": "Name the articulators.",
+      "back": "Teeth, tongue, lips, alveolar ridge, hard palate, soft palate (velum), and jaw.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-f016",
+      "front": "Where is the alveolar ridge?",
+      "back": "The hard, bumpy ridge directly behind the top front teeth.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-f017",
+      "front": "Broca's area vs. Wernicke's area?",
+      "back": "Broca's = motor planning/coordination of articulation. Wernicke's = language comprehension and formulation.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-f018",
+      "front": "What does the arcuate fasciculus do?",
+      "back": "Transmits language information, connecting Wernicke's area to Broca's area.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-f019",
+      "front": "Pyramidal vs. extrapyramidal system?",
+      "back": "Pyramidal controls refined, intricate movements (lips, tongue / articulators). Extrapyramidal controls gross, unskilled motor movements.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-f020",
+      "front": "How many pairs of cranial nerves and spinal nerves? Roles?",
+      "back": "12 pairs of cranial nerves (6 primarily for motor speech) and 31 pairs of spinal nerves (control respiration).",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-f021",
+      "front": "What are the three parts of the ear?",
+      "back": "Outer, middle, and inner ear.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-f022",
+      "front": "Name the three ossicles in order from eardrum inward.",
+      "back": "Malleus (hammer) → incus (anvil) → stapes (stirrup).",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-f023",
+      "front": "Which structure fits into the oval window, and what does that cause?",
+      "back": "The stapes footplate; it moves the fluids of the inner ear.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-f024",
+      "front": "Inner ear: which structure handles hearing vs. balance?",
+      "back": "Cochlea = hearing. Semicircular canals = balance.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-f025",
+      "front": "Trace the hearing pathway from eardrum to brain.",
+      "back": "Tympanic membrane → ossicles (malleus→incus→stapes) → oval window → cochlear fluids → tectorial membrane → inner hair cells → auditory nerve → brain.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    }
+  ],
+  "questions": [
+    {
+      "id": "ch1-q001",
+      "type": "mc",
+      "text": "Which is the correct order of the four processes of speech?",
+      "answer": "Respiration → Phonation → Resonation → Articulation",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "options": [
+        "Phonation → Respiration → Articulation → Resonation",
+        "Respiration → Phonation → Resonation → Articulation",
+        "Respiration → Resonation → Phonation → Articulation",
+        "Articulation → Resonation → Phonation → Respiration"
+      ]
+    },
+    {
+      "id": "ch1-q002",
+      "type": "mc",
+      "text": "According to Boyle's Law, when the volume of the thorax increases, the pressure inside the lungs:",
+      "answer": "Decreases, so air is drawn in",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "options": [
+        "Increases, so air is drawn in",
+        "Decreases, so air is drawn in",
+        "Increases, so air is pushed out",
+        "Stays the same"
+      ]
+    },
+    {
+      "id": "ch1-q003",
+      "type": "mc",
+      "text": "Which laryngeal cartilage is commonly known as the 'Adam's apple'?",
+      "answer": "Thyroid cartilage",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "options": [
+        "Cricoid cartilage",
+        "Arytenoid cartilage",
+        "Thyroid cartilage",
+        "Epiglottis"
+      ]
+    },
+    {
+      "id": "ch1-q004",
+      "type": "mc",
+      "text": "Resonation shapes the laryngeal tone primarily using which cavities?",
+      "answer": "Pharynx, oral, and nasal cavities",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "options": [
+        "Thorax, trachea, and glottis",
+        "Pharynx, oral, and nasal cavities",
+        "Cochlea, oval window, and pinna",
+        "Larynx, hyoid, and epiglottis"
+      ]
+    },
+    {
+      "id": "ch1-q005",
+      "type": "mc",
+      "text": "Which brain area is responsible for the motor planning and coordination of articulation?",
+      "answer": "Broca's area",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "options": [
+        "Wernicke's area",
+        "Broca's area",
+        "Arcuate fasciculus",
+        "Cerebellum"
+      ]
+    },
+    {
+      "id": "ch1-q006",
+      "type": "mc",
+      "text": "Which is the correct order of the ossicles from the eardrum inward?",
+      "answer": "Malleus → incus → stapes",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "options": [
+        "Stapes → incus → malleus",
+        "Incus → malleus → stapes",
+        "Malleus → incus → stapes",
+        "Malleus → stapes → incus"
+      ]
+    },
+    {
+      "id": "ch1-q007",
+      "type": "mc",
+      "text": "The stapes footplate fits into which structure to move the inner-ear fluids?",
+      "answer": "The oval window",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "options": [
+        "The tympanic membrane",
+        "The oval window",
+        "The semicircular canals",
+        "The modiolus"
+      ]
+    },
+    {
+      "id": "ch1-q008",
+      "type": "tf",
+      "text": "The lungs actively suck in air on their own during inhalation.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-q009",
+      "type": "tf",
+      "text": "Breathing for speech uses a much longer, more controlled exhalation phase than breathing for life.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-q010",
+      "type": "tf",
+      "text": "The primary function of the larynx is sound production, and airway protection is only secondary.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-q011",
+      "type": "tf",
+      "text": "The cochlea is responsible for hearing, while the semicircular canals are responsible for balance.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-q012",
+      "type": "tf",
+      "text": "Primary speech and language functions originate in the right hemisphere for most people.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-q013",
+      "type": "fitb",
+      "text": "The space between the vocal folds is called the ______.",
+      "answer": "glottis",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-q014",
+      "type": "fitb",
+      "text": "The dome-shaped primary muscle of inhalation is the ______.",
+      "answer": "diaphragm",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-q015",
+      "type": "fitb",
+      "text": "The eardrum is anatomically called the ______ ______.",
+      "answer": "tympanic membrane",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-q016",
+      "type": "fitb",
+      "text": "The nerve-fiber bundle connecting Wernicke's area to Broca's area is the ______ ______.",
+      "answer": "arcuate fasciculus",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-q017",
+      "type": "fitb",
+      "text": "In males the vocal folds vibrate about 120–145 times per second; in females about ______–______ times per second.",
+      "answer": "200-260",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-q018",
+      "type": "sa",
+      "text": "Explain how Boyle's Law drives one full cycle of respiration (inhalation and exhalation).",
+      "answer": "As the diaphragm contracts and flattens (and the ribs swing up and out), the volume of the thorax increases, which decreases pressure; to equalize with outside pressure, air is forced into the lungs (inhalation). When the muscles relax, the diaphragm returns to its dome shape and the ribs lower, decreasing thoracic volume and increasing pressure, so air flows out of the lungs (exhalation). One inhalation + exhalation completes a cycle.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-q019",
+      "type": "sa",
+      "text": "List the 5 steps of the phonation process.",
+      "answer": "1) The adductors bring the vocal folds together, restricting airflow. 2) Exhaled air pressure builds beneath the adducted folds. 3) Pressure blows the folds apart, releasing a puff of air into the trachea. 4) After release, the pressure drops. 5) The pressure drop plus fold elasticity snaps the folds back together, and the cycle repeats.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-q020",
+      "type": "sa",
+      "text": "Describe the path of sound through the ear from the pinna to the auditory nerve.",
+      "answer": "The pinna directs sound into the external auditory meatus (ear canal) to the tympanic membrane (eardrum), which vibrates. That vibration passes along the ossicles — malleus, then incus, then stapes. The stapes footplate moves the oval window, setting the cochlear fluids in motion; this moves the tectorial membrane, which triggers the inner hair cells (arranged by frequency). The auditory nerve then carries the signal to the brain.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-q021",
+      "type": "match",
+      "text": "Match each laryngeal cartilage or structure to its description.",
+      "answer": null,
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "pairs": [
+        {
+          "left": "Thyroid cartilage",
+          "right": "Outer cartilage; the 'Adam's apple'"
+        },
+        {
+          "left": "Cricoid cartilage",
+          "right": "Ring-shaped cartilage at the base within the thyroid"
+        },
+        {
+          "left": "Epiglottis",
+          "right": "Protects the windpipe during swallowing"
+        },
+        {
+          "left": "Arytenoid cartilages",
+          "right": "Pyramid-shaped; move the vocal folds"
+        },
+        {
+          "left": "Glottis",
+          "right": "The space between the vocal folds"
+        }
+      ]
+    },
+    {
+      "id": "ch1-q022",
+      "type": "match",
+      "text": "Match each speech subsystem to its speech function.",
+      "answer": null,
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "pairs": [
+        {
+          "left": "Respiration",
+          "right": "Provides the airstream 'power'"
+        },
+        {
+          "left": "Phonation",
+          "right": "Produces the sound (laryngeal tone)"
+        },
+        {
+          "left": "Resonation",
+          "right": "Shapes the tone, especially vowels"
+        },
+        {
+          "left": "Articulation",
+          "right": "Restricts airflow to shape consonants"
+        }
+      ]
+    },
+    {
+      "id": "ch1-q023",
+      "type": "match",
+      "text": "Match each brain/nervous-system structure to its role.",
+      "answer": null,
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00",
+      "pairs": [
+        {
+          "left": "Wernicke's area",
+          "right": "Language comprehension and formulation"
+        },
+        {
+          "left": "Broca's area",
+          "right": "Motor planning of articulation"
+        },
+        {
+          "left": "Arcuate fasciculus",
+          "right": "Connects the two language areas"
+        },
+        {
+          "left": "Pyramidal system",
+          "right": "Refined movements of lips and tongue"
+        },
+        {
+          "left": "Extrapyramidal system",
+          "right": "Gross, unskilled motor movements"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "ch1-note006",
+      "title": "The Ear (Hearing Mechanism)",
+      "body": "The ear has 3 parts: outer, middle, and inner.\n\nOUTER EAR\n- Pinna: the visible outer ear; directs sound into the ear canal.\n- External auditory meatus: the ear canal.\n- Tympanic membrane (eardrum): at the end of the ear canal; absorbs sound energy and vibrates.\n\nMIDDLE EAR\n- The eardrum is attached to a chain of tiny bones — the OSSICLES.\n- Ossicles (3 bones): malleus (hammer) → incus (anvil) → stapes (stirrup).\n- Sequence: eardrum vibrates the malleus → incus → stapes.\n- The stapes is the 'footplate' and fits into the OVAL WINDOW, moving the fluids of the inner ear.\n\nINNER EAR — two primary functions: hearing and balance\n- Balance: the semicircular canals.\n- Hearing: the cochlea (inside the temporal bone), spiral-shaped like a snail shell.\n  - Nerve pathways spiral into a cone-shaped bone, the modiolus, which connects to the auditory nerve.\n  - Sound/vibration enters the oval window → motion in the inner-ear fluids → movement of the tectorial membrane → triggers the inner hair cells (arranged by tone/frequency) → the auditory nerve carries messages to the brain.\n\n★ KEY EXAM POINTS\n- 3 parts: outer, middle, inner.\n- Ossicles IN ORDER: malleus → incus → stapes.\n- Stapes → oval window → inner-ear fluid motion.\n- Cochlea = hearing; semicircular canals = balance.\n- Full pathway: eardrum → ossicles → oval window → cochlear fluid → tectorial membrane → inner hair cells → auditory nerve → brain.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-note005",
+      "title": "The Brain",
+      "body": "The brain is divided into right and left hemispheres. Primary speech and language functions originate in the LEFT hemisphere.\n\nKEY AREAS\n- Wernicke's area: language comprehension and formulation.\n- Arcuate fasciculus: transmits language information (connects Wernicke's area to Broca's area).\n- Broca's area: motor planning and coordination of articulation.\n- Motor cortex: sends signals to the speech mechanism to produce the speech that represents the formulated language.\n\nNEURAL PATHWAY FOR SPEECH & LANGUAGE\n- Central nervous system (CNS): the pathway along which messages travel from the brain to the muscles of speech.\n  - Pyramidal system: controls refined, intricate movements (e.g., lips and tongue — the articulators).\n  - Extrapyramidal system: controls more gross and unskilled motor movements.\n- Peripheral nervous system (PNS): messages pass into the cranial and spinal nerves.\n  - 12 pairs of CRANIAL nerves (transmit sensory and motor info); 6 are primarily associated with motor speech.\n  - 31 pairs of SPINAL nerves; responsible for controlling respiration.\n\n★ KEY EXAM POINTS\n- Left hemisphere dominance for speech/language.\n- Wernicke's = comprehension; Broca's = articulation planning; arcuate fasciculus = the connection between them.\n- Pyramidal = fine/refined; extrapyramidal = gross/unskilled.\n- 12 pairs cranial nerves (6 for motor speech) · 31 pairs spinal nerves (respiration).",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-note004",
+      "title": "Resonation & Articulation",
+      "body": "RESONATION\nResonation shapes the laryngeal tone by the size and shape of the pharynx, oral (mouth), and nasal cavities.\n- Plays its most important role in shaping VOWEL sounds (open sounds with free airflow).\n- We change sounds by changing the shape of the pharynx and mouth: opening wider or narrowing, moving the tongue, rounding the lips, etc.\n- The velum (soft palate) can close the mouth off from the nasal cavity.\n\nARTICULATION\nSounds are refined further by articulation; it is hard to fully separate resonation from articulation.\n- Most associated with shaping CONSONANT sounds.\n- The ARTICULATORS: teeth, tongue, lips, alveolar ridge, hard palate, soft palate (velum), and jaw.\n- Tongue moves rapidly to shape sounds.\n- Soft palate (velum) moves up and back to close the mouth off from the nasal cavities.\n- Alveolar ridge: the hard, bumpy ridge behind the top teeth.\n\n★ KEY EXAM POINTS\n- Resonation → vowels; Articulation → consonants.\n- Three resonating cavities: pharynx, oral, nasal.\n- Be able to list all the articulators.\n- Velum/soft palate role: opens/closes the passage to the nasal cavity.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-note003",
+      "title": "Phonation",
+      "body": "Phonation is the production of sound at the larynx ('voice box').\n- Larynx PRIMARY function: protect the trachea and lungs from foreign material.\n- Larynx SECONDARY function: sound production.\n\nKEY CARTILAGES & STRUCTURES\n- Thyroid cartilage: outer cartilage; may protrude as the 'Adam's apple'; vocal folds attach here.\n- Cricoid cartilage: ring-shaped; sits within the thyroid at its base.\n- Epiglottis: attached to the cricoid; minor role in speech but protects the windpipe during swallowing.\n- Arytenoid cartilages: pyramid-shaped; sit atop the cricoid; have a vocal process and lateral process; muscles move them to open/close the vocal folds.\n- Vocal folds: muscle + ligament; attach to the thyroid and the arytenoids.\n- Glottis: the space between the vocal folds.\n- Hyoid bone: supports the laryngeal region.\n- Intrinsic muscles: ADDUCTORS bring the folds together (close the glottis); ABDUCTORS move them apart (open the glottis).\n\nTHE 5-STEP PHONATION PROCESS\n1. Adduction of the vocal folds (folds brought together, airflow restricted).\n2. Exhaled air pressure builds beneath the adducted folds.\n3. Pressure blows the folds apart, releasing a puff of air into the trachea.\n4. After the release, sub-fold pressure drops.\n5. The pressure drop + fold elasticity snaps the folds back together — the cycle repeats.\n\nVibration rate: ~120–145 times/second in males; ~200–260 times/second in females.\nThe result is a glottal/laryngeal tone until it is shaped by resonation.\n\n★ KEY EXAM POINTS\n- Larynx: protection FIRST, sound production SECOND.\n- Know the 4 key cartilages: thyroid, cricoid, epiglottis, arytenoids.\n- Glottis = space between the vocal folds.\n- Adductors = together; abductors = apart. (See heads-up note — the lecture handout stated these reversed.)\n- Be able to list the 5 steps of phonation and the male/female vibration rates.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-note002",
+      "title": "Respiration",
+      "body": "Breathing is both a life function and the first process of speech.\n- Breathing for LIFE ≈ 50% inhalation / 50% exhalation.\n- Breathing for SPEECH ≈ 15% inhalation / 85% exhalation (controlled exhalation extended up to ~15 seconds for speaking).\n\nKEY ANATOMY\n- Thoracic (thorax) cavity: contains the lungs, diaphragm, and 12 thoracic vertebrae; caged in by 12 pairs of ribs.\n- Diaphragm: primary muscle of inhalation; sits just under the lungs; dome-shaped at rest.\n- Abdomen: located below the diaphragm.\n- Lungs: PASSIVE — they receive air; they do not actively suck air in.\n- Trachea: the windpipe air travels through.\n\nPHYSIOLOGY — BOYLE'S LAW\n\"If gas is kept at a constant temperature, pressure and volume are inversely proportional to one another and have a constant product.\"\n- Inhalation: diaphragm contracts and flattens; ribs lift and swing up and out → thorax volume INCREASES → pressure DECREASES → air is forced into the lungs to equalize pressure.\n- Exhalation: muscles of inhalation relax; diaphragm returns to its dome, ribs lower → thorax volume DECREASES → pressure INCREASES → air flows out of the lungs.\n- One inhalation + one exhalation = one full cycle of respiration.\n\nRespiration then feeds into phonation: the exhaled air is forced through points of constriction.\n\n★ KEY EXAM POINTS\n- Life 50/50 vs. speech 15/85 breathing ratios.\n- Diaphragm = primary muscle of inhalation; flattens on contraction.\n- Lungs are passive; airflow is driven by pressure/volume (Boyle's Law), not by the lungs \"pulling.\"\n- Volume ↑ = pressure ↓ (air in); volume ↓ = pressure ↑ (air out).",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch1-note001",
+      "title": "Overview: Speech, Language & the Four Processes",
+      "body": "Lecture 1 covers the four subsystems of speech, the brain, and the hearing mechanism.\n\nSPEECH vs. LANGUAGE\n- Language is largely innate; speech is learned (innate & learned).\n- Key theme: \"All of the structures involved in producing speech are designed for other, more basic biological purposes.\"\n\nTHE FOUR PROCESSES OF SPEECH (in order)\n1. Respiration\n2. Phonation\n3. Resonation\n4. Articulation\n\nEach subsystem has a BIOLOGICAL function and a SPEECH function:\n- Respiration — bio: breathing / O2–CO2 exchange · speech: provides the 'power' (airstream)\n- Phonation — bio: airway protection · speech: produces sound\n- Resonation — bio: filter/humidify air, eating · speech: shapes the sound from the vocal folds\n- Articulation — bio: eating, moving the bolus · speech: restricts the airstream to form speech sounds\n\n★ KEY EXAM POINTS\n- Memorize the four processes IN ORDER: Respiration → Phonation → Resonation → Articulation.\n- Be able to give both the bio and speech function for each subsystem.\n- Speech structures are all \"borrowed\" from more basic biological systems.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "Lecture 1",
+      "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
+      "created": "2026-08-19T17:17:56-07:00"
+    }
+  ],
   "questionStats": {}
 }
