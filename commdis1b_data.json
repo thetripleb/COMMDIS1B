@@ -13,6 +13,15 @@
         "Lecture 1"
       ],
       "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "mod-2",
+      "name": "Language Acquisition: Theories & Communication Foundations",
+      "desc": "Communication foundations (terminology, framework, Hockett's design features, the speech chain, brain), the nature–nurture debate, and the three theory families — nativism, behaviorism, and interactionism — with Chomsky's LAD and transformational grammar, Skinner's operant conditioning, and the interactionist views (Vygotsky, Piaget, semantic/cognitive/social).",
+      "chapters": [
+        "Chapter 2"
+      ],
+      "created": "2026-08-19T18:05:00-07:00"
     }
   ],
   "glossary": [
@@ -481,7 +490,7 @@
       "term": "Case grammar",
       "def": "Semantic theory developed by Charles Fillmore to explain the importance and influence of semantics on the form of language; a form of generative grammar that describes the deep structure of sentences in terms of the relation of a verb to a set of semantic cases.",
       "image": null,
-      "module": null,
+      "module": "mod-2",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -611,7 +620,7 @@
       "term": "Communication",
       "def": "Sending and receiving information, ideas, feelings, or messages.",
       "image": null,
-      "module": null,
+      "module": "mod-2",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -1101,7 +1110,7 @@
       "term": "Echolalia",
       "def": "Imitation or repetition of words, phrases, or whole sentences spoken by another person.",
       "image": null,
-      "module": null,
+      "module": "mod-2",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -1191,7 +1200,7 @@
       "term": "Expressive language",
       "def": "Producing and conveying communicative messages through speaking, writing, signing, or gestures.",
       "image": null,
-      "module": null,
+      "module": "mod-2",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -1421,7 +1430,7 @@
       "term": "Illocutionary act",
       "def": "Purpose or motive underlying an utterance.",
       "image": null,
-      "module": null,
+      "module": "mod-2",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -1491,7 +1500,7 @@
       "term": "Indexicality",
       "def": "Pragmatic feature of language referring to the circumstances or context in which a communicative message takes place; situational context is important in establishing meaning in our communicative attempts.",
       "image": null,
-      "module": null,
+      "module": "mod-2",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -1531,7 +1540,7 @@
       "term": "Information processing theory",
       "def": "Theory that examines the sequence and execution of cognitive events, focusing on how individuals attend, encode, relate, store, and retrieve information, particularly for language acquisition purposes.",
       "image": null,
-      "module": null,
+      "module": "mod-2",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -1621,7 +1630,7 @@
       "term": "Interchangeability",
       "def": "Anything that people are able to hear, they are also able to reproduce through spoken language; Charles Hockett's fourth \"design-feature\" of language.",
       "image": null,
-      "module": null,
+      "module": "mod-2",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -1731,7 +1740,7 @@
       "term": "Language",
       "def": "System of arbitrary, established symbols and rule-governed structures used for communication that change over time; conventionalized sounds, signs, gestures, or symbols that have shared and understood meanings.",
       "image": null,
-      "module": null,
+      "module": "mod-2",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -1741,7 +1750,7 @@
       "term": "Language acquisition device (LAD)",
       "def": "Concept of the nativist theory of language that humans are born with the innate \"device\" for acquiring language.",
       "image": null,
-      "module": null,
+      "module": "mod-2",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -1801,7 +1810,7 @@
       "term": "Learnability",
       "def": "Idea that learning occurs when people's innate capacity for learning, a learning environment, and some stimulus for learning that comes from learners themselves are combined, suggesting that cognitive structures interact with experience to produce learning.",
       "image": null,
-      "module": null,
+      "module": "mod-2",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -1871,7 +1880,7 @@
       "term": "Locutionary act",
       "def": "Producing an utterance using words via speaking, signing, or using assistive technology.",
       "image": null,
-      "module": null,
+      "module": "mod-2",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -2071,7 +2080,7 @@
       "term": "Morpheme",
       "def": "Smallest grammatical unit in a language that conveys meaning.",
       "image": null,
-      "module": null,
+      "module": "mod-2",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -2371,7 +2380,7 @@
       "term": "Perlocutionary act",
       "def": "Effect a locutionary act might have on a listener, which may or may not be consistent with the speaker's communicative intention.",
       "image": null,
-      "module": null,
+      "module": "mod-2",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -2451,7 +2460,7 @@
       "term": "Phonology",
       "def": "Study of speech sounds and the rules that determine how sounds can be sequenced into syllables and words in a language.",
       "image": null,
-      "module": null,
+      "module": "mod-2",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -2601,7 +2610,7 @@
       "term": "Pragmatics",
       "def": "Component of language regarding the ability to functionally use language in social contexts; the rules for social language needed to establish and maintain relationships with others.",
       "image": null,
-      "module": null,
+      "module": "mod-2",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -2661,7 +2670,7 @@
       "term": "Prevarication",
       "def": "Ability of humans to intentionally deceive others in their communications.",
       "image": null,
-      "module": null,
+      "module": "mod-2",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -2841,7 +2850,7 @@
       "term": "Punishment",
       "def": "Consequence used to cause a behavior to occur with less frequency.",
       "image": null,
-      "module": null,
+      "module": "mod-2",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -2881,7 +2890,7 @@
       "term": "Receptive language",
       "def": "Listening to and understanding what is communicated; the ability to comprehend a message.",
       "image": null,
-      "module": null,
+      "module": "mod-2",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -2961,7 +2970,7 @@
       "term": "Reinforcement",
       "def": "Consequence used to cause a behavior to occur with greater frequency.",
       "image": null,
-      "module": null,
+      "module": "mod-2",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -3141,7 +3150,7 @@
       "term": "Semanticity",
       "def": "Ability to use human speech to convey particular messages, and the idea that speech is needed in most cases to ensure the specificity of messages; Charles Hockett's seventh \"design-feature\" of language.",
       "image": null,
-      "module": null,
+      "module": "mod-2",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -3151,7 +3160,7 @@
       "term": "Semantics",
       "def": "Component of language regarding the meaning and interpretation of language; the use of vocabulary to construct ideas through relationships between words.",
       "image": null,
-      "module": null,
+      "module": "mod-2",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -3341,7 +3350,7 @@
       "term": "Speech",
       "def": "Oral expression of language.",
       "image": null,
-      "module": null,
+      "module": "mod-2",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -3461,7 +3470,7 @@
       "term": "Suprasegmental",
       "def": "Features of speech, such as stress, pitch, and duration, that accompany individual speech sounds, words, and sentences.",
       "image": null,
-      "module": null,
+      "module": "mod-2",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -3511,7 +3520,7 @@
       "term": "Syntax",
       "def": "Rules that govern the ways in which words combine to form phrases, clauses, and sentences; sentence structure.",
       "image": null,
-      "module": null,
+      "module": "mod-2",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -3905,6 +3914,336 @@
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "ch2-cob-g001",
+      "term": "Morphology",
+      "def": "The study of morphemes: how word parts combine to build words and convey grammatical meaning.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Connection of Brains",
+      "source": "Connection of Brains (S. Herrera) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-cob-g002",
+      "term": "Fluency",
+      "def": "The smoothness, rate, and continuity (flow) of connected speech.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Connection of Brains",
+      "source": "Connection of Brains (S. Herrera) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-cob-g003",
+      "term": "Voice",
+      "def": "The vocal quality produced at the larynx — pitch, loudness, and resonance/quality.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Connection of Brains",
+      "source": "Connection of Brains (S. Herrera) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-cob-g004",
+      "term": "Communication framework",
+      "def": "A model that divides communication into SPEECH (articulation, phonology, fluency, voice) and LANGUAGE (semantics, morphology, syntax, pragmatics); components of one can influence the other.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Connection of Brains",
+      "source": "Connection of Brains (S. Herrera) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-cob-g005",
+      "term": "The Speech Chain",
+      "def": "The chain of events connecting a speaker's brain to a listener's brain during communication, moving through linguistic, physiological, and acoustic levels and back.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Connection of Brains",
+      "source": "Connection of Brains (S. Herrera) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-cob-g006",
+      "term": "Reflexivity",
+      "def": "A Hockett design feature: language can be used to talk about language itself.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Connection of Brains",
+      "source": "Connection of Brains (S. Herrera) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-ppt-g001",
+      "term": "Nature (nature–nurture debate)",
+      "def": "The position that development is driven primarily by genetics/biology — we are 'born this way.'",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-ppt-g002",
+      "term": "Nurture (nature–nurture debate)",
+      "def": "The position that development is driven primarily by environment and experience.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-ppt-g003",
+      "term": "Nativism",
+      "def": "The theory that language is innate and biologically based (an argument for NATURE); humans are pre-wired to acquire language.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-ppt-g004",
+      "term": "Behaviorism",
+      "def": "The theory that language is a learned behavior shaped mainly by the environment (an argument for NURTURE).",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-ppt-g005",
+      "term": "Interactionism",
+      "def": "A moderate view on the nature–nurture continuum holding that both biological and environmental factors matter and that language develops through the child's social interactions.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-ppt-g006",
+      "term": "Noam Chomsky",
+      "def": "The linguist most associated with nativism, generative grammar, and the LAD; argued all humans acquire language.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-ppt-g007",
+      "term": "B.F. Skinner",
+      "def": "The behaviorist who argued language is learned through operant conditioning (reinforcement and punishment).",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-ppt-g008",
+      "term": "Operant conditioning",
+      "def": "Learning in which behavior is shaped by its consequences — reinforcement increases behavior, punishment decreases it.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-ppt-g009",
+      "term": "Empty vessel analogy",
+      "def": "The behaviorist metaphor of the child's mind as a blank container that the environment fills with language.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-ppt-g010",
+      "term": "Lev Vygotsky",
+      "def": "A social-interactionist theorist who emphasized that social interaction drives development; originated the Zone of Proximal Development.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-ppt-g011",
+      "term": "Zone of Proximal Development (ZPD)",
+      "def": "Vygotsky's concept: the gap between what a child can do independently and what they can do with guidance/support.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-ppt-g012",
+      "term": "Jean Piaget",
+      "def": "A cognitive theorist who held that language development mirrors (follows from) cognitive development, beginning in the sensorimotor period.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-ppt-g013",
+      "term": "Sensorimotor period",
+      "def": "Piaget's first stage of cognitive development (birth–2 years), when symbolic play parallels the child's realization that words stand for people, places, and things.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-ppt-g014",
+      "term": "Semantic view",
+      "def": "An interactionist view that shifts emphasis from structure to meaning in explaining language.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-ppt-g015",
+      "term": "Lois Bloom",
+      "def": "A researcher who stressed the role of context — both linguistic and non-linguistic information — in understanding child language.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-ppt-g016",
+      "term": "Cognitive view",
+      "def": "An interactionist view holding that language is neither purely innate nor purely learned, but reflects and parallels cognitive development.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-ppt-g017",
+      "term": "Social interactionist view",
+      "def": "An interactionist view emphasizing that children interact socially before producing language and that language develops from those interactions; focuses on language USE (pragmatics).",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-ppt-g018",
+      "term": "Parentese",
+      "def": "The simplified, exaggerated, and repetitive speech register caregivers use with infants and young children (child-directed speech).",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-ppt-g019",
+      "term": "Speech Act Theory",
+      "def": "The theory that utterances perform acts, analyzed as locutionary, illocutionary, and perlocutionary acts.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-g001",
+      "term": "Biological nativists",
+      "def": "Theorists who argue oral language is instinctive and genetically coded, produced with minimal environmental input.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Chapter 2",
+      "source": "Born to Talk, Ch. 2: Language Acquisition — A Theoretical Journey",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-g002",
+      "term": "Linguistic universals",
+      "def": "Structural features and rules shared by all human languages, taken by nativists as evidence that language is part of human biology.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Chapter 2",
+      "source": "Born to Talk, Ch. 2: Language Acquisition — A Theoretical Journey",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-g003",
+      "term": "Competence",
+      "def": "A speaker's underlying knowledge of the rules of their language; nativists stress competence over performance.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Chapter 2",
+      "source": "Born to Talk, Ch. 2: Language Acquisition — A Theoretical Journey",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-g004",
+      "term": "Performance",
+      "def": "The actual production and use of language, as distinct from the underlying competence.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Chapter 2",
+      "source": "Born to Talk, Ch. 2: Language Acquisition — A Theoretical Journey",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-g005",
+      "term": "Mirror neuron system (MNS)",
+      "def": "A network of mirror neurons implicated in imitation; differences in the MNS have been linked to autism spectrum disorder.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Chapter 2",
+      "source": "Born to Talk, Ch. 2: Language Acquisition — A Theoretical Journey",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-g006",
+      "term": "Washoe",
+      "def": "A chimpanzee taught American Sign Language by the Gardners; learned 100+ signs and combined them, but showed no consistent grammatical rules.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Chapter 2",
+      "source": "Born to Talk, Ch. 2: Language Acquisition — A Theoretical Journey",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-g007",
+      "term": "Kanzi",
+      "def": "A bonobo (pygmy chimpanzee) who acquired symbols by exposure rather than direct teaching and showed some sensitivity to word order.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Chapter 2",
+      "source": "Born to Talk, Ch. 2: Language Acquisition — A Theoretical Journey",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-g008",
+      "term": "Vocabulary spurt",
+      "def": "The period of rapid vocabulary growth (roughly 18–20 months), associated with the temporary naming deficit.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Chapter 2",
+      "source": "Born to Talk, Ch. 2: Language Acquisition — A Theoretical Journey",
+      "created": "2026-08-19T18:05:00-07:00"
     }
   ],
   "flashcards": [
@@ -4157,6 +4496,286 @@
       "chapter": "Lecture 1",
       "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
       "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch2-ppt-f001",
+      "front": "Nativism argues for which side of the nature–nurture debate?",
+      "back": "NATURE — language is innate and biologically based.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-ppt-f002",
+      "front": "Who is the figurehead of nativism, and what did he claim?",
+      "back": "Noam Chomsky — 'all humans acquire language'; proposed the LAD.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-ppt-f003",
+      "front": "What is the Language Acquisition Device (LAD)?",
+      "back": "Chomsky's innate mental mechanism holding the universal rules of language that lets a child acquire any language they're exposed to.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-ppt-f004",
+      "front": "Behaviorism argues for which side of the debate, and by what mechanism?",
+      "back": "NURTURE — language is a learned behavior acquired through operant conditioning (Skinner).",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-ppt-f005",
+      "front": "What does the 'empty vessel' analogy represent?",
+      "back": "The behaviorist idea that the child's mind is a blank container the environment fills with language.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-ppt-f006",
+      "front": "What is the interactionist position?",
+      "back": "A moderate view: both biology and environment matter, and language develops through the child's social interactions with caregivers.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-ppt-f007",
+      "front": "Vygotsky is known for which key concept?",
+      "back": "The Zone of Proximal Development (ZPD) — the gap between what a child can do alone vs. with guidance.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-ppt-f008",
+      "front": "How does Piaget relate language to cognition?",
+      "back": "Language development mirrors cognitive development; it emerges during the sensorimotor period (birth–2).",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-ppt-f009",
+      "front": "Name the three interactionist views.",
+      "back": "Semantic view, cognitive view, and social interactionist view.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-ppt-f010",
+      "front": "Semantic view: whose grammar, and what determines structure?",
+      "back": "Fillmore's case grammar — structure is dictated by the semantic relationship of verb and nouns (Bloom emphasized context).",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-ppt-f011",
+      "front": "What does the cognitive view claim about language?",
+      "back": "Language is neither innate nor learned; it parallels cognitive development (Piaget; Information Processing Theory).",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-ppt-f012",
+      "front": "What does the social interactionist view focus on?",
+      "back": "Language USE — pragmatics; social interaction precedes and drives language, supported by parentese.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-ppt-f013",
+      "front": "Name the three acts in Speech Act Theory.",
+      "back": "Locutionary (the utterance), illocutionary (the intended function), perlocutionary (the effect on the listener).",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-f001",
+      "front": "In transformational generative grammar, what are the two levels?",
+      "back": "Deep structure (underlying, universal, from phrase structure rules) and surface structure (the actual form after transformations, language-specific).",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Chapter 2",
+      "source": "Born to Talk, Ch. 2: Language Acquisition — A Theoretical Journey",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-f002",
+      "front": "Competence vs. performance?",
+      "back": "Competence = underlying knowledge of the language's rules; performance = actual use/production. Nativists stress competence.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Chapter 2",
+      "source": "Born to Talk, Ch. 2: Language Acquisition — A Theoretical Journey",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-f003",
+      "front": "Linguistic universals are used as evidence for which theory?",
+      "back": "Nativism — shared rules across all languages suggest language is part of human biology.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Chapter 2",
+      "source": "Born to Talk, Ch. 2: Language Acquisition — A Theoretical Journey",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-f004",
+      "front": "What did Washoe demonstrate, and what was the key limitation?",
+      "back": "A chimp learned 100+ ASL signs and combined them, but showed no consistent grammar/syntax.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Chapter 2",
+      "source": "Born to Talk, Ch. 2: Language Acquisition — A Theoretical Journey",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-f005",
+      "front": "What made Kanzi notable?",
+      "back": "A bonobo who acquired symbols by exposure (not direct teaching) and showed some comprehension of word order.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Chapter 2",
+      "source": "Born to Talk, Ch. 2: Language Acquisition — A Theoretical Journey",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-cob-f001",
+      "front": "What are mirror neurons?",
+      "back": "Neurons that fire both when an individual performs an action and when they observe that action; theorized to support imitation and speech/language development.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Connection of Brains",
+      "source": "Connection of Brains (S. Herrera) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-cob-f002",
+      "front": "What is brain plasticity?",
+      "back": "The brain's ability to change and adapt its structure and function in response to experience.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Connection of Brains",
+      "source": "Connection of Brains (S. Herrera) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-cob-f003",
+      "front": "What is the self-organizing neural network?",
+      "back": "The brain's storage/filing system for words — how it organizes and retrieves vocabulary in memory.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Connection of Brains",
+      "source": "Connection of Brains (S. Herrera) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-cob-f004",
+      "front": "Receptive vs. expressive language?",
+      "back": "Receptive = comprehension (listening, reading). Expressive = production (speaking, writing, signing, AAC).",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Connection of Brains",
+      "source": "Connection of Brains (S. Herrera) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-cob-f005",
+      "front": "Communication framework: name the SPEECH components and the LANGUAGE components.",
+      "back": "Speech: articulation, phonology, fluency, voice. Language: semantics, morphology, syntax, pragmatics.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Connection of Brains",
+      "source": "Connection of Brains (S. Herrera) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-cob-f006",
+      "front": "What is a morpheme?",
+      "back": "The smallest unit of meaning in a language.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Connection of Brains",
+      "source": "Connection of Brains (S. Herrera) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-cob-f007",
+      "front": "What are suprasegmentals?",
+      "back": "Features layered over speech sounds that convey meaning: pitch, rate, and stress.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Connection of Brains",
+      "source": "Connection of Brains (S. Herrera) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-cob-f008",
+      "front": "What is echolalia?",
+      "back": "Imitation of words/phrases/sentences without understanding their meaning.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Connection of Brains",
+      "source": "Connection of Brains (S. Herrera) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-cob-f009",
+      "front": "List the five levels of the speech chain in order.",
+      "back": "Linguistic → physiological → acoustic → physiological → linguistic ('brain to brain').",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Connection of Brains",
+      "source": "Connection of Brains (S. Herrera) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-cob-f010",
+      "front": "Who compiled the design features that distinguish human communication?",
+      "back": "Charles Hockett (the Characteristics of Human Communication).",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Connection of Brains",
+      "source": "Connection of Brains (S. Herrera) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
     }
   ],
   "questions": [
@@ -4516,6 +5135,350 @@
           "right": "Gross, unskilled motor movements"
         }
       ]
+    },
+    {
+      "id": "ch2-ppt-q001",
+      "type": "mc",
+      "text": "Nativism argues that language is primarily a product of:",
+      "answer": "Nature (biology)",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00",
+      "options": [
+        "Nurture (environment)",
+        "Nature (biology)",
+        "Reinforcement",
+        "Social interaction"
+      ]
+    },
+    {
+      "id": "ch2-ppt-q002",
+      "type": "mc",
+      "text": "Who proposed the Language Acquisition Device (LAD)?",
+      "answer": "Noam Chomsky",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00",
+      "options": [
+        "B.F. Skinner",
+        "Jean Piaget",
+        "Noam Chomsky",
+        "Lev Vygotsky"
+      ]
+    },
+    {
+      "id": "ch2-ppt-q003",
+      "type": "mc",
+      "text": "Behaviorism explains language acquisition mainly through:",
+      "answer": "Operant conditioning",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00",
+      "options": [
+        "The LAD",
+        "Operant conditioning",
+        "Linguistic universals",
+        "The Zone of Proximal Development"
+      ]
+    },
+    {
+      "id": "ch2-ppt-q004",
+      "type": "mc",
+      "text": "The Zone of Proximal Development is associated with which theorist?",
+      "answer": "Lev Vygotsky",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00",
+      "options": [
+        "Jean Piaget",
+        "Noam Chomsky",
+        "Lev Vygotsky",
+        "Charles Hockett"
+      ]
+    },
+    {
+      "id": "ch2-ppt-q005",
+      "type": "mc",
+      "text": "In Piaget's model, language first emerges during which stage?",
+      "answer": "The sensorimotor period",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00",
+      "options": [
+        "The sensorimotor period",
+        "The LAD stage",
+        "The vocabulary spurt",
+        "The perlocutionary stage"
+      ]
+    },
+    {
+      "id": "ch2-ppt-q006",
+      "type": "mc",
+      "text": "Which is NOT one of the three interactionist views?",
+      "answer": "Nativist view",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00",
+      "options": [
+        "Semantic view",
+        "Cognitive view",
+        "Social interactionist view",
+        "Nativist view"
+      ]
+    },
+    {
+      "id": "ch2-ppt-q007",
+      "type": "tf",
+      "text": "Interactionism holds that only the environment matters in language development.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-ppt-q008",
+      "type": "tf",
+      "text": "Parentese is associated with the social interactionist view.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-ppt-q009",
+      "type": "fitb",
+      "text": "Fillmore's ______ grammar holds that sentence structure is dictated by the semantic relationship of verb and nouns.",
+      "answer": "case",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-ppt-q010",
+      "type": "fitb",
+      "text": "Skinner explained language as a learned behavior shaped by ______ conditioning.",
+      "answer": "operant",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-ppt-q011",
+      "type": "match",
+      "text": "Match each theorist to the concept they are associated with.",
+      "answer": null,
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00",
+      "pairs": [
+        {
+          "left": "Noam Chomsky",
+          "right": "Language Acquisition Device"
+        },
+        {
+          "left": "B.F. Skinner",
+          "right": "Operant conditioning"
+        },
+        {
+          "left": "Lev Vygotsky",
+          "right": "Zone of Proximal Development"
+        },
+        {
+          "left": "Jean Piaget",
+          "right": "Sensorimotor period"
+        },
+        {
+          "left": "Charles Fillmore",
+          "right": "Case grammar"
+        }
+      ]
+    },
+    {
+      "id": "ch2-ppt-q012",
+      "type": "match",
+      "text": "Match each theory to its stance on the nature–nurture continuum.",
+      "answer": null,
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00",
+      "pairs": [
+        {
+          "left": "Nativism",
+          "right": "Nature (innate/biological)"
+        },
+        {
+          "left": "Behaviorism",
+          "right": "Nurture (learned/environmental)"
+        },
+        {
+          "left": "Interactionism",
+          "right": "Both nature and nurture"
+        },
+        {
+          "left": "Cognitive view",
+          "right": "Follows cognitive development"
+        }
+      ]
+    },
+    {
+      "id": "ch2-ppt-q013",
+      "type": "sa",
+      "text": "Compare and contrast the nativist and behaviorist perspectives on language acquisition.",
+      "answer": "Nativism (Chomsky) argues for NATURE: language is innate and biologically based, driven by an innate LAD, acquired early and universally with the environment acting only as a trigger. Behaviorism (Skinner) argues for NURTURE: language is a learned behavior, with the environment as the critical factor, shaped through operant conditioning (reinforcement and punishment); the child is treated like an 'empty vessel' filled by experience. Nativism stresses innate competence and linguistic universals; behaviorism stresses environmental modeling and learning.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-ppt-q014",
+      "type": "match",
+      "text": "Match each speech act to its definition.",
+      "answer": null,
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00",
+      "pairs": [
+        {
+          "left": "Locutionary act",
+          "right": "The actual utterance/words produced"
+        },
+        {
+          "left": "Illocutionary act",
+          "right": "The intended function behind the utterance"
+        },
+        {
+          "left": "Perlocutionary act",
+          "right": "The effect the utterance has on the listener"
+        }
+      ]
+    },
+    {
+      "id": "ch2-q001",
+      "type": "mc",
+      "text": "In transformational generative grammar, the underlying, universal level of structure is called:",
+      "answer": "Deep structure",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Chapter 2",
+      "source": "Born to Talk, Ch. 2: Language Acquisition — A Theoretical Journey",
+      "created": "2026-08-19T18:05:00-07:00",
+      "options": [
+        "Surface structure",
+        "Deep structure",
+        "Case structure",
+        "Phrase performance"
+      ]
+    },
+    {
+      "id": "ch2-q002",
+      "type": "mc",
+      "text": "Washoe, the chimpanzee, was taught to communicate using:",
+      "answer": "American Sign Language",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Chapter 2",
+      "source": "Born to Talk, Ch. 2: Language Acquisition — A Theoretical Journey",
+      "created": "2026-08-19T18:05:00-07:00",
+      "options": [
+        "Spoken English",
+        "American Sign Language",
+        "A keyboard of symbols",
+        "Morse code"
+      ]
+    },
+    {
+      "id": "ch2-q003",
+      "type": "tf",
+      "text": "Nativists stress competence (underlying knowledge) over performance (actual use).",
+      "answer": "True",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Chapter 2",
+      "source": "Born to Talk, Ch. 2: Language Acquisition — A Theoretical Journey",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-q004",
+      "type": "tf",
+      "text": "Kanzi the bonobo demonstrated full, adult-like syntax.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Chapter 2",
+      "source": "Born to Talk, Ch. 2: Language Acquisition — A Theoretical Journey",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-q005",
+      "type": "fitb",
+      "text": "Structural features shared by all human languages are called linguistic ______.",
+      "answer": "universals",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Chapter 2",
+      "source": "Born to Talk, Ch. 2: Language Acquisition — A Theoretical Journey",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-q006",
+      "type": "sa",
+      "text": "Describe the speech chain and the levels a message passes through.",
+      "answer": "The speech chain describes the connection between a speaker and a listener. The speaker forms a thought and selects/orders words (linguistic level), the brain sends motor commands to the speech systems which produce speech (physiological level), sound waves travel to the listener (acoustic level), the listener's hearing mechanism captures the sound (physiological level), and the listener's brain interprets the message (linguistic level) — brain to brain.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Chapter 2",
+      "source": "Born to Talk, Ch. 2: Language Acquisition — A Theoretical Journey",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-cob-q001",
+      "type": "tf",
+      "text": "Mirror neurons fire both when an individual performs an action and when they observe that action.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Connection of Brains",
+      "source": "Connection of Brains (S. Herrera) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-cob-q002",
+      "type": "fitb",
+      "text": "The brain's ability to change and adapt its structure and function in response to experience is called ______.",
+      "answer": "plasticity",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Connection of Brains",
+      "source": "Connection of Brains (S. Herrera) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
     }
   ],
   "notes": [
@@ -4578,6 +5541,86 @@
       "chapter": "Lecture 1",
       "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
       "created": "2026-08-19T17:17:56-07:00"
+    },
+    {
+      "id": "ch2-cob-note001",
+      "title": "Communication Foundations & Terminology",
+      "body": "KEY TERMS (Connection of Brains)\n- Communication: sending and receiving of information.\n- Language: arbitrary symbols organized by rules characteristic of our culture.\n- Receptive language: comprehension — listening (spoken) and reading (written).\n- Expressive language: production — speaking, writing, and other forms (sign language, AAC devices).\n- Speech: oral expression of language; articulation and shaping of sounds.\n- Pragmatics: use of language for social interaction; the unwritten rules of relationships.\n- Semantics: use of words to convey meaning; vocabulary.\n- Syntax: grammar and rules for sentence structure.\n- Morpheme: smallest unit of meaning.\n- Suprasegmental: pitch, rate, stress — features that give character and meaning to speech.\n- Echolalia: imitation of words/phrases without understanding meaning.\n\nCOMMUNICATION FRAMEWORK\n- SPEECH components: Articulation, Phonology, Fluency, Voice.\n- LANGUAGE components: Semantics, Morphology, Syntax, Pragmatics.\n- Speech and language components influence one another (e.g., articulation/phonology errors can affect morphology; voice/intonation can change pragmatic meaning).\n\nCHARACTERISTICS OF LANGUAGE\n- Innate in humans.\n- We learn the language we are exposed to.\n- Exists in the mind.\n- A system of arbitrary symbols.\n- Rule-governed structure defined by our culture.\n\n★ KEY EXAM POINTS\n- Receptive = comprehension (listen/read); Expressive = production (speak/write/sign/AAC).\n- Know the SPEECH vs LANGUAGE split of the communication framework.\n- Morpheme = smallest unit of MEANING (not sound).\n- Echolalia = imitation WITHOUT understanding.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Connection of Brains",
+      "source": "Connection of Brains (S. Herrera) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-cob-note002",
+      "title": "Hockett's Characteristics of Human Communication",
+      "body": "Charles Hockett identified design features that help distinguish human communication from that of other species.\n\n- Discreteness: messages are built from separate, distinct units.\n- Interchangeability: a user can both send and receive the same messages.\n- Semanticity & indexicality: signals carry stable meaning and can point to specific referents.\n- Productivity: an infinite number of novel messages can be created.\n- Displacement: we can talk about things removed in time and space (past/future/elsewhere).\n- Duality of patterning: meaningless units (sounds) combine into meaningful units (words).\n- Recursion: structures can be embedded within structures.\n- Prevarication: language can be used to lie or deceive.\n- Reflexivity: language can be used to talk about language itself.\n- Learnability: a speaker of one language can learn another.\n\n★ KEY EXAM POINTS\n- Be able to give a one-line example of each feature.\n- Displacement and productivity are classic \"what makes human language special\" answers.\n- Duality of patterning = sound level + meaning level.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Connection of Brains",
+      "source": "Connection of Brains (S. Herrera) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-cob-note003",
+      "title": "The Speech Chain",
+      "body": "The speech chain describes the connection between a speaker and a listener — a six-step process, \"brain to brain.\"\n\nSIX STEPS\n1. Think (\"internal\"): the speaker forms and prepares the thought to be expressed.\n2. The speaker selects the right words and grammatical forms and orders them correctly.\n3. The speaker's brain sends messages to the speech muscles and systems.\n4. The speech systems constrict airflow to produce vibrations in the larynx, creating air-pressure changes (sound waves / voice).\n5. The sound waves reach the listener and are picked up by the hearing mechanism.\n6. The listener's brain analyzes and interprets the neural impulses, recognizing the message.\n\nFIVE LEVELS (as it crosses from speaker to listener)\nLinguistic → Physiological → Acoustic → Physiological → Linguistic.\n- Message originates in the brain (linguistic), brain-to-body forms speech (physiological), sound is produced (acoustic), the listener captures it (physiological), and the brain interprets it (linguistic).\n\n★ KEY EXAM POINTS\n- Memorize the level sequence: linguistic → physiological → acoustic → physiological → linguistic.\n- \"Brain to brain completes the speech chain.\"\n- It all happens nearly instantly.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Connection of Brains",
+      "source": "Connection of Brains (S. Herrera) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-cob-note004",
+      "title": "The Brain in Language (Review + New Concepts)",
+      "body": "REVIEW — cortical language areas (from Module 1):\n- Wernicke's area: finding the words we need and understanding language (comprehension).\n- Arcuate fasciculus: connects and transports information from Wernicke's area to Broca's area.\n- Broca's area: organizes and sends signals for how to physically produce speech.\n\nNEW CONCEPTS this module:\n- Mirror neurons: fire both when we perform an action AND when we observe others; theorized to support imitation and speech/language development. (In humans, the analog of monkey area F5 is Broca's area.)\n- Mirror neuron system (MNS): the broader network; differences in the MNS have been linked to autism spectrum disorder.\n- Plasticity: the brain's ability to change and adapt its structure and function with experience.\n- Self-organizing neural network: the brain's storage/\"filing system\" for words (memory and organization); explains phenomena like the naming deficit and the age-of-acquisition effect.\n\n★ KEY EXAM POINTS\n- Wernicke's = comprehension; Broca's = production; arcuate fasciculus = the connection.\n- Mirror neurons: DOING and OBSERVING both trigger them.\n- Plasticity = change with experience; supports the \"language is innate\" argument alongside dedicated brain structures.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Connection of Brains",
+      "source": "Connection of Brains (S. Herrera) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-ppt-note001",
+      "title": "Nature vs. Nurture & the Three Theory Families",
+      "body": "The theories of language acquisition sit along a nature–nurture continuum.\n\n- NATURE: development is driven by genetics/biology — \"born this way.\"\n- NURTURE: development is driven by environment and experience.\n\nTHREE FAMILIES\n1. Nativism — argument for NATURE. Language is innate and biologically based; humans are pre-wired to acquire language (Chomsky, LAD, linguistic universals). Support: dedicated brain structures (Broca's, Wernicke's, arcuate fasciculus), mirror neurons, and plasticity.\n2. Behaviorism — argument for NURTURE. Language is a learned behavior; the environment is the critical factor (Skinner, operant conditioning, reinforcement/punishment, \"empty vessel\").\n3. Interactionism — a MODERATE view. Both biological and environmental factors matter; language develops in the social context of the child's interactions with caregivers.\n\n★ KEY EXAM POINTS\n- Map each theory to nature / nurture / both.\n- Nativism = nature; Behaviorism = nurture; Interactionism = both.\n- Neither extreme fully discounts the other — the modern consensus is \"both born and made.\"",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-note001",
+      "title": "Nativism — Deep Dive",
+      "body": "CORE CLAIM\nLanguage is innate, universal, and unique to humans. Nativists (biological nativists) argue oral language is instinctive and genetically coded, acquired with minimal environmental involvement; the environment merely triggers a natural biological process.\n\nKEY IDEAS\n- Noam Chomsky: figurehead; \"all humans acquire language.\"\n- Language Acquisition Device (LAD): innate reservoir of universal language-structure rules; takes the child's language input and generates the grammar of the native language.\n- Linguistic universals: rules and structural relationships common to all languages — offered as evidence that language is part of being human.\n- Competence vs. performance: nativists stress competence (underlying knowledge) over performance (actual use).\n- Transformational generative grammar (Chomsky, 1957): language processed at two levels.\n  - Phrase structure rules → DEEP structure: underlying relationships; universal across languages.\n  - Transformations → SURFACE structure: rearrangement rules; language-specific.\n\nBIOLOGY SUPPORT\n- Specialized brain areas (Wernicke's, Broca's, arcuate fasciculus, motor cortex), mirror neurons, and plasticity.\n- Genetic evidence: family-aggregation and twin studies; an autosomal-dominant pattern in some grammatical impairments; the SPCH1 region on chromosome 7q31 linked to speech/language deficits.\n\nANIMAL LANGUAGE STUDIES (limits of non-human \"language\")\n- Washoe (chimp, Gardners): 100+ ASL signs, combined them, but no consistent grammar.\n- Kanzi (bonobo, Savage-Rumbaugh): acquired symbols by exposure; showed some word-order comprehension.\n- Overall: apes can acquire and combine symbols but show no adult-like syntax; supports the view that true language is uniquely human.\n\n★ KEY EXAM POINTS\n- LAD = innate, universal rules; deep structure = universal, surface structure = language-specific.\n- Linguistic universals + rapid/early/universal acquisition = the nativist argument.\n- Washoe = ASL/no grammar; Kanzi = learned by exposure/some word order.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Chapter 2",
+      "source": "Born to Talk, Ch. 2: Language Acquisition — A Theoretical Journey",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-ppt-note002",
+      "title": "Behaviorism",
+      "body": "CORE CLAIM\nLanguage is a learned behavior and the environment is the most critical factor (an argument for NURTURE).\n\nKEY IDEAS\n- B.F. Skinner: language acquired through operant conditioning.\n- Operant conditioning: behavior shaped by consequences.\n  - Reinforcement increases a behavior.\n  - Punishment decreases a behavior.\n- Empty vessel analogy: the child's mind is a blank container the environment fills.\n\n★ KEY EXAM POINTS\n- Behaviorism = nurture; Skinner = operant conditioning.\n- Reinforcement ↑ behavior; punishment ↓ behavior.\n- A common nativist critique: children are exposed to complex, inconsistent input and rarely get explicit correction, yet still acquire language — hard to explain by reinforcement alone.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch2-ppt-note003",
+      "title": "Interactionism & Its Views",
+      "body": "CORE CLAIM\nA moderate view on the nature–nurture continuum: both biological and environmental factors are important, and language develops in the social context of the child's interactions. The child's attempts to communicate prompt caregivers to model language. Key figures: Lev Vygotsky (Zone of Proximal Development) and Jean Piaget (language mirrors cognitive development).\n\nTHREE INTERACTIONIST VIEWS\n1. Semantic view — shifts emphasis from structure to MEANING.\n   - Fillmore's case grammar: structure dictated by the semantic relationship of verb & nouns.\n   - Lois Bloom: context matters — both linguistic and non-linguistic information.\n2. Cognitive view — language is NOT innate and NOT (purely) learned; it parallels cognitive development.\n   - Piaget's sensorimotor period (birth–2): symbolic play parallels understanding that words = people, places, things.\n   - Information Processing Theory.\n3. Social interactionist view — biological and environmental factors both matter, but not equally.\n   - Children interact socially before producing language; language develops from these interactions.\n   - Focus on language USE (pragmatics); supported by parentese (child-directed speech).\n   - Speech Act Theory: locutionary (the utterance), illocutionary (intended function), perlocutionary (effect on the listener).\n\n★ KEY EXAM POINTS\n- Vygotsky → ZPD; Piaget → sensorimotor / cognition-first.\n- Semantic view → meaning (Fillmore/Bloom); Cognitive view → cognition (Piaget/IPT); Social view → USE/pragmatics (parentese, speech acts).\n- Speech acts: locutionary = words, illocutionary = intent, perlocutionary = effect.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "Theories of Acquisition",
+      "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
+      "created": "2026-08-19T18:05:00-07:00"
     }
   ],
   "questionStats": {}
