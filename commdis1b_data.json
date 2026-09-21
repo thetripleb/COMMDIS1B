@@ -31,6 +31,15 @@
         "Lecture 3"
       ],
       "created": "2026-09-09T15:05:00-07:00"
+    },
+    {
+      "id": "mod-4",
+      "name": "Cognitive Development",
+      "chapters": [
+        "Lecture: Cognitive Development"
+      ],
+      "created": "2026-09-20T12:00:00-07:00",
+      "desc": "Piaget's cognitive development: how knowledge is organized (schema, assimilation, accommodation, equilibrium) and his four stages (sensorimotor, preoperational, concrete operations, formal operations), with a detailed look at the six key sensorimotor skills and six substages that lay the groundwork for language."
     }
   ],
   "glossary": [
@@ -69,7 +78,7 @@
       "term": "Accommodation",
       "def": "Cognitive process whereby new schemes are created for information that does not fit existing schemes.",
       "image": null,
-      "module": null,
+      "module": "mod-4",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -349,7 +358,7 @@
       "term": "Assimilation",
       "def": "Cognitive process whereby a new stimulus is fitted into an existing schema.",
       "image": null,
-      "module": null,
+      "module": "mod-4",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -439,7 +448,7 @@
       "term": "Babbling",
       "def": "Combinations of vowel- and consonant-like sounds produced without meaning.",
       "image": null,
-      "module": null,
+      "module": "mod-4",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -569,7 +578,7 @@
       "term": "Causality",
       "def": "Understanding that people, objects, or events can have an effect on other people, objects, or events.",
       "image": null,
-      "module": null,
+      "module": "mod-4",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -609,7 +618,7 @@
       "term": "Chaining",
       "def": "Instructional procedure that involves reinforcing individual responses occurring in a sequence to form a complex behavior; organizational narrative structure that involves ordering events so that one event logically follows the preceding event.",
       "image": null,
-      "module": null,
+      "module": "mod-3",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -639,7 +648,7 @@
       "term": "Classical conditioning",
       "def": "Variation of conditioned learning in which an originally neutral stimulus is repeatedly paired with an unconditioned stimulus that elicits a desired response.",
       "image": null,
-      "module": null,
+      "module": "mod-3",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -919,7 +928,7 @@
       "term": "Creole",
       "def": "Language that develops as a result of contact between two groups that do not know each other's language.",
       "image": null,
-      "module": null,
+      "module": "mod-3",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -1189,7 +1198,7 @@
       "term": "Discriminative stimulus",
       "def": "Stimulus, such as a cue, that provides information about what to do.",
       "image": null,
-      "module": null,
+      "module": "mod-3",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -1209,7 +1218,7 @@
       "term": "Distancing",
       "def": "Ability to use an abstract symbol or word to represent the real object. Language is the way humans represent people, places, and things in thought and interactions.",
       "image": null,
-      "module": null,
+      "module": "mod-4",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -1319,7 +1328,7 @@
       "term": "Equilibrium",
       "def": "Cognitive process to maintain a balance between existing schemata (assimilation) and the creation of new schemata (accommodation).",
       "image": null,
-      "module": null,
+      "module": "mod-4",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -1349,7 +1358,7 @@
       "term": "Expansion",
       "def": "When an adult repeats what a child has said adding additional words and/or structure to the utterance.",
       "image": null,
-      "module": null,
+      "module": "mod-3",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -1649,7 +1658,7 @@
       "term": "Imitation",
       "def": "Duplication of models one hears and sees.",
       "image": null,
-      "module": null,
+      "module": "mod-4",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -2389,7 +2398,7 @@
       "term": "Modality",
       "def": "Characteristics of sentences such as verb tense or the expression of negation or interrogation.",
       "image": null,
-      "module": null,
+      "module": "mod-3",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -2639,7 +2648,7 @@
       "term": "Object permanence",
       "def": "Knowledge that objects exist in time and space even if you can't see or act on them.",
       "image": null,
-      "module": null,
+      "module": "mod-3",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -2789,7 +2798,7 @@
       "term": "Perception",
       "def": "Processes by which an individual selects, organizes, integrates, and interprets sensory stimuli.",
       "image": null,
-      "module": null,
+      "module": "mod-4",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -2939,7 +2948,7 @@
       "term": "Pidgin",
       "def": "Language that usually develops for the purpose of allowing groups with different languages to trade or communicate, and includes a combination of both languages, beginning as an informal language consisting mostly of nouns and many gestures and eventually becoming more formal.",
       "image": null,
-      "module": null,
+      "module": "mod-3",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -2999,7 +3008,7 @@
       "term": "Play",
       "def": "Child-directed activities that provide children with opportunities for learning.",
       "image": null,
-      "module": null,
+      "module": "mod-4",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -3239,7 +3248,7 @@
       "term": "Proposition",
       "def": "Characteristics of a sentence such as the relationship between nouns and verbs; the content of a meaningful, declarative sentence.",
       "image": null,
-      "module": null,
+      "module": "mod-3",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -3479,7 +3488,7 @@
       "term": "Representation",
       "def": "Ability to think about things or use words without having to act on them directly.",
       "image": null,
-      "module": null,
+      "module": "mod-4",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -3559,7 +3568,7 @@
       "term": "Scaffolding",
       "def": "Support given during the learning process that is tailored to the needs of the individual and gradually removed to promote independent learning.",
       "image": null,
-      "module": null,
+      "module": "mod-3",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -3569,7 +3578,7 @@
       "term": "Schema",
       "def": "Cognitive structure that helps children process, identify, organize, and store information.",
       "image": null,
-      "module": null,
+      "module": "mod-4",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -3729,7 +3738,7 @@
       "term": "Shaping",
       "def": "Developing a behavior through small steps that gradually approximate the target behavior.",
       "image": null,
-      "module": null,
+      "module": "mod-3",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -4029,7 +4038,7 @@
       "term": "Symbolic play",
       "def": "A play activity in which objects or actions are used to represent other objects and actions.",
       "image": null,
-      "module": null,
+      "module": "mod-4",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -4533,6 +4542,76 @@
       "chapter": "Theories of Acquisition",
       "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
       "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch4-g001",
+      "term": "Sensorimotor intelligence",
+      "def": "Piaget's first stage of intellectual development (birth to 2 years); knowledge is built through the senses and motor action, and it is prerequisite to language development. Broken into 6 substages.",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch4-g002",
+      "term": "Preoperational thought",
+      "def": "Piaget's second stage (2 to 7 years); rapid language growth and learning through hands-on visual/motor tasks, but egocentric thinking and one-dimensional problem solving.",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch4-g003",
+      "term": "Concrete operations",
+      "def": "Piaget's third stage (7 to 11 years); logical thinking and growth in reading/writing, but still limited in abstract thinking.",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch4-g004",
+      "term": "Formal operations",
+      "def": "Piaget's fourth stage (11 to 15 years); the ability to think abstractly, use prior knowledge with new information, and plan for tasks.",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch4-g005",
+      "term": "Means/ends",
+      "def": "Using cause and effect to determine the means (actions) that achieve an end (goal), whether through actions or words; a key sensorimotor skill.",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch4-g006",
+      "term": "Deferred imitation",
+      "def": "Imitating a behavior later by retrieving it from memory (without the model present); emerges in sensorimotor substage 6 and supports communication and play.",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch4-g007",
+      "term": "Pre-imitative behavior",
+      "def": "Early turn-taking imitation (substage 2): the infant does a behavior, an adult imitates it back, and the infant imitates in return; sets the stage for later play.",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
     }
   ],
   "flashcards": [
@@ -5305,6 +5384,196 @@
       "chapter": "Theories handout",
       "source": "Theories of Language Acquisition (handout)",
       "created": "2026-09-09T15:05:00-07:00"
+    },
+    {
+      "id": "ch4-f001",
+      "front": "What is a schema in Piaget's theory?",
+      "back": "The mental 'file-folder' system that organizes knowledge for processing, storing, and retrieving information.",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch4-f002",
+      "front": "Assimilation vs. accommodation?",
+      "back": "Assimilation = fitting new info into an EXISTING schema. Accommodation = making a NEW schema (or reorganizing) when it doesn't fit.",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch4-f003",
+      "front": "What is equilibrium?",
+      "back": "Keeping assimilation and accommodation in balance as schemata are built and reorganized.",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch4-f004",
+      "front": "Use the pantry analogy for assimilation vs. accommodation.",
+      "back": "Filing chips under existing 'dry goods' = assimilation; creating a new 'snacks' shelf when you have too many = accommodation; the ongoing rebalancing = equilibrium.",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch4-f005",
+      "front": "List Piaget's four stages with age ranges.",
+      "back": "Sensorimotor (birth-2), Preoperational (2-7), Concrete operations (7-11), Formal operations (11-15).",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch4-f006",
+      "front": "Why is sensorimotor development important for language?",
+      "back": "It is prerequisite to language — you need many sensorimotor skills before you're ready to develop language.",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch4-f007",
+      "front": "Name the six key sensorimotor skills.",
+      "back": "Object permanence, causality, means/ends, imitation, play, communication.",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch4-f008",
+      "front": "What is object permanence?",
+      "back": "Understanding that things still exist even when they're outside your five senses (builds a cognitive representation of them).",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch4-f009",
+      "front": "What are means/ends?",
+      "back": "Using cause and effect to figure out the actions (means) that accomplish a goal (end) — through actions or words.",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch4-f010",
+      "front": "What is symbolic play and why does it matter?",
+      "back": "Using one object to represent another; crucial for language because words are symbolic representations of things/concepts.",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch4-f011",
+      "front": "What is deferred imitation and when does it appear?",
+      "back": "Imitating something later from memory (no model present); it appears in sensorimotor substage 6.",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch4-f012",
+      "front": "What is distancing?",
+      "back": "The developing ability to perceive things from greater and greater distances, leading toward naming and representation.",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch4-f013",
+      "front": "When do true first words appear vs. babbling?",
+      "back": "Babbling (CV sounds) begins ~substage 3; 'mama'/'dada' aren't true words until produced consistently, intentionally, and meaningfully.",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch4-f014",
+      "front": "Sensorimotor substage 1 (birth-1 mo): hallmark?",
+      "back": "World revolves around the infant; no means-end or object concept; highly reflexive, automatic actions.",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch4-f015",
+      "front": "Sensorimotor substage 4 (8-12 mo): hallmark?",
+      "back": "Object permanence begins (searches for hidden objects); causality with intent; imitates unfamiliar/unseen behaviors; babbling may become first words.",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch4-f016",
+      "front": "Sensorimotor substage 6 (18-24 mo): hallmark?",
+      "back": "Representational thinking (solve problems mentally); object permanence fully developed; deferred imitation; more complex pretend play.",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch4-f017",
+      "front": "How did research revise Piaget's sensorimotor claims?",
+      "back": "Babies move through the substages and show some skills EARLIER than he thought, and knowledge includes perceptual (seen/heard) experiences, not only felt ones.",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch4-f018",
+      "front": "Preoperational thought (2-7): key features?",
+      "back": "Rapid language growth; learning via hands-on visual/motor tasks; egocentric; problem solving focuses on one element at a time.",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch4-f019",
+      "front": "Formal operations (11-15): key ability?",
+      "back": "Abstract thinking — combining prior knowledge with new information and planning for tasks.",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
     }
   ],
   "questions": [
@@ -6377,6 +6646,335 @@
           "right": "Pragmatics revolution / speech acts"
         }
       ]
+    },
+    {
+      "id": "ch4-q001",
+      "type": "mc",
+      "text": "Fitting new information into an existing schema is called:",
+      "answer": "Assimilation",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00",
+      "options": [
+        "Accommodation",
+        "Assimilation",
+        "Equilibrium",
+        "Distancing"
+      ]
+    },
+    {
+      "id": "ch4-q002",
+      "type": "mc",
+      "text": "Creating a new schema because new information doesn't fit is called:",
+      "answer": "Accommodation",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00",
+      "options": [
+        "Assimilation",
+        "Accommodation",
+        "Causality",
+        "Perception"
+      ]
+    },
+    {
+      "id": "ch4-q003",
+      "type": "mc",
+      "text": "Which is the correct order of Piaget's four stages?",
+      "answer": "Sensorimotor → Preoperational → Concrete operations → Formal operations",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00",
+      "options": [
+        "Preoperational → Sensorimotor → Concrete → Formal",
+        "Sensorimotor → Preoperational → Concrete operations → Formal operations",
+        "Sensorimotor → Concrete → Preoperational → Formal",
+        "Preoperational → Concrete → Formal → Sensorimotor"
+      ]
+    },
+    {
+      "id": "ch4-q004",
+      "type": "mc",
+      "text": "The sensorimotor stage spans which age range?",
+      "answer": "Birth to 2 years",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00",
+      "options": [
+        "Birth to 2 years",
+        "2 to 7 years",
+        "7 to 11 years",
+        "11 to 15 years"
+      ]
+    },
+    {
+      "id": "ch4-q005",
+      "type": "mc",
+      "text": "Using one object to represent another is:",
+      "answer": "Symbolic play",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00",
+      "options": [
+        "Deferred imitation",
+        "Symbolic play",
+        "Assimilation",
+        "Causality"
+      ]
+    },
+    {
+      "id": "ch4-q006",
+      "type": "mc",
+      "text": "Understanding that objects still exist when out of your senses is:",
+      "answer": "Object permanence",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00",
+      "options": [
+        "Causality",
+        "Means/ends",
+        "Object permanence",
+        "Distancing"
+      ]
+    },
+    {
+      "id": "ch4-q007",
+      "type": "mc",
+      "text": "Which is NOT one of the six key sensorimotor skills?",
+      "answer": "Assimilation",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00",
+      "options": [
+        "Causality",
+        "Means/ends",
+        "Assimilation",
+        "Imitation"
+      ]
+    },
+    {
+      "id": "ch4-q008",
+      "type": "mc",
+      "text": "The ability to think abstractly develops in which stage?",
+      "answer": "Formal operations",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00",
+      "options": [
+        "Sensorimotor intelligence",
+        "Preoperational thought",
+        "Concrete operations",
+        "Formal operations"
+      ]
+    },
+    {
+      "id": "ch4-q009",
+      "type": "tf",
+      "text": "Sensorimotor development is considered prerequisite to language development.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch4-q010",
+      "type": "tf",
+      "text": "In assimilation, we create a brand-new schema for information that doesn't fit.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch4-q011",
+      "type": "tf",
+      "text": "Symbolic play is important for language because words are symbolic representations.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch4-q012",
+      "type": "tf",
+      "text": "Object permanence is fully developed at birth.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch4-q013",
+      "type": "tf",
+      "text": "Deferred imitation (imitating from memory without a model) appears in sensorimotor substage 6.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch4-q014",
+      "type": "tf",
+      "text": "Concrete operations is the stage where children first reliably think abstractly.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch4-q015",
+      "type": "fitb",
+      "text": "Keeping assimilation and accommodation in balance is called ______.",
+      "answer": "equilibrium",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch4-q016",
+      "type": "fitb",
+      "text": "Piaget's mental 'file-folder' system for organizing knowledge is a ______.",
+      "answer": "schema",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch4-q017",
+      "type": "fitb",
+      "text": "Understanding that actions lead to other events (cause and effect) is called ______.",
+      "answer": "causality",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch4-q018",
+      "type": "fitb",
+      "text": "Imitating a behavior later from memory, with no model present, is ______ imitation.",
+      "answer": "deferred",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch4-q019",
+      "type": "match",
+      "text": "Match each Piaget stage to its age range.",
+      "answer": null,
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00",
+      "pairs": [
+        {
+          "left": "Sensorimotor intelligence",
+          "right": "Birth to 2 years"
+        },
+        {
+          "left": "Preoperational thought",
+          "right": "2 to 7 years"
+        },
+        {
+          "left": "Concrete operations",
+          "right": "7 to 11 years"
+        },
+        {
+          "left": "Formal operations",
+          "right": "11 to 15 years"
+        }
+      ]
+    },
+    {
+      "id": "ch4-q020",
+      "type": "match",
+      "text": "Match each schema process to its description.",
+      "answer": null,
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00",
+      "pairs": [
+        {
+          "left": "Assimilation",
+          "right": "Fit new info into an existing schema"
+        },
+        {
+          "left": "Accommodation",
+          "right": "Make a new schema when it doesn't fit"
+        },
+        {
+          "left": "Equilibrium",
+          "right": "Balance the two processes"
+        }
+      ]
+    },
+    {
+      "id": "ch4-q021",
+      "type": "match",
+      "text": "Match each sensorimotor skill to its meaning.",
+      "answer": null,
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00",
+      "pairs": [
+        {
+          "left": "Causality",
+          "right": "Cause and effect between events"
+        },
+        {
+          "left": "Means/ends",
+          "right": "Actions used to reach a goal"
+        },
+        {
+          "left": "Imitation",
+          "right": "Copying observed models"
+        },
+        {
+          "left": "Symbolic play",
+          "right": "One object represents another"
+        }
+      ]
     }
   ],
   "notes": [
@@ -6589,6 +7187,46 @@
       "chapter": "Theories of Acquisition",
       "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
       "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch4-note001",
+      "title": "Piaget's Cognitive Organization: Schema, Assimilation, Accommodation, Equilibrium",
+      "body": "Jean Piaget studied how living things learn and how we organize cognitive information.\n\n- Schema: our mental 'file-folder' system. We use our schemata to process, identify, store, and retrieve information; folders are arranged by relationships and commonalities.\n- Assimilation: adding new information into an EXISTING schema.\n- Accommodation: adding a NEW schema (or reorganizing) when information doesn't fit an existing folder.\n- Equilibrium: keeping assimilation and accommodation in BALANCE. We tend to assimilate new info into a folder until enough accumulates to require reorganizing into a new schema.\n\nPANTRY ANALOGY\nCanned food vs. dry goods = two schemata. Chips → assimilate into 'dry goods.' Enough crackers/granola/cookies → accommodate by creating a 'snacks' area. The ongoing rebalancing = equilibrium.\n\n★ KEY EXAM POINTS\n- Assimilation = fit into existing; Accommodation = make new/reorganize; Equilibrium = balance of the two.\n- Schema = the file-folder system itself.",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch4-note002",
+      "title": "Piaget's Four Stages of Intellectual Development",
+      "body": "Development is not just moving from one stage to the next — skills carry forward and are often PREREQUISITES for later stages.\n\n1. Sensorimotor intelligence (birth-2): knowledge through senses + motor action; prerequisite to language; 6 substages.\n2. Preoperational thought (2-7): rapid language growth; learning via hands-on visual/motor tasks; egocentric (hard to take others' perspectives); problem solving focuses on one element.\n3. Concrete operations (7-11): logical thinking; reading/writing grow; still limited in ABSTRACT thinking.\n4. Formal operations (11-15): abstract thinking; combines prior knowledge with new info; plans for tasks.\n\n★ KEY EXAM POINTS\n- Memorize the four stages IN ORDER with ages: SM (0-2), Pre (2-7), Concrete (7-11), Formal (11-15).\n- Abstract thinking = formal operations.\n- Skills are carried forward and act as prerequisites.",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch4-note003",
+      "title": "Sensorimotor: The Six Key Skills",
+      "body": "These six skills develop across the sensorimotor stage and are crucial for language and more complex thinking. (Perception underlies them: how we select, organize, integrate, and interpret input from the five senses; distancing lets us perceive from greater distances, leading toward naming and representation.)\n\n1. Object permanence: things still exist even when outside the five senses (building a cognitive representation).\n2. Causality: cause and effect — actions/events lead to other events.\n3. Means/ends: using cause-and-effect to find the actions (means) that reach a goal (end), via actions or words.\n4. Imitation: copying models seen/heard/felt (mirror neurons); progresses to delayed/deferred imitation.\n5. Play: child-directed exploration; SYMBOLIC play (one object represents another) is crucial because words are symbolic representations.\n6. Communication: conceptual development that feeds the child's growing language ability.\n\n★ KEY EXAM POINTS\n- Know all six skills; object permanence and symbolic play are high-yield.\n- Symbolic play ↔ language: words are symbols for things.\n- Imitation → deferred imitation (from memory) is a later achievement.",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch4-note004",
+      "title": "Sensorimotor: The Six Substages (birth-24 months)",
+      "body": "Watch the six key skills change across the substages. (This is the framework used to rate a child's level per domain — e.g., play, communication, means-end.)\n\n1. Substage 1 (birth-1 mo): world revolves around the infant; NO means-end or object concept; highly reflexive, automatic actions.\n2. Substage 2 (1-4 mo): waking up to the world; vision improves, tracks/locates sounds; still no object separateness; pre-imitative behavior begins; communication via reflexive cries (discomfort, calling, requesting) and pleasure vocalizations; cooing/laughing by end.\n3. Substage 3 (4-8 mo): moves/explores but stuck on the here-and-now; means/ends by coincidence (repeats actions for a result); imitation of previously-mastered behaviors; play = repeating actions with toys for pleasure; babbling (CV sounds) emerges. ('Mama'/'dada' aren't words until consistent, intentional, meaningful.)\n4. Substage 4 (8-12 mo): object permanence BEGINS (searches for hidden objects); causality with intent; imitates unfamiliar and unseen behaviors; babbling may become first words / vocalizations + gestures.\n5. Substage 5 (12-18 mo): object permanence only when the hiding is visible; causality uses people/tools as agents; experiments to problem-solve; communication = simple, intentional words.\n6. Substage 6 (18-24 mo): REPRESENTATIONAL thinking (solve problems mentally by planning); object permanence FULLY developed; DEFERRED imitation (from memory); more complex pretend/auto-symbolic play.\n\nNOTE: Later research shows babies move through these substages and show some skills EARLIER than Piaget thought, and knowledge includes perceptual (seen/heard) experiences, not only felt ones.\n\n★ KEY EXAM POINTS\n- Object permanence: begins substage 4, fully developed substage 6.\n- Deferred imitation + representational thought = substage 6.\n- Substage 1 = reflexive, no object/means-end concept.",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
     }
   ],
   "questionStats": {}
