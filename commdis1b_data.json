@@ -58,6 +58,15 @@
       ],
       "created": "2026-09-28T12:00:00-07:00",
       "desc": "Vygotsky's sociocultural theory of cognitive development: private speech, the zone of proximal development and scaffolding, shape bias, the development of perception (visual-tactile and auditory), executive functions, controlled attention and working memory (phonological loop and visual-spatial sketchpad), and theory of mind."
+    },
+    {
+      "id": "mod-7",
+      "name": "Emerging Syntax & Language Samples",
+      "chapters": [
+        "Lecture 7: Emerging Syntax & Language Samples"
+      ],
+      "created": "2026-10-07T12:00:00-07:00",
+      "desc": "Early syntactic development and language-sample analysis: morphemes (free/bound, derivational/inflectional), Brown's stages and 14 grammatical morphemes with the 90% obligatory-context criterion, two-word semantic relations, the mathetic/informative/pragmatic functions, comprehension before production, and how to collect a language sample and calculate mean length of utterance (MLU)."
     }
   ],
   "glossary": [
@@ -560,6 +569,16 @@
       "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
       "created": "2026-08-19T17:17:56-07:00",
       "def": "A left-hemisphere region responsible for the motor planning and coordination of articulation."
+    },
+    {
+      "id": "ch7-g007",
+      "term": "Brown's stages of syntactic development",
+      "def": "A framework that links mean length of utterance (MLU) ranges to stages (I-V) and approximate ages, tracking the progression of grammar and syntax.",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
     },
     {
       "id": "ch3-g016",
@@ -1542,6 +1561,16 @@
       "def": "Respiration, Phonation, Resonation, and Articulation — the ordered chain of subsystems that produce speech. All the structures involved are designed for other, more basic biological purposes."
     },
     {
+      "id": "ch7-g001",
+      "term": "Free morpheme",
+      "def": "A morpheme that can stand alone as a complete word (e.g., 'dog', 'run').",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
+    },
+    {
       "id": "tx-g109",
       "term": "Fully resonant nuclei",
       "def": "Vowel and consonant sounds with a full range of frequencies and resonant characteristics.",
@@ -1602,6 +1631,16 @@
       "created": "2026-08-19T18:49:16-07:00"
     },
     {
+      "id": "ch7-g015",
+      "term": "Glossing",
+      "def": "Repeating aloud what a child said while recording a sample, so the utterance can be understood later during transcription.",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
+    },
+    {
       "id": "ch1-g018",
       "term": "Glottis",
       "image": null,
@@ -1620,6 +1659,16 @@
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "ch7-g005",
+      "term": "Grammatical morpheme",
+      "def": "A morpheme (inflection or small function word) that signals grammatical relationships; Brown identified 14 that children acquire in a fairly predictable order.",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
     },
     {
       "id": "tx-g112",
@@ -1850,6 +1899,16 @@
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "ch7-g010",
+      "term": "Informative function",
+      "def": "Using language to tell someone something the speaker knows (or thinks they know) that the listener does not.",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
     },
     {
       "id": "tx-g130",
@@ -2192,6 +2251,16 @@
       "created": "2026-08-19T18:49:16-07:00"
     },
     {
+      "id": "ch7-g012",
+      "term": "Language sample",
+      "def": "A recorded (usually audio/video) and transcribed sample of all the language a child produces during an interaction, analyzed across syntax, grammar, semantics, and pragmatics.",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
+    },
+    {
       "id": "ch1-g022",
       "term": "Laryngeal (glottal) tone",
       "image": null,
@@ -2440,6 +2509,16 @@
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "ch7-g009",
+      "term": "Mathetic function",
+      "def": "Using language for the function of learning about the world.",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
     },
     {
       "id": "tx-g167",
@@ -2810,6 +2889,16 @@
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "ch7-g006",
+      "term": "Obligatory context",
+      "def": "A context in which Standard English requires a particular morpheme; a morpheme is considered mastered when used correctly in ~90% of its obligatory contexts.",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
     },
     {
       "id": "tx-g191",
@@ -3242,6 +3331,16 @@
       "created": "2026-08-19T18:49:16-07:00"
     },
     {
+      "id": "ch7-g011",
+      "term": "Pragmatic function",
+      "def": "Using language to get something done.",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
+    },
+    {
       "id": "tx-g219",
       "term": "Pragmatics",
       "def": "Component of language regarding the ability to functionally use language in social contexts; the rules for social language needed to establish and maintain relationships with others.",
@@ -3270,6 +3369,16 @@
       "chapter": "Lecture: Cognitive Development",
       "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
       "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch7-g002",
+      "term": "Prefix",
+      "def": "A morpheme added to the beginning of a word (e.g., 're-' in 'replay').",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
     },
     {
       "id": "ch4-g002",
@@ -3712,6 +3821,16 @@
       "created": "2026-08-19T18:49:16-07:00"
     },
     {
+      "id": "ch7-g013",
+      "term": "Reliability",
+      "def": "The degree to which a language sample is a true, representative capture of the child's typical abilities (not skewed by, e.g., shyness that day).",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
+    },
+    {
       "id": "tx-g257",
       "term": "Representation",
       "def": "Ability to think about things or use words without having to act on them directly.",
@@ -3780,6 +3899,16 @@
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "ch7-g004",
+      "term": "Root word",
+      "def": "The base part of a word that carries its core meaning, to which prefixes and suffixes attach.",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
     },
     {
       "id": "tx-g262",
@@ -4242,6 +4371,16 @@
       "created": "2026-08-19T18:49:16-07:00"
     },
     {
+      "id": "ch7-g003",
+      "term": "Suffix",
+      "def": "A morpheme added to the end of a word, which can change its category (e.g., '-er' in 'teacher').",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
+    },
+    {
       "id": "tx-g298",
       "term": "Superlative adjective",
       "def": "Adjective used to compare three or more nouns, occurs through the addition of the suffix -est.",
@@ -4522,6 +4661,16 @@
       "created": "2026-08-19T18:49:16-07:00"
     },
     {
+      "id": "ch7-g008",
+      "term": "Two-word semantic relations",
+      "def": "The meaning relationships a child expresses by combining two words (e.g., agent+action, action+object, possessor+possession); typical of Brown's Stage I.",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
+    },
+    {
       "id": "ch1-g043",
       "term": "Tympanic membrane",
       "image": null,
@@ -4530,6 +4679,16 @@
       "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
       "created": "2026-08-19T17:17:56-07:00",
       "def": "The eardrum, located at the end of the ear canal; it absorbs sound energy and vibrates, passing that vibration to the ossicles."
+    },
+    {
+      "id": "ch7-g017",
+      "term": "Type-token ratio (TTR)",
+      "def": "The number of different words divided by the total number of words in a sample; a measure of vocabulary diversity (~0.5 for young children).",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
     },
     {
       "id": "ch3-g012",
@@ -4580,6 +4739,26 @@
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "ch7-g016",
+      "term": "Utterance",
+      "def": "Typically one thought, often signaled by a pause; the unit segmented and counted in language-sample analysis.",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
+    },
+    {
+      "id": "ch7-g014",
+      "term": "Validity",
+      "def": "The degree to which an assessment or sample actually measures what it is supposed to measure.",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
     },
     {
       "id": "tx-g322",
@@ -6142,6 +6321,186 @@
       "chapter": "Lecture 5: Cognitive Development II",
       "source": "COMM DIS 1B Lecture 5: Cognitive Development II - Vygotsky (Ch. 3, pp. 89-108)",
       "created": "2026-09-28T12:00:00-07:00"
+    },
+    {
+      "id": "ch7-f001",
+      "front": "Free vs. bound morpheme?",
+      "back": "Free = can stand alone as a word ('dog'). Bound = must attach to a word (prefixes, suffixes, endings like -ed/-s).",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
+    },
+    {
+      "id": "ch7-f002",
+      "front": "Derivational vs. inflectional morphemes?",
+      "back": "Derivational = prefixes/suffixes that make a new word or change its category ('re-', '-er'). Inflectional = grammatical-marker suffixes (plural, possession, tense) that DON'T change category ('-ed', '-s').",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
+    },
+    {
+      "id": "ch7-f003",
+      "front": "What is a grammatical morpheme, and how many did Brown identify?",
+      "back": "A morpheme that signals grammatical relationships; Brown identified 14 acquired in a fairly predictable order.",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
+    },
+    {
+      "id": "ch7-f004",
+      "front": "When is a grammatical morpheme considered mastered?",
+      "back": "When used correctly in ~90% of its obligatory contexts (places Standard English requires it).",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
+    },
+    {
+      "id": "ch7-f005",
+      "front": "Name the first few of Brown's 14 morphemes in order.",
+      "back": "1) present progressive -ing, 2) preposition 'in', 3) preposition 'on', 4) regular plural -s, 5) irregular past tense, 6) possessive 's, 7) uncontractible copula…",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
+    },
+    {
+      "id": "ch7-f006",
+      "front": "What are two-word semantic relations, and which stage?",
+      "back": "The meaning a child shows by combining two words (agent+action, action+object, possessor+possession, etc.); typical of Brown's Stage I.",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
+    },
+    {
+      "id": "ch7-f007",
+      "front": "Give the MLU ranges for Early vs. Late Stage 1.",
+      "back": "Early Stage 1 ≈ MLU 1.0-1.5 (one-word utterances); Late Stage 1 ≈ MLU 1.5-2.0 (two-word combinations emerge). [Review from Module 6]",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
+    },
+    {
+      "id": "ch7-f008",
+      "front": "Count the morphemes: 'The dog runs fast.'",
+      "back": "5 morphemes — the / dog / run / -s / fast (4 words, but 'runs' = run + -s).",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
+    },
+    {
+      "id": "ch7-f009",
+      "front": "How do you calculate MLU?",
+      "back": "Count the total morphemes across the sample and divide by the number of utterances.",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
+    },
+    {
+      "id": "ch7-f010",
+      "front": "What is an utterance for MLU purposes?",
+      "back": "Typically one thought, often signaled by a pause.",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
+    },
+    {
+      "id": "ch7-f011",
+      "front": "Name the three new speech functions at the two-word stage.",
+      "back": "Mathetic (for learning), informative (telling what you know), and pragmatic (getting something done).",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
+    },
+    {
+      "id": "ch7-f012",
+      "front": "Does comprehension or production come first? Evidence?",
+      "back": "Comprehension precedes production — e.g., Benedict found ~13-month-olds could understand ~50 words but produce only ~10.",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
+    },
+    {
+      "id": "ch7-f013",
+      "front": "Reliability vs. validity in language sampling?",
+      "back": "Reliability = the sample truly represents the child's typical abilities. Validity = the sample measures what it's meant to measure.",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
+    },
+    {
+      "id": "ch7-f014",
+      "front": "What is glossing?",
+      "back": "Repeating aloud what a child said while recording, so it can be understood later during transcription.",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
+    },
+    {
+      "id": "ch7-f015",
+      "front": "In MLU counting, what counts as ONE morpheme even though it may look like more?",
+      "back": "Diminutives (doggie), compound words (hotdog), catenatives (gonna/wanna), irregular past tense (went) and irregular plurals (mice), reduplications (choo-choo), proper names (Big Bird).",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
+    },
+    {
+      "id": "ch7-f016",
+      "front": "In MLU counting, what counts as MORE than one morpheme?",
+      "back": "Contractions (she's, can't — except let's/don't/won't), inflections (plural/possessive/past/3rd-person/-ing), and comparative/superlative forms.",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
+    },
+    {
+      "id": "ch7-f017",
+      "front": "What is the type-token ratio (TTR)?",
+      "back": "Different words ÷ total words — a measure of vocabulary diversity (~0.5 for young children).",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
+    },
+    {
+      "id": "ch7-f018",
+      "front": "What are good vs. poor elicitation strategies for a sample?",
+      "back": "Good: open-ended prompts ('Tell me about…', 'I wonder what…'), follow the child's lead/interests. Poor: yes/no questions and the 'name game' (just labeling).",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
     }
   ],
   "questions": [
@@ -8131,9 +8490,425 @@
           "right": "Creating and adjusting mental images"
         }
       ]
+    },
+    {
+      "id": "ch7-q001",
+      "type": "mc",
+      "text": "A morpheme that must be attached to a word (like -ed or a prefix) is a:",
+      "answer": "Bound morpheme",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00",
+      "options": [
+        "Free morpheme",
+        "Bound morpheme",
+        "Root word",
+        "Utterance"
+      ]
+    },
+    {
+      "id": "ch7-q002",
+      "type": "mc",
+      "text": "Which type of morpheme changes a word's category or creates a new word?",
+      "answer": "Derivational",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00",
+      "options": [
+        "Inflectional",
+        "Derivational",
+        "Bound grammatical",
+        "Catenative"
+      ]
+    },
+    {
+      "id": "ch7-q003",
+      "type": "mc",
+      "text": "A grammatical morpheme is considered mastered when used correctly in what percent of obligatory contexts?",
+      "answer": "90%",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00",
+      "options": [
+        "50%",
+        "75%",
+        "90%",
+        "100%"
+      ]
+    },
+    {
+      "id": "ch7-q004",
+      "type": "mc",
+      "text": "How many morphemes are in 'mom's running fast'?",
+      "answer": "5",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ]
+    },
+    {
+      "id": "ch7-q005",
+      "type": "mc",
+      "text": "To calculate MLU you divide the total number of morphemes by the number of:",
+      "answer": "Utterances",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00",
+      "options": [
+        "Words",
+        "Utterances",
+        "Sentences",
+        "Minutes"
+      ]
+    },
+    {
+      "id": "ch7-q006",
+      "type": "mc",
+      "text": "'Mommy eat' (Mommy performing the action) is which two-word semantic relation?",
+      "answer": "Agent + Action",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00",
+      "options": [
+        "Action + Object",
+        "Agent + Action",
+        "Entity + Attribute",
+        "Recurrence"
+      ]
+    },
+    {
+      "id": "ch7-q007",
+      "type": "mc",
+      "text": "Using language to get something done is the:",
+      "answer": "Pragmatic function",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00",
+      "options": [
+        "Mathetic function",
+        "Informative function",
+        "Pragmatic function",
+        "Semantic function"
+      ]
+    },
+    {
+      "id": "ch7-q008",
+      "type": "mc",
+      "text": "A sample fails to capture a normally talkative child because she was shy that day. This is a problem with:",
+      "answer": "Reliability",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00",
+      "options": [
+        "Validity",
+        "Reliability",
+        "Glossing",
+        "Type-token ratio"
+      ]
+    },
+    {
+      "id": "ch7-q009",
+      "type": "mc",
+      "text": "Which counts as only ONE morpheme in MLU analysis?",
+      "answer": "went",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00",
+      "options": [
+        "jumped",
+        "cats",
+        "went",
+        "she's"
+      ]
+    },
+    {
+      "id": "ch7-q010",
+      "type": "mc",
+      "text": "The number of different words divided by total words is the:",
+      "answer": "Type-token ratio",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00",
+      "options": [
+        "Mean length of utterance",
+        "Type-token ratio",
+        "Obligatory context",
+        "Reliability index"
+      ]
+    },
+    {
+      "id": "ch7-q011",
+      "type": "tf",
+      "text": "Inflectional morphemes change a word's grammatical form (tense, number) without changing its category.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
+    },
+    {
+      "id": "ch7-q012",
+      "type": "tf",
+      "text": "Comprehension of words typically lags behind production in early development.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
+    },
+    {
+      "id": "ch7-q013",
+      "type": "tf",
+      "text": "Contractions like 'she's' count as two morphemes in MLU (but let's, don't, won't count as one).",
+      "answer": "True",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
+    },
+    {
+      "id": "ch7-q014",
+      "type": "tf",
+      "text": "Early Stage 1 is characterized mainly by two- and three-word combinations.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
+    },
+    {
+      "id": "ch7-q015",
+      "type": "tf",
+      "text": "Validity asks whether an assessment measures what it is supposed to measure.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
+    },
+    {
+      "id": "ch7-q016",
+      "type": "fitb",
+      "text": "A morpheme that can stand alone as a word is a ______ morpheme.",
+      "answer": "free",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
+    },
+    {
+      "id": "ch7-q017",
+      "type": "fitb",
+      "text": "Brown identified ______ grammatical morphemes acquired in a predictable order.",
+      "answer": "14",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
+    },
+    {
+      "id": "ch7-q018",
+      "type": "fitb",
+      "text": "Repeating aloud what a child said while recording, to aid later transcription, is called ______.",
+      "answer": "glossing",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
+    },
+    {
+      "id": "ch7-q019",
+      "type": "fitb",
+      "text": "Using language for the purpose of learning is the ______ function.",
+      "answer": "mathetic",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
+    },
+    {
+      "id": "ch7-q020",
+      "type": "match",
+      "text": "Match each morpheme term to its description.",
+      "answer": null,
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00",
+      "pairs": [
+        {
+          "left": "Free morpheme",
+          "right": "Stands alone as a word"
+        },
+        {
+          "left": "Bound morpheme",
+          "right": "Must attach to a word"
+        },
+        {
+          "left": "Derivational",
+          "right": "Makes a new word / changes category"
+        },
+        {
+          "left": "Inflectional",
+          "right": "Marks tense, number, possession"
+        }
+      ]
+    },
+    {
+      "id": "ch7-q021",
+      "type": "match",
+      "text": "Match each two-word semantic relation to its example.",
+      "answer": null,
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00",
+      "pairs": [
+        {
+          "left": "Agent + Action",
+          "right": "'Mommy eat'"
+        },
+        {
+          "left": "Action + Object",
+          "right": "'Kick ball'"
+        },
+        {
+          "left": "Possessor + Possession",
+          "right": "'My truck'"
+        },
+        {
+          "left": "Recurrence",
+          "right": "'More juice'"
+        }
+      ]
+    },
+    {
+      "id": "ch7-q022",
+      "type": "match",
+      "text": "Match each language-sampling term to its meaning.",
+      "answer": null,
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00",
+      "pairs": [
+        {
+          "left": "Reliability",
+          "right": "Sample truly represents the child"
+        },
+        {
+          "left": "Validity",
+          "right": "Measures what it's meant to measure"
+        },
+        {
+          "left": "Glossing",
+          "right": "Repeating the child's words aloud"
+        },
+        {
+          "left": "Utterance",
+          "right": "One thought, signaled by a pause"
+        }
+      ]
     }
   ],
   "notes": [
+    {
+      "id": "ch7-note006",
+      "title": "Language Sampling & Calculating MLU",
+      "body": "A language sample captures all the language a child produces during interaction (usually audio/video recorded, then transcribed word-for-word) to analyze syntax, grammar, semantics, and pragmatics.\n\nQUALITY\n- Reliability: the sample truly represents the child's typical abilities.\n- Validity: it measures what it's meant to measure (not just singing or yes/no answers).\n\nELICITING A GOOD SAMPLE\n- Let the child lead; use open-ended prompts (\"Tell me about…\", \"How did…\", \"I wonder what…\"); use \"why\" sparingly under age 4.\n- Avoid yes/no questions and the \"name game\" (just labeling).\n- Activities by age: toddlers (toys, books, snack), preschoolers (pretend play, books), school-age (conversation, narratives).\n- Glossing: repeat the child's words aloud while recording to aid later transcription.\n\nCALCULATING MLU\n- Segment into utterances (one thought, signaled by a pause). Aim for 75-100 usable utterances.\n- MLU = total morphemes ÷ number of utterances.\n- Count as ONE: diminutives (doggie), compounds (hotdog), catenatives (gonna), irregular past (went) & irregular plurals (mice), reduplications (choo-choo), proper names (Big Bird), plurals with no singular (pants) and plural pronouns (us).\n- Count as MORE THAN ONE: contractions (she's, can't — except let's/don't/won't), inflections (plural/possessive/past/3rd-person/-ing), comparatives/superlatives.\n- Do NOT count: fillers (um), unintelligible/interrupted utterances, immediate imitations, elliptical one-word answers, false starts/reformulations, rhymes/songs/counting, noises.\n\n★ KEY EXAM POINTS\n- Reliability (representative) vs. validity (measures the right thing).\n- MLU = total morphemes ÷ utterances; aim for 75-100 utterances.\n- Know the count-as-one vs. count-as-more-than-one rules.",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
+    },
+    {
+      "id": "ch7-note005",
+      "title": "Semantic, Pragmatic & Comprehension Levels",
+      "body": "SEMANTIC LEVEL — meaning created by the words used. For short utterances, semantic analysis is informative via two/three-word semantic relations, Halliday's communicative functions, or Dore's primitive speech acts. Vocabulary diversity can be measured with the type-token ratio (different words ÷ total words; ~0.5 in young children).\n\nPRAGMATIC LEVEL — social use of language (greetings, requesting, asking questions, appropriateness of responses, maintaining topics). At the two-word stage, children expand communicative intentions and develop new functions:\n- Mathetic function: using language for learning.\n- Informative function: telling someone something they don't know.\n- Pragmatic function: using language to get something done.\n\nCOMPREHENSION BEFORE PRODUCTION — receptive language is thought to develop before expressive. Babies respond to questions/emotions before understanding words, and comprehend words before producing them (Benedict: ~13 months, ~50 words understood vs. ~10 produced). Children first comprehend words from daily routines and build mental representations from exposure.\n\n★ KEY EXAM POINTS\n- Mathetic (learn) / informative (tell) / pragmatic (get things done).\n- Type-token ratio ≈ 0.5 for young children.\n- Comprehension precedes production (Benedict ~50 understood vs. ~10 produced at 13 mo).",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
+    },
+    {
+      "id": "ch7-note004",
+      "title": "Two-Word Semantic Relations (Brown's Stage I)",
+      "body": "When toddlers combine two words, the meaning is shown by the RELATIONSHIP between the words (Bloom's semantic-syntactic relations). Context decides the relation — \"Mommy sock\" could be possessor+possession (Mommy's sock) OR agent+object (Mommy putting a sock on), so always note what was happening.\n\nBrown's eight most common relations:\n- Agent + Action — \"Mommy eat\"\n- Action + Object — \"Kick ball\"\n- Agent + Object (verb omitted) — \"Daddy ball\"\n- Action + Locative — \"Go outside\"\n- Entity + Locative — \"Cup table\"\n- Possessor + Possession — \"My truck\"\n- Entity + Attribute — \"Big dog\"\n- Demonstrative + Entity — \"That car\"\n\nOther common relations: Recurrence (\"More juice\"), Nonexistence/Disappearance (\"Allgone cookie\"), Rejection (\"No bath\"), Denial (\"No doggy\" when a cat is called a dog), Notice/Greeting (\"Hi Mommy\").\n\n★ KEY EXAM POINTS\n- Meaning comes from the relation, not grammar.\n- Context disambiguates (e.g., \"Mommy sock\").\n- Nonexistence (gone) vs. Rejection (refused) vs. Denial (untrue).",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
+    },
+    {
+      "id": "ch7-note003",
+      "title": "Brown's 14 Grammatical Morphemes",
+      "body": "Brown (1973) identified 14 grammatical morphemes acquired in a fairly predictable order. A morpheme is counted as mastered when used correctly in ~90% of obligatory contexts (places Standard English requires it).\n\nTypical order of acquisition:\n1. Present progressive -ing (no helping verb) — \"Mommy driving\"\n2. Preposition \"in\" — \"Ball in box\"\n3. Preposition \"on\" — \"Cup on table\"\n4. Regular plural -s — \"cats, dogs, horses\"\n5. Irregular past tense — \"fell, broke, went\"\n6. Possessive 's — \"Daddy's car\"\n7. Uncontractible copula (be as main verb, can't shorten) — \"Who's sick?\" → \"He is.\"\n8. Articles a, the — \"a cookie\", \"the dog\"\n9. Regular past tense -ed — \"jumped, played, painted\"\n10. Regular third person singular -s — \"She runs\"\n11. Irregular third person singular — \"She has\", \"He does\"\n12. Uncontractible auxiliary (be as helper, can't shorten) — \"Who's running?\" → \"He is.\"\n13. Contractible copula — \"She's happy\"\n14. Contractible auxiliary — \"He's running\"\n\nTricky distinctions:\n- Copula vs. auxiliary: is \"be\" helping an -ing verb? Yes = auxiliary, No = copula (\"She is tall\" copula vs. \"She is eating\" auxiliary).\n- Contractible vs. uncontractible: could it be shortened in that exact spot? (\"He is nice\" contractible vs. \"Yes, he is\" uncontractible).\n- Plural vs. possessive vs. 3rd-person -s: noun meaning \"more than one\" vs. ownership vs. a he/she/it verb (\"cats\" / \"cat's toy\" / \"she eats\").\n\n★ KEY EXAM POINTS\n- -ing is first; the contractible copula/auxiliary are last.\n- 90% in obligatory contexts = mastered.\n- Know copula vs. auxiliary and contractible vs. uncontractible.",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
+    },
+    {
+      "id": "ch7-note002",
+      "title": "Brown's Stages & the Four Levels of Analysis",
+      "body": "As children move past single words, they combine words and add morphemes, increasing complexity. MLU (average meaningful units per utterance) is tracked against Brown's Stages of Syntactic Development (MLU ranges ↔ stages ↔ ages).\n\n- Early Stage 1 (MLU 1.0-1.5; ~12-22 mo): mostly one-word, one-morpheme utterances; a mix of jargon and single words; \"strings\" of single words that aren't true combinations. [review from Mod 6]\n- Late Stage 1 (MLU 1.5-2.0; ~22-26 mo): two-word combinations emerge (18-24 mo), with some 3-4 word combos; little morphology yet. [review]\n\nFOUR LEVELS we analyze language on:\n1. Syntax — sentence structure.\n2. Grammar / morphology — the rules for constructing words and sentences.\n3. Semantics — meaning.\n4. Pragmatics — social use.\n(Syntax and grammar overlap; treat syntax as structure and grammar/morphology as the rules.)\n\n★ KEY EXAM POINTS\n- MLU = total morphemes ÷ total utterances; tracked on Brown's stages.\n- Early Stage 1 = one-word; Late Stage 1 = two-word combinations.\n- Four levels: syntax, grammar, semantics, pragmatics.",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
+    },
+    {
+      "id": "ch7-note001",
+      "title": "Morphemes & Word Structure",
+      "body": "Morphemes are the smallest grammatical units that carry meaning. They can be whole words, word parts (prefixes, suffixes, roots), or grammatical endings.\n\n- Free morpheme: stands alone as a word (e.g., \"dog\", \"run\").\n- Bound morpheme: must attach to a word (prefixes, suffixes, grammatical endings like -ed, -s).\n- Derivational morphemes = prefixes and suffixes that create a new word or change its category:\n  • Prefix: added to the beginning (\"re-\" in \"replay\").\n  • Suffix: added to the end, can change category (\"-er\" in \"teacher\").\n- Inflectional morphemes: suffixes that act as grammatical markers (plurality, possession, verb tense) WITHOUT changing category (e.g., \"-ed\" past tense, \"-s\" plural/possessive).\n- Root word: the base carrying core meaning.\n\nCounting example (words vs. morphemes):\n- \"The dog runs fast\" = 4 words, but 5 morphemes (the / dog / run / -s / fast).\n- \"mom's running fast\" = 3 words, but 5 morphemes (mom / -s / run / -ing / fast).\n\n★ KEY EXAM POINTS\n- Free (alone) vs. bound (attached).\n- Derivational = new word/category; inflectional = grammatical marker, same category.\n- Be able to split words into morphemes for MLU.",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "Lecture 7: Emerging Syntax & Language Samples",
+      "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
+      "created": "2026-10-07T12:00:00-07:00"
+    },
     {
       "id": "ch5-note004",
       "title": "Theory of Mind",
