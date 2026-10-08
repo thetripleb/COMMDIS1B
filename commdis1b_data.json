@@ -49,6 +49,15 @@
       ],
       "created": "2026-09-21T12:30:00-07:00",
       "desc": "How communication develops from birth to age 2: influencing factors and SES/the word gap, parent-child and child-directed interactions (contingent responding, joint reference, parentese, expansion/extension), word learning (fast vs. slow mapping, phonological representations, three meaning hypotheses), prelinguistic vocal development (Bates' stages; cooing through jargon), gestures and pointing, and first words (over/underextension, Halliday, Dore, MLU)."
+    },
+    {
+      "id": "mod-5",
+      "name": "Cognitive Development II: Vygotsky",
+      "chapters": [
+        "Lecture 5: Cognitive Development II"
+      ],
+      "created": "2026-09-28T12:00:00-07:00",
+      "desc": "Vygotsky's sociocultural theory of cognitive development: private speech, the zone of proximal development and scaffolding, shape bias, the development of perception (visual-tactile and auditory), executive functions, controlled attention and working memory (phonological loop and visual-spatial sketchpad), and theory of mind."
     }
   ],
   "glossary": [
@@ -1381,6 +1390,16 @@
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "ch5-g002",
+      "term": "Executive functions",
+      "def": "A set of control processes in the brain that let us maintain attention, inhibit irrelevant associations, and use working memory; not fully developed until the mid-20s (which helps explain impulsive decisions in children, teens, and young adults).",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "Lecture 5: Cognitive Development II",
+      "source": "COMM DIS 1B Lecture 5: Cognitive Development II - Vygotsky (Ch. 3, pp. 89-108)",
+      "created": "2026-09-28T12:00:00-07:00"
     },
     {
       "id": "tx-g098",
@@ -3023,6 +3042,16 @@
       "created": "2026-08-19T18:49:16-07:00"
     },
     {
+      "id": "ch5-g003",
+      "term": "Phonological loop",
+      "def": "A working-memory storage system for the temporary holding of verbal messages and information (for long-term memory or speech).",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "Lecture 5: Cognitive Development II",
+      "source": "COMM DIS 1B Lecture 5: Cognitive Development II - Vygotsky (Ch. 3, pp. 89-108)",
+      "created": "2026-09-28T12:00:00-07:00"
+    },
+    {
       "id": "ch6-g005",
       "term": "Phonological representation",
       "def": "The stored sound pattern that represents a word; hearing the word later lets us retrieve the thing or concept associated with it.",
@@ -3391,6 +3420,16 @@
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "ch5-g001",
+      "term": "Private speech",
+      "def": "Vygotsky's term for the self-talk people use to direct their actions, learning, planning, and problem-solving. It starts out loud in childhood, becomes whispered with age, and is eventually internalized as inner thought.",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "Lecture 5: Cognitive Development II",
+      "source": "COMM DIS 1B Lecture 5: Cognitive Development II - Vygotsky (Ch. 3, pp. 89-108)",
+      "created": "2026-09-28T12:00:00-07:00"
     },
     {
       "id": "tx-g233",
@@ -4601,6 +4640,16 @@
       "chapter": "Theories handout",
       "source": "Theories of Language Acquisition (handout)",
       "created": "2026-09-09T15:05:00-07:00"
+    },
+    {
+      "id": "ch5-g004",
+      "term": "Visual-spatial sketchpad",
+      "def": "A working-memory storage system that lets us create and adjust mental images.",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "Lecture 5: Cognitive Development II",
+      "source": "COMM DIS 1B Lecture 5: Cognitive Development II - Vygotsky (Ch. 3, pp. 89-108)",
+      "created": "2026-09-28T12:00:00-07:00"
     },
     {
       "id": "tx-g326",
@@ -5973,6 +6022,126 @@
       "chapter": "Lecture 6: Communication Development Birth-2",
       "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
       "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
+      "id": "ch5-f001",
+      "front": "How did Vygotsky's view of development differ from Piaget's?",
+      "back": "Both combined nature and nurture, but Piaget saw a universal progression of stages, while Vygotsky saw development as a UNIQUE experience shaped by each child's social, cultural, and environmental interactions.",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "Lecture 5: Cognitive Development II",
+      "source": "COMM DIS 1B Lecture 5: Cognitive Development II - Vygotsky (Ch. 3, pp. 89-108)",
+      "created": "2026-09-28T12:00:00-07:00"
+    },
+    {
+      "id": "ch5-f002",
+      "front": "What is private speech, and how does it change with age?",
+      "back": "Self-talk used to direct action, learning, planning, and problem-solving; it starts out loud, becomes a whisper, and is eventually internalized as inner thought (Vygotsky).",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "Lecture 5: Cognitive Development II",
+      "source": "COMM DIS 1B Lecture 5: Cognitive Development II - Vygotsky (Ch. 3, pp. 89-108)",
+      "created": "2026-09-28T12:00:00-07:00"
+    },
+    {
+      "id": "ch5-f003",
+      "front": "What is the zone of proximal development (ZPD)?",
+      "back": "The range of skills a child can do WITH assistance but not yet independently; we support the next level rather than demanding skills out of range. (Review — introduced earlier.)",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "Lecture 5: Cognitive Development II",
+      "source": "COMM DIS 1B Lecture 5: Cognitive Development II - Vygotsky (Ch. 3, pp. 89-108)",
+      "created": "2026-09-28T12:00:00-07:00"
+    },
+    {
+      "id": "ch5-f004",
+      "front": "What is scaffolding and what's the goal?",
+      "back": "Support given to help someone accomplish a task within their ZPD, faded as they move toward doing it independently. (Review — introduced earlier.)",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "Lecture 5: Cognitive Development II",
+      "source": "COMM DIS 1B Lecture 5: Cognitive Development II - Vygotsky (Ch. 3, pp. 89-108)",
+      "created": "2026-09-28T12:00:00-07:00"
+    },
+    {
+      "id": "ch5-f005",
+      "front": "What is shape bias?",
+      "back": "Relating and extending a new word to other objects based on similar shape, using perception and prior knowledge.",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "Lecture 5: Cognitive Development II",
+      "source": "COMM DIS 1B Lecture 5: Cognitive Development II - Vygotsky (Ch. 3, pp. 89-108)",
+      "created": "2026-09-28T12:00:00-07:00"
+    },
+    {
+      "id": "ch5-f006",
+      "front": "What are executive functions, and when are they fully developed?",
+      "back": "Control processes for maintaining attention, inhibiting irrelevant associations, and using working memory; not fully developed until the mid-20s.",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "Lecture 5: Cognitive Development II",
+      "source": "COMM DIS 1B Lecture 5: Cognitive Development II - Vygotsky (Ch. 3, pp. 89-108)",
+      "created": "2026-09-28T12:00:00-07:00"
+    },
+    {
+      "id": "ch5-f007",
+      "front": "What is controlled attention?",
+      "back": "Maintaining attention on a task while ignoring internal and external distractions.",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "Lecture 5: Cognitive Development II",
+      "source": "COMM DIS 1B Lecture 5: Cognitive Development II - Vygotsky (Ch. 3, pp. 89-108)",
+      "created": "2026-09-28T12:00:00-07:00"
+    },
+    {
+      "id": "ch5-f008",
+      "front": "Why is working memory important?",
+      "back": "It lets us take in, hold, process, and retrieve task-relevant information and is one of the biggest predictors of learning ability.",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "Lecture 5: Cognitive Development II",
+      "source": "COMM DIS 1B Lecture 5: Cognitive Development II - Vygotsky (Ch. 3, pp. 89-108)",
+      "created": "2026-09-28T12:00:00-07:00"
+    },
+    {
+      "id": "ch5-f009",
+      "front": "Name the two working-memory storage systems and what each does.",
+      "back": "Phonological loop = temporary storage of verbal information; visual-spatial sketchpad = creating and adjusting mental images.",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "Lecture 5: Cognitive Development II",
+      "source": "COMM DIS 1B Lecture 5: Cognitive Development II - Vygotsky (Ch. 3, pp. 89-108)",
+      "created": "2026-09-28T12:00:00-07:00"
+    },
+    {
+      "id": "ch5-f010",
+      "front": "What is theory of mind?",
+      "back": "Understanding that others have their own perspectives, beliefs, intentions, thoughts, and emotions, which may differ from one's own; develops alongside language.",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "Lecture 5: Cognitive Development II",
+      "source": "COMM DIS 1B Lecture 5: Cognitive Development II - Vygotsky (Ch. 3, pp. 89-108)",
+      "created": "2026-09-28T12:00:00-07:00"
+    },
+    {
+      "id": "ch5-f011",
+      "front": "Explain the crayon-box theory-of-mind task.",
+      "back": "Jason hides candy in a crayon box; asked what Susie will think is inside, a child WITH theory of mind says 'crayons' (Susie didn't see the candy), while a child WITHOUT says 'candy.'",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "Lecture 5: Cognitive Development II",
+      "source": "COMM DIS 1B Lecture 5: Cognitive Development II - Vygotsky (Ch. 3, pp. 89-108)",
+      "created": "2026-09-28T12:00:00-07:00"
+    },
+    {
+      "id": "ch5-f012",
+      "front": "How do visual-tactile and auditory perception support early language?",
+      "back": "Visual/tactile input draws attention and supports parent-child bonding (babies are prewired for faces); auditory perception lets infants discriminate speech, recognize mother's voice, and attend to the human voice — evidence of innate speech processing.",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "Lecture 5: Cognitive Development II",
+      "source": "COMM DIS 1B Lecture 5: Cognitive Development II - Vygotsky (Ch. 3, pp. 89-108)",
+      "created": "2026-09-28T12:00:00-07:00"
     }
   ],
   "questions": [
@@ -7733,9 +7902,278 @@
           "right": "Fit new words to a model/prototype"
         }
       ]
+    },
+    {
+      "id": "ch5-q001",
+      "type": "mc",
+      "text": "Which theorist proposed private speech and emphasized social/cultural influence on development?",
+      "answer": "Lev Vygotsky",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "Lecture 5: Cognitive Development II",
+      "source": "COMM DIS 1B Lecture 5: Cognitive Development II - Vygotsky (Ch. 3, pp. 89-108)",
+      "created": "2026-09-28T12:00:00-07:00",
+      "options": [
+        "Jean Piaget",
+        "Lev Vygotsky",
+        "B.F. Skinner",
+        "Noam Chomsky"
+      ]
+    },
+    {
+      "id": "ch5-q002",
+      "type": "mc",
+      "text": "Unlike Piaget's universal stages, Vygotsky viewed development as:",
+      "answer": "A unique experience for each child",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "Lecture 5: Cognitive Development II",
+      "source": "COMM DIS 1B Lecture 5: Cognitive Development II - Vygotsky (Ch. 3, pp. 89-108)",
+      "created": "2026-09-28T12:00:00-07:00",
+      "options": [
+        "A fixed sequence of stages",
+        "A unique experience for each child",
+        "Purely genetic",
+        "Purely imitation-based"
+      ]
+    },
+    {
+      "id": "ch5-q003",
+      "type": "mc",
+      "text": "Which working-memory system temporarily stores verbal information?",
+      "answer": "Phonological loop",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "Lecture 5: Cognitive Development II",
+      "source": "COMM DIS 1B Lecture 5: Cognitive Development II - Vygotsky (Ch. 3, pp. 89-108)",
+      "created": "2026-09-28T12:00:00-07:00",
+      "options": [
+        "Visual-spatial sketchpad",
+        "Phonological loop",
+        "Controlled attention",
+        "Theory of mind"
+      ]
+    },
+    {
+      "id": "ch5-q004",
+      "type": "mc",
+      "text": "Executive functions are not fully developed until approximately:",
+      "answer": "The mid-20s",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "Lecture 5: Cognitive Development II",
+      "source": "COMM DIS 1B Lecture 5: Cognitive Development II - Vygotsky (Ch. 3, pp. 89-108)",
+      "created": "2026-09-28T12:00:00-07:00",
+      "options": [
+        "Age 7",
+        "Age 12",
+        "The mid-20s",
+        "Age 40"
+      ]
+    },
+    {
+      "id": "ch5-q005",
+      "type": "mc",
+      "text": "In the crayon-box task, a child WITH theory of mind will say Susie thinks the box contains:",
+      "answer": "Crayons",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "Lecture 5: Cognitive Development II",
+      "source": "COMM DIS 1B Lecture 5: Cognitive Development II - Vygotsky (Ch. 3, pp. 89-108)",
+      "created": "2026-09-28T12:00:00-07:00",
+      "options": [
+        "Candy",
+        "Crayons",
+        "Nothing",
+        "Both"
+      ]
+    },
+    {
+      "id": "ch5-q006",
+      "type": "mc",
+      "text": "Creating and adjusting mental images is the job of the:",
+      "answer": "Visual-spatial sketchpad",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "Lecture 5: Cognitive Development II",
+      "source": "COMM DIS 1B Lecture 5: Cognitive Development II - Vygotsky (Ch. 3, pp. 89-108)",
+      "created": "2026-09-28T12:00:00-07:00",
+      "options": [
+        "Phonological loop",
+        "Visual-spatial sketchpad",
+        "Phonological representation",
+        "Private speech"
+      ]
+    },
+    {
+      "id": "ch5-q007",
+      "type": "tf",
+      "text": "Vygotsky believed all children pass through the same universal sequence of stages.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "Lecture 5: Cognitive Development II",
+      "source": "COMM DIS 1B Lecture 5: Cognitive Development II - Vygotsky (Ch. 3, pp. 89-108)",
+      "created": "2026-09-28T12:00:00-07:00"
+    },
+    {
+      "id": "ch5-q008",
+      "type": "tf",
+      "text": "Private speech begins out loud and is gradually internalized as inner thought.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "Lecture 5: Cognitive Development II",
+      "source": "COMM DIS 1B Lecture 5: Cognitive Development II - Vygotsky (Ch. 3, pp. 89-108)",
+      "created": "2026-09-28T12:00:00-07:00"
+    },
+    {
+      "id": "ch5-q009",
+      "type": "tf",
+      "text": "Working memory is considered one of the biggest predictors of learning ability.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "Lecture 5: Cognitive Development II",
+      "source": "COMM DIS 1B Lecture 5: Cognitive Development II - Vygotsky (Ch. 3, pp. 89-108)",
+      "created": "2026-09-28T12:00:00-07:00"
+    },
+    {
+      "id": "ch5-q010",
+      "type": "tf",
+      "text": "Theory of mind is the understanding that others can hold perspectives different from your own.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "Lecture 5: Cognitive Development II",
+      "source": "COMM DIS 1B Lecture 5: Cognitive Development II - Vygotsky (Ch. 3, pp. 89-108)",
+      "created": "2026-09-28T12:00:00-07:00"
+    },
+    {
+      "id": "ch5-q011",
+      "type": "fitb",
+      "text": "Vygotsky's self-talk used to guide one's own actions and thinking is called ______ speech.",
+      "answer": "private",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "Lecture 5: Cognitive Development II",
+      "source": "COMM DIS 1B Lecture 5: Cognitive Development II - Vygotsky (Ch. 3, pp. 89-108)",
+      "created": "2026-09-28T12:00:00-07:00"
+    },
+    {
+      "id": "ch5-q012",
+      "type": "fitb",
+      "text": "The brain's control processes for attention, inhibition, and working memory are the ______ functions.",
+      "answer": "executive",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "Lecture 5: Cognitive Development II",
+      "source": "COMM DIS 1B Lecture 5: Cognitive Development II - Vygotsky (Ch. 3, pp. 89-108)",
+      "created": "2026-09-28T12:00:00-07:00"
+    },
+    {
+      "id": "ch5-q013",
+      "type": "fitb",
+      "text": "Maintaining focus while ignoring distractions is ______ attention.",
+      "answer": "controlled",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "Lecture 5: Cognitive Development II",
+      "source": "COMM DIS 1B Lecture 5: Cognitive Development II - Vygotsky (Ch. 3, pp. 89-108)",
+      "created": "2026-09-28T12:00:00-07:00"
+    },
+    {
+      "id": "ch5-q014",
+      "type": "match",
+      "text": "Match each term to its description.",
+      "answer": null,
+      "image": null,
+      "module": "mod-5",
+      "chapter": "Lecture 5: Cognitive Development II",
+      "source": "COMM DIS 1B Lecture 5: Cognitive Development II - Vygotsky (Ch. 3, pp. 89-108)",
+      "created": "2026-09-28T12:00:00-07:00",
+      "pairs": [
+        {
+          "left": "Private speech",
+          "right": "Self-talk that guides one's own actions"
+        },
+        {
+          "left": "Working memory",
+          "right": "Holding/processing task-relevant information"
+        },
+        {
+          "left": "Theory of mind",
+          "right": "Knowing others have their own perspectives"
+        },
+        {
+          "left": "Shape bias",
+          "right": "Extending a new word by similar shape"
+        }
+      ]
+    },
+    {
+      "id": "ch5-q015",
+      "type": "match",
+      "text": "Match each working-memory system to its function.",
+      "answer": null,
+      "image": null,
+      "module": "mod-5",
+      "chapter": "Lecture 5: Cognitive Development II",
+      "source": "COMM DIS 1B Lecture 5: Cognitive Development II - Vygotsky (Ch. 3, pp. 89-108)",
+      "created": "2026-09-28T12:00:00-07:00",
+      "pairs": [
+        {
+          "left": "Phonological loop",
+          "right": "Temporary storage of verbal information"
+        },
+        {
+          "left": "Visual-spatial sketchpad",
+          "right": "Creating and adjusting mental images"
+        }
+      ]
     }
   ],
   "notes": [
+    {
+      "id": "ch5-note004",
+      "title": "Theory of Mind",
+      "body": "Theory of mind is our grasp of the inner workings of perspectives, beliefs, intentions, thoughts, and emotions — our own and others'. It develops alongside language.\n\nEXAMPLES\n- Toddlers coming to understand that caregivers are independent of them.\n- Recognizing others' emotions.\n- Understanding that others may hold a different view/perspective.\n\nFALSE-BELIEF CHECK (crayon-box task)\nJason puts candy into a crayon box. Asked what his friend Susie will think is inside:\n- WITH theory of mind → \"crayons\" (Susie never saw the candy).\n- WITHOUT theory of mind → \"candy\" (the child knows the candy is there and can't separate their own knowledge from Susie's).\n\n★ KEY EXAM POINTS\n- Theory of mind = understanding others have separate minds/perspectives.\n- The crayon-box false-belief task: correct answer is \"crayons.\"\n- Develops alongside language.",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "Lecture 5: Cognitive Development II",
+      "source": "COMM DIS 1B Lecture 5: Cognitive Development II - Vygotsky (Ch. 3, pp. 89-108)",
+      "created": "2026-09-28T12:00:00-07:00"
+    },
+    {
+      "id": "ch5-note003",
+      "title": "Executive Functions, Attention & Memory",
+      "body": "EXECUTIVE FUNCTIONS\nControl processes in the brain that let us maintain attention, inhibit irrelevant associations, and use working memory. They are NOT fully developed until the mid-20s — which helps explain impulsive, irrational decisions in children, teens, and young adults.\n\nATTENTION & MEMORY (vital for language and learning — you can't have one without the other)\n- Controlled attention: maintaining attention while ignoring internal/external distractions.\n- Working memory: taking in, processing, holding, and retrieving task-relevant information; one of the biggest predictors of learning ability. Two storage systems:\n  1. Phonological loop — temporary storage of verbal messages/information (for long-term memory or speech).\n  2. Visual-spatial sketchpad — creating and adjusting mental images.\n\n★ KEY EXAM POINTS\n- Executive functions = attention + inhibition + working memory; mature in the mid-20s.\n- Working memory = top predictor of learning ability.\n- Two systems: phonological loop (verbal) vs. visual-spatial sketchpad (images).",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "Lecture 5: Cognitive Development II",
+      "source": "COMM DIS 1B Lecture 5: Cognitive Development II - Vygotsky (Ch. 3, pp. 89-108)",
+      "created": "2026-09-28T12:00:00-07:00"
+    },
+    {
+      "id": "ch5-note002",
+      "title": "Development of Perception",
+      "body": "Perception is how a person selects, organizes, integrates, and interprets sensory stimuli. Perception and cognition develop together as the senses mature.\n\n- Visual-tactile perception: early on, visual/tactile input draws attention (helping the child attend to the auditory stimuli crucial for language) and supports parent-child bonding. Infants are prewired to be interested in the features/shapes of human faces, aiding the early bond; joint attention (shared child-caregiver attention) is necessary for language development. [joint attention — review]\n- Auditory perception: infants can discriminate the sounds of all languages at birth (seen in head turns toward sound); early on they can detect when sounds begin/end, recognize the mother's voice, and tell speech from non-speech. This interest in the human voice is evidence of an innate ability to receive and process speech. With exposure, discrimination narrows to the sounds of the child's own language/culture.\n\n★ KEY EXAM POINTS\n- Perception = select, organize, integrate, interpret sensory input.\n- Visual/tactile first draws attention and bonds; auditory enables speech discrimination.\n- Innate broad sound discrimination narrows to the native language with exposure.",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "Lecture 5: Cognitive Development II",
+      "source": "COMM DIS 1B Lecture 5: Cognitive Development II - Vygotsky (Ch. 3, pp. 89-108)",
+      "created": "2026-09-28T12:00:00-07:00"
+    },
+    {
+      "id": "ch5-note001",
+      "title": "Vygotsky's Sociocultural Theory (vs. Piaget)",
+      "body": "Like Piaget, Lev Vygotsky's theory combines NATURE and NURTURE: children are born with abilities that are shaped by environmental and cultural exploration. But the views differ:\n- Piaget: children progress through a UNIVERSAL sequence of stages.\n- Vygotsky: development is a UNIQUE experience for each child, driven by social, environmental, and cultural interaction.\n\nKEY IDEAS\n- Private speech: self-talk used to direct actions, learning, planning, and problem-solving. Starts out loud → becomes a whisper → internalized as inner thought (the mental chatter we use all day).\n- Zone of proximal development (ZPD) [review]: the range of skills a child can do WITH assistance but not yet independently. Don't demand out-of-range skills — support the next level.\n- Scaffolding [review]: supports given to help accomplish a task within the ZPD, FADED as the child nears independence.\n- Shape bias: children relate and extend new words to other objects based on similar shape, using perception and prior knowledge.\n\n★ KEY EXAM POINTS\n- Piaget = universal stages; Vygotsky = unique, social/cultural.\n- Private speech progression: aloud → whisper → internal.\n- ZPD = \"with help but not alone\"; scaffolding = support that fades.",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "Lecture 5: Cognitive Development II",
+      "source": "COMM DIS 1B Lecture 5: Cognitive Development II - Vygotsky (Ch. 3, pp. 89-108)",
+      "created": "2026-09-28T12:00:00-07:00"
+    },
     {
       "id": "ch6-note005",
       "title": "Gestures, First Words & Communicative Functions",
