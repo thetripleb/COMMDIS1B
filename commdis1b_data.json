@@ -40,6 +40,15 @@
       ],
       "created": "2026-09-20T12:00:00-07:00",
       "desc": "Piaget's cognitive development: how knowledge is organized (schema, assimilation, accommodation, equilibrium) and his four stages (sensorimotor, preoperational, concrete operations, formal operations), with a detailed look at the six key sensorimotor skills and six substages that lay the groundwork for language."
+    },
+    {
+      "id": "mod-6",
+      "name": "Communication Development: Birth to 2 Years",
+      "chapters": [
+        "Lecture 6: Communication Development Birth-2"
+      ],
+      "created": "2026-09-21T12:30:00-07:00",
+      "desc": "How communication develops from birth to age 2: influencing factors and SES/the word gap, parent-child and child-directed interactions (contingent responding, joint reference, parentese, expansion/extension), word learning (fast vs. slow mapping, phonological representations, three meaning hypotheses), prelinguistic vocal development (Bates' stages; cooing through jargon), gestures and pointing, and first words (over/underextension, Halliday, Dore, MLU)."
     }
   ],
   "glossary": [
@@ -774,6 +783,16 @@
       "created": "2026-08-19T18:05:00-07:00"
     },
     {
+      "id": "ch4-g003",
+      "term": "Concrete operations",
+      "def": "Piaget's third stage (7 to 11 years); logical thinking and growth in reading/writing, but still limited in abstract thinking.",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
       "id": "ch3-g014",
       "term": "Conditioned response",
       "def": "The learned reaction to a conditioned stimulus.",
@@ -1044,6 +1063,16 @@
       "created": "2026-08-19T18:49:16-07:00"
     },
     {
+      "id": "ch4-g006",
+      "term": "Deferred imitation",
+      "def": "Imitating a behavior later by retrieving it from memory (without the model present); emerges in sensorimotor substage 6 and supports communication and play.",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
       "id": "tx-g072",
       "term": "Deictic gestures",
       "def": "Use of pointing, showing, or reaching for something to call attention to or indicate an object or event.",
@@ -1264,6 +1293,16 @@
       "created": "2026-08-19T18:49:16-07:00"
     },
     {
+      "id": "ch6-g014",
+      "term": "Early Stage 1",
+      "def": "The lower range of Brown's Stage I (MLU ~1.0-1.5): mostly single words with some early two-word combinations.",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
       "id": "ch3-g001",
       "term": "Echoic",
       "def": "One of Skinner's verbal operants: imitation of a model when objects or ideas are present.",
@@ -1464,6 +1503,16 @@
       "created": "2026-08-19T18:05:00-07:00"
     },
     {
+      "id": "ch4-g004",
+      "term": "Formal operations",
+      "def": "Piaget's fourth stage (11 to 15 years); the ability to think abstractly, use prior knowledge with new information, and plan for tasks.",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
       "id": "ch1-g005",
       "term": "Four Processes of Speech",
       "image": null,
@@ -1562,6 +1611,16 @@
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "ch6-g011",
+      "term": "Halliday's communicative functions",
+      "def": "Halliday's categorization of the purposes behind a child's communication into seven functions.",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
     },
     {
       "id": "ch1-g029",
@@ -1722,6 +1781,16 @@
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "ch6-g003",
+      "term": "Infant-directed singing",
+      "def": "Caregiver singing (e.g., lullabies) that soothes the infant and builds attachment by matching the caregiver's calming emotional state.",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
     },
     {
       "id": "tx-g126",
@@ -1954,6 +2023,16 @@
       "created": "2026-09-09T15:05:00-07:00"
     },
     {
+      "id": "ch6-g008",
+      "term": "Jargon",
+      "def": "Babbling that imitates adult-like speech patterns in intonation, stress, and rhythm; may mix with true words into toddlerhood.",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
       "id": "tx-g145",
       "term": "Jargon babbling",
       "def": "Final stage of babbling, also known as conversational babbling, in which productions are distinguished by melodic patterns and have many of the characteristics of real speech such as rhythm, stress, rate variations, and intonational contours.",
@@ -2012,6 +2091,16 @@
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "ch6-g002",
+      "term": "Joint reference",
+      "def": "Sharing the same focus of attention with a caregiver (begins ~2 months); requires shared eye contact and following eye-gaze or pointing. Sets the stage for language (also called joint attention).",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
     },
     {
       "id": "ch2-g007",
@@ -2102,6 +2191,16 @@
       "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
       "created": "2026-08-19T17:17:56-07:00",
       "def": "The 'voice box.' Its primary function is protecting the trachea and lungs from foreign material; its secondary function is sound production. Built from cartilages — most importantly the thyroid, cricoid, epiglottis, and arytenoids."
+    },
+    {
+      "id": "ch6-g015",
+      "term": "Late Stage 1",
+      "def": "The upper range of Brown's Stage I (MLU ~1.5-2.0): emerging two-word combinations.",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
     },
     {
       "id": "tx-g152",
@@ -2334,6 +2433,16 @@
       "created": "2026-08-19T18:49:16-07:00"
     },
     {
+      "id": "ch6-g013",
+      "term": "Mean length of utterance (MLU)",
+      "def": "The average number of morphemes per utterance; a common measure of a child's syntactic/grammatical development (Brown).",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
       "id": "tx-g168",
       "term": "Means-ends",
       "def": "Conceptual extension of causality; the understanding that there are ways (means) to attain a goal (end).",
@@ -2342,6 +2451,16 @@
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "ch4-g005",
+      "term": "Means/ends",
+      "def": "Using cause and effect to determine the means (actions) that achieve an end (goal), whether through actions or words; a key sensorimotor skill.",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
     },
     {
       "id": "tx-g169",
@@ -2904,6 +3023,16 @@
       "created": "2026-08-19T18:49:16-07:00"
     },
     {
+      "id": "ch6-g005",
+      "term": "Phonological representation",
+      "def": "The stored sound pattern that represents a word; hearing the word later lets us retrieve the thing or concept associated with it.",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
       "id": "tx-g205",
       "term": "Phonology",
       "def": "Study of speech sounds and the rules that determine how sounds can be sequenced into syllables and words in a language.",
@@ -2912,6 +3041,16 @@
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "ch6-g004",
+      "term": "Phonotactic patterns",
+      "def": "The rules that specify how sounds can be combined within a language.",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
     },
     {
       "id": "tx-g206",
@@ -3094,6 +3233,26 @@
       "created": "2026-09-09T15:05:00-07:00"
     },
     {
+      "id": "ch4-g007",
+      "term": "Pre-imitative behavior",
+      "def": "Early turn-taking imitation (substage 2): the infant does a behavior, an adult imitates it back, and the infant imitates in return; sets the stage for later play.",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch4-g002",
+      "term": "Preoperational thought",
+      "def": "Piaget's second stage (2 to 7 years); rapid language growth and learning through hands-on visual/motor tasks, but egocentric thinking and one-dimensional problem solving.",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
       "id": "tx-g220",
       "term": "Preparation phase",
       "def": "First stage of writing development in which a child is learning to form letters.",
@@ -3184,6 +3343,16 @@
       "created": "2026-08-19T18:49:16-07:00"
     },
     {
+      "id": "ch6-g012",
+      "term": "Primitive speech acts (PSA)",
+      "def": "Dore's categorization of one-word-stage communication into distinct purposes (e.g., labeling, answering, requesting an action, requesting an answer, calling, greeting, protesting, repeating, practicing).",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
       "id": "tx-g229",
       "term": "Principle of minimal distance",
       "def": "Concept that the preceding noun closest to the verb is treated as the subject of the sentence.",
@@ -3264,6 +3433,16 @@
       "created": "2026-08-19T18:49:16-07:00"
     },
     {
+      "id": "ch6-g009",
+      "term": "Protodeclaratives",
+      "def": "Bates' term for pointing that establishes joint attention by directing attention to things of interest.",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
       "id": "tx-g237",
       "term": "Protoimperative",
       "def": "Primitive speech act used as a request for objects or actions as well as to control and manipulate the behaviors of others.",
@@ -3272,6 +3451,16 @@
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "ch6-g010",
+      "term": "Protoimperatives",
+      "def": "Bates' term for pointing/gesturing used to have demands met or to control others. (Lack of pointing ~12 months can be a red flag for autism.)",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
     },
     {
       "id": "tx-g238",
@@ -3674,6 +3863,16 @@
       "def": "The inner-ear structures responsible for balance."
     },
     {
+      "id": "ch4-g001",
+      "term": "Sensorimotor intelligence",
+      "def": "Piaget's first stage of intellectual development (birth to 2 years); knowledge is built through the senses and motor action, and it is prerequisite to language development. Broken into 6 substages.",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "Lecture: Cognitive Development",
+      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
+      "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
       "id": "ch2-ppt-g013",
       "term": "Sensorimotor period",
       "def": "Piaget's first stage of cognitive development (birth–2 years), when symbolic play parallels the child's realization that words stand for people, places, and things.",
@@ -3762,6 +3961,16 @@
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "ch6-g006",
+      "term": "Slow (extended) mapping",
+      "def": "Building deeper, fuller word meaning over time through repeated exposure to a word in varied contexts.",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
     },
     {
       "id": "tx-g279",
@@ -4234,6 +4443,16 @@
       "created": "2026-08-19T18:49:16-07:00"
     },
     {
+      "id": "ch6-g007",
+      "term": "Transitional babbling",
+      "def": "Around 5 months: the transition from cooing into single-syllable vowel and consonant sounds.",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
       "id": "tx-g316",
       "term": "Transitional stage",
       "def": "Fourth and last stage of spelling development in which children may try a number of spelling strategies including using a particular spelling they saw in print, applying rules for spelling they observed, and continuing to rely on letter-name spellings and sounding-out strategies to spell words.",
@@ -4494,6 +4713,16 @@
       "created": "2026-08-19T18:49:16-07:00"
     },
     {
+      "id": "ch6-g001",
+      "term": "Word gap",
+      "def": "The roughly 30-million-word difference in language exposure by age 3 between children from the wealthiest vs. poorest families (low-income ~616 words/hr vs. professional ~2,153 words/hr).",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
       "id": "tx-g332",
       "term": "Word retrieval",
       "def": "Ability to recall stored information, or known words, from long-term memory.",
@@ -4542,76 +4771,6 @@
       "chapter": "Theories of Acquisition",
       "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
       "created": "2026-08-19T18:05:00-07:00"
-    },
-    {
-      "id": "ch4-g001",
-      "term": "Sensorimotor intelligence",
-      "def": "Piaget's first stage of intellectual development (birth to 2 years); knowledge is built through the senses and motor action, and it is prerequisite to language development. Broken into 6 substages.",
-      "image": null,
-      "module": "mod-4",
-      "chapter": "Lecture: Cognitive Development",
-      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
-      "created": "2026-09-20T12:00:00-07:00"
-    },
-    {
-      "id": "ch4-g002",
-      "term": "Preoperational thought",
-      "def": "Piaget's second stage (2 to 7 years); rapid language growth and learning through hands-on visual/motor tasks, but egocentric thinking and one-dimensional problem solving.",
-      "image": null,
-      "module": "mod-4",
-      "chapter": "Lecture: Cognitive Development",
-      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
-      "created": "2026-09-20T12:00:00-07:00"
-    },
-    {
-      "id": "ch4-g003",
-      "term": "Concrete operations",
-      "def": "Piaget's third stage (7 to 11 years); logical thinking and growth in reading/writing, but still limited in abstract thinking.",
-      "image": null,
-      "module": "mod-4",
-      "chapter": "Lecture: Cognitive Development",
-      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
-      "created": "2026-09-20T12:00:00-07:00"
-    },
-    {
-      "id": "ch4-g004",
-      "term": "Formal operations",
-      "def": "Piaget's fourth stage (11 to 15 years); the ability to think abstractly, use prior knowledge with new information, and plan for tasks.",
-      "image": null,
-      "module": "mod-4",
-      "chapter": "Lecture: Cognitive Development",
-      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
-      "created": "2026-09-20T12:00:00-07:00"
-    },
-    {
-      "id": "ch4-g005",
-      "term": "Means/ends",
-      "def": "Using cause and effect to determine the means (actions) that achieve an end (goal), whether through actions or words; a key sensorimotor skill.",
-      "image": null,
-      "module": "mod-4",
-      "chapter": "Lecture: Cognitive Development",
-      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
-      "created": "2026-09-20T12:00:00-07:00"
-    },
-    {
-      "id": "ch4-g006",
-      "term": "Deferred imitation",
-      "def": "Imitating a behavior later by retrieving it from memory (without the model present); emerges in sensorimotor substage 6 and supports communication and play.",
-      "image": null,
-      "module": "mod-4",
-      "chapter": "Lecture: Cognitive Development",
-      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
-      "created": "2026-09-20T12:00:00-07:00"
-    },
-    {
-      "id": "ch4-g007",
-      "term": "Pre-imitative behavior",
-      "def": "Early turn-taking imitation (substage 2): the infant does a behavior, an adult imitates it back, and the infant imitates in return; sets the stage for later play.",
-      "image": null,
-      "module": "mod-4",
-      "chapter": "Lecture: Cognitive Development",
-      "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
-      "created": "2026-09-20T12:00:00-07:00"
     }
   ],
   "flashcards": [
@@ -5574,6 +5733,246 @@
       "chapter": "Lecture: Cognitive Development",
       "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
       "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch6-f001",
+      "front": "What three things make up socioeconomic status (SES)?",
+      "back": "Family income, parental education, and parental occupation.",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
+      "id": "ch6-f002",
+      "front": "What is the 'word gap'?",
+      "back": "The ~30-million-word difference in language exposure by age 3 between children from the wealthiest vs. poorest families.",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
+      "id": "ch6-f003",
+      "front": "What is contingent responding?",
+      "back": "A back-and-forth where the infant initiates, the caregiver responds, and the infant responds back.",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
+      "id": "ch6-f004",
+      "front": "What is joint reference (joint attention) and when does it begin?",
+      "back": "Sharing the same focus of attention with a caregiver (~2 months); it requires shared eye contact and gaze/point following and sets the stage for language.",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
+      "id": "ch6-f005",
+      "front": "Expansion vs. extension?",
+      "back": "Expansion = repeat the child's utterance with fuller GRAMMAR ('shoe' → 'put shoes on'). Extension = add SEMANTIC info ('shoe' → 'let's put your red shoes on').",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
+      "id": "ch6-f006",
+      "front": "Fast mapping vs. slow (extended) mapping?",
+      "back": "Fast mapping = learning a word after even one exposure (not yet long-term). Slow/extended mapping = building fuller meaning through repeated, varied exposure.",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
+      "id": "ch6-f007",
+      "front": "What is a phonological representation?",
+      "back": "The stored sound pattern for a word that lets us retrieve its associated thing/concept when we hear it.",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
+      "id": "ch6-f008",
+      "front": "Name the three hypotheses of word-meaning learning.",
+      "back": "Semantic feature hypothesis, functional core hypothesis, and prototype hypothesis.",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
+      "id": "ch6-f009",
+      "front": "Name Bates' three stages of communicative development.",
+      "back": "Perlocutionary (birth-8 mo, reflexive), illocutionary (8-12 mo, intentional gestures/vocalizations), locutionary (first true words).",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
+      "id": "ch6-f010",
+      "front": "Trace the progression of vocalizations from birth to ~12 months.",
+      "back": "Reflexive cries → cooing (~2 mo) → transitional babbling (~5 mo) → reduplicated babbling (~6-7 mo) → variegated babbling & jargon (~9 mo) → first words (~12 mo).",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
+      "id": "ch6-f011",
+      "front": "Reduplicated vs. variegated babbling?",
+      "back": "Reduplicated = repeated identical CV syllables ('baba'). Variegated = combinations of DIFFERING sounds, more word-like (CVC).",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
+      "id": "ch6-f012",
+      "front": "What is jargon?",
+      "back": "Babbling with adult-like intonation, stress, and rhythm.",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
+      "id": "ch6-f013",
+      "front": "What are vocables?",
+      "back": "Self-invented sound combinations a child uses consistently and meaningfully — early intentional communication.",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
+      "id": "ch6-f014",
+      "front": "Deictic vs. representational gestures?",
+      "back": "Deictic = pointing something out (reaching, pointing, waving, giving). Representational = pretend-play or social gestures.",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
+      "id": "ch6-f015",
+      "front": "Protodeclaratives vs. protoimperatives (Bates)?",
+      "back": "Protodeclaratives = point to share/joint attention. Protoimperatives = point to demand or control others.",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
+      "id": "ch6-f016",
+      "front": "Why is lack of pointing around 12 months a concern?",
+      "back": "It's often considered a red flag for autism.",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
+      "id": "ch6-f017",
+      "front": "Overextension vs. underextension?",
+      "back": "Overextension = one word for too many things ('da' for dog AND cat). Underextension = a word for only one specific thing ('bee' only for one blanket).",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
+      "id": "ch6-f018",
+      "front": "Halliday vs. Dore — what did each categorize?",
+      "back": "Halliday: 7 communicative FUNCTIONS. Dore: primitive speech acts (PSA) of the one-word stage (labeling, requesting, etc.).",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
+      "id": "ch6-f019",
+      "front": "What is mean length of utterance (MLU)?",
+      "back": "The average number of morphemes per utterance — a measure of syntactic development (Brown).",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
+      "id": "ch6-f020",
+      "front": "Early vs. Late Stage 1 (Brown)?",
+      "back": "Early Stage 1 ≈ MLU 1.0-1.5 (mostly single words); Late Stage 1 ≈ MLU 1.5-2.0 (two-word combinations emerge).",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
+      "id": "ch6-f021",
+      "front": "What is presupposition?",
+      "back": "Assuming/interpreting what a listener already knows so as not to overshare; begins ~18 months.",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
+      "id": "ch6-f022",
+      "front": "Which side of the nature/nurture debate do the SES/word-gap findings support?",
+      "back": "Nurture — more caregiver talk predicts higher vocabulary, IQ, and later language skills.",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
+      "id": "ch6-f023",
+      "front": "List several factors that influence language development.",
+      "back": "Race/ethnicity; social class, education & occupation; region; gender; situation/context; peer group; first-language community/culture.",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
+      "id": "ch6-f024",
+      "front": "What is infant-directed singing?",
+      "back": "Caregiver singing (lullabies) that soothes and builds attachment by matching a calming emotional state.",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
     }
   ],
   "questions": [
@@ -6975,9 +7374,418 @@
           "right": "One object represents another"
         }
       ]
+    },
+    {
+      "id": "ch6-q001",
+      "type": "mc",
+      "text": "Socioeconomic status (SES) is made up of family income, parental occupation, and:",
+      "answer": "Parental education",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00",
+      "options": [
+        "Parental education",
+        "Region",
+        "Gender",
+        "Peer group"
+      ]
+    },
+    {
+      "id": "ch6-q002",
+      "type": "mc",
+      "text": "An infant initiates, the caregiver responds, and the infant responds back. This is:",
+      "answer": "Contingent responding",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00",
+      "options": [
+        "Joint reference",
+        "Contingent responding",
+        "Fast mapping",
+        "Presupposition"
+      ]
+    },
+    {
+      "id": "ch6-q003",
+      "type": "mc",
+      "text": "A caregiver adds SEMANTIC information to the child's word ('shoe' → 'let's put your red shoes on'). This is an:",
+      "answer": "Extension",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00",
+      "options": [
+        "Expansion",
+        "Extension",
+        "Overextension",
+        "Illocution"
+      ]
+    },
+    {
+      "id": "ch6-q004",
+      "type": "mc",
+      "text": "Learning a new word after only a single exposure (before age 1) is called:",
+      "answer": "Fast mapping",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00",
+      "options": [
+        "Slow mapping",
+        "Fast mapping",
+        "Jargon",
+        "Presupposition"
+      ]
+    },
+    {
+      "id": "ch6-q005",
+      "type": "mc",
+      "text": "Repeated identical consonant-vowel syllables like 'baba' are:",
+      "answer": "Reduplicated babbling",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00",
+      "options": [
+        "Variegated babbling",
+        "Reduplicated babbling",
+        "Jargon",
+        "Cooing"
+      ]
+    },
+    {
+      "id": "ch6-q006",
+      "type": "mc",
+      "text": "Babbling that carries adult-like intonation, stress, and rhythm is:",
+      "answer": "Jargon",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00",
+      "options": [
+        "Vocables",
+        "Jargon",
+        "Cooing",
+        "Reduplicated babbling"
+      ]
+    },
+    {
+      "id": "ch6-q007",
+      "type": "mc",
+      "text": "In Bates' stages, the birth-to-8-month reflexive period is the:",
+      "answer": "Perlocutionary stage",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00",
+      "options": [
+        "Perlocutionary stage",
+        "Illocutionary stage",
+        "Locutionary stage",
+        "Preoperational stage"
+      ]
+    },
+    {
+      "id": "ch6-q008",
+      "type": "mc",
+      "text": "Using 'da' for both a dog and a cat is an example of:",
+      "answer": "Overextension",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00",
+      "options": [
+        "Underextension",
+        "Overextension",
+        "Fast mapping",
+        "Jargon"
+      ]
+    },
+    {
+      "id": "ch6-q009",
+      "type": "mc",
+      "text": "Pointing to share interest and establish joint attention is a:",
+      "answer": "Protodeclarative",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00",
+      "options": [
+        "Protoimperative",
+        "Protodeclarative",
+        "Deictic demand",
+        "Vocable"
+      ]
+    },
+    {
+      "id": "ch6-q010",
+      "type": "mc",
+      "text": "The average number of morphemes per utterance is the:",
+      "answer": "Mean length of utterance (MLU)",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00",
+      "options": [
+        "Word gap",
+        "Mean length of utterance (MLU)",
+        "Phonotactic pattern",
+        "Presupposition"
+      ]
+    },
+    {
+      "id": "ch6-q011",
+      "type": "tf",
+      "text": "Joint reference (shared attention with a caregiver) sets the stage for language and begins around 2 months.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
+      "id": "ch6-q012",
+      "type": "tf",
+      "text": "In fast mapping, a child immediately stores the new word in long-term memory.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
+      "id": "ch6-q013",
+      "type": "tf",
+      "text": "Variegated babbling uses combinations of differing sounds and is more word-like than reduplicated babbling.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
+      "id": "ch6-q014",
+      "type": "tf",
+      "text": "A lack of pointing around 12 months can be a red flag for autism.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
+      "id": "ch6-q015",
+      "type": "tf",
+      "text": "Protoimperatives are used to share interest, while protodeclaratives are used to make demands.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
+      "id": "ch6-q016",
+      "type": "tf",
+      "text": "The SES/word-gap research supports the nurture side of the debate.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
+      "id": "ch6-q017",
+      "type": "fitb",
+      "text": "The stored sound pattern that represents a word is its ______ representation.",
+      "answer": "phonological",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
+      "id": "ch6-q018",
+      "type": "fitb",
+      "text": "Building deeper word meaning through repeated, varied exposure is ______ (or extended) mapping.",
+      "answer": "slow",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
+      "id": "ch6-q019",
+      "type": "fitb",
+      "text": "Self-invented sound combinations used consistently and meaningfully are called ______.",
+      "answer": "vocables",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
+      "id": "ch6-q020",
+      "type": "fitb",
+      "text": "Using a word for only one specific referent (not others of the same type) is ______.",
+      "answer": "underextension",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
+      "id": "ch6-q021",
+      "type": "match",
+      "text": "Match each vocalization stage to its description.",
+      "answer": null,
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00",
+      "pairs": [
+        {
+          "left": "Cooing",
+          "right": "Early vowel-like sounds of pleasure (~2 mo)"
+        },
+        {
+          "left": "Reduplicated babbling",
+          "right": "Repeated identical CV syllables (~6-7 mo)"
+        },
+        {
+          "left": "Variegated babbling",
+          "right": "Differing sound combinations, word-like (~9 mo)"
+        },
+        {
+          "left": "Jargon",
+          "right": "Adult-like intonation, stress, and rhythm"
+        }
+      ]
+    },
+    {
+      "id": "ch6-q022",
+      "type": "match",
+      "text": "Match each Bates communicative stage to its age/feature.",
+      "answer": null,
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00",
+      "pairs": [
+        {
+          "left": "Perlocutionary stage",
+          "right": "Birth-8 mo, reflexive; caregiver interprets"
+        },
+        {
+          "left": "Illocutionary stage",
+          "right": "8-12 mo, intentional gestures/vocalizations"
+        },
+        {
+          "left": "Locutionary stage",
+          "right": "First true words"
+        }
+      ]
+    },
+    {
+      "id": "ch6-q023",
+      "type": "match",
+      "text": "Match each word-learning hypothesis to its core idea.",
+      "answer": null,
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00",
+      "pairs": [
+        {
+          "left": "Semantic feature hypothesis",
+          "right": "Meaning via distinguishing (perceptual) features"
+        },
+        {
+          "left": "Functional core hypothesis",
+          "right": "Meaning via what things do (function)"
+        },
+        {
+          "left": "Prototype hypothesis",
+          "right": "Fit new words to a model/prototype"
+        }
+      ]
     }
   ],
   "notes": [
+    {
+      "id": "ch6-note005",
+      "title": "Gestures, First Words & Communicative Functions",
+      "body": "GESTURES\n- Deictic gestures: point something out (reaching, pointing, waving, giving).\n- Representational gestures: more sophisticated (pretend play; social gestures).\n- Bates' two types of pointing:\n  • Protodeclaratives — point to share/establish joint attention.\n  • Protoimperatives — point to make demands or control others.\n- RED FLAG: lack of pointing ~12 months can indicate autism risk.\n\nFIRST WORDS (~12 months)\n- Limited sound inventory; words are familiar/high-interest; simplified (CV like \"ba\" for bottle, or duplicated CVCV like \"mama\").\n- Overextension: one word for too many referents (\"da\" for dog and cat).\n- Underextension: a word for only one specific referent (\"bee\" only for one blanket).\n\nCOMMUNICATIVE PURPOSE\n- Halliday's communicative functions: 7 categories of WHY a child communicates.\n- Dore's primitive speech acts (PSA) of the one-word stage: labeling, answering, requesting an action, requesting an answer, calling, greeting, protesting, repeating/imitating, practicing.\n\nSYNTAX MEASURE & CONVERSATION\n- Mean length of utterance (MLU): average morphemes per utterance (Brown). Early Stage 1 ≈ MLU 1.0-1.5 (single words); Late Stage 1 ≈ MLU 1.5-2.0 (two-word combos emerge).\n- Presupposition: assuming what a listener already knows so as not to overshare; begins ~18 months.\n\n★ KEY EXAM POINTS\n- Deictic (point out) vs. representational (pretend/social); protodeclarative (share) vs. protoimperative (demand).\n- Overextension (too broad) vs. underextension (too narrow).\n- Halliday = functions; Dore = primitive speech acts; MLU = morphemes per utterance.",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
+      "id": "ch6-note004",
+      "title": "Prelinguistic Vocal Development (Bates' Stages)",
+      "body": "BATES' STAGES OF COMMUNICATIVE DEVELOPMENT\n- Perlocutionary stage (birth-8 mo): baby responds reflexively; caregivers interpret intent.\n- Illocutionary stage (8-12 mo): intentional vocalizations + gestures express messages (before true words); pointing and imitation advance.\n- Locutionary stage: first true words / intentional communication.\n\nVOCALIZATION PROGRESSION\n- Reflexive cries (birth) → differentiated cries (hunger, pain, anger ~1 mo; discomfort/call/request ~2 mo).\n- Cooing (~2 mo): vowel-like pleasure sounds; start of back-and-forth.\n- Transitional babbling (~5 mo): cooing → single-syllable V/C sounds.\n- Reduplicated babbling (~6-7 mo): repeated identical CV syllables; front sounds (m, p, b, t, d, n).\n- Echolalia (8-12 mo): imitates sounds/syllables/words without true meaning.\n- Variegated babbling (~9 mo): differing-sound CV combinations, word-like (CVC).\n- Jargon: adult-like intonation/stress/rhythm; mixes with early true words.\n- Vocables: consistent self-invented sound combos used meaningfully — early intentional communication.\n\n★ KEY EXAM POINTS\n- Order: cries → cooing → transitional → reduplicated → variegated/jargon → words.\n- Reduplicated = same syllable repeated; variegated = different sounds combined.\n- Bates: perlocutionary (reflexive) → illocutionary (intentional gestures) → locutionary (words).",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
+      "id": "ch6-note003",
+      "title": "Word Learning",
+      "body": "Infants need good hearing to discriminate speech sounds, words, and intonation; keep words in memory; and learn speech patterns.\n\n- Phonotactic patterns: the rules for how sounds combine in a language.\n- Phonological representations: stored sound patterns for words (root \"phon\" = sound); hearing a word retrieves its associated thing/concept.\n- Word-learning sequence: hear the word (auditory cue) → activate the sound pattern (phonological representation) → connect to the thing/concept (semantic level) → comprehension.\n- Fast mapping: learn a word after even ONE exposure (before age 1); not yet held long-term.\n- Slow/extended mapping: build deeper meaning through repeated, varied exposure.\n- Shift over time: early word learning leans on phonological representations; by ~2 years (a language spurt) children rely more on the SEMANTIC level.\n\nTHREE HYPOTHESES OF WORD MEANING\n- Semantic feature hypothesis: meaning via distinguishing (usually perceptual) features.\n- Functional core hypothesis: meaning via what animate/inanimate things DO.\n- Prototype hypothesis: form a model/prototype of features + function; fit new words to it.\n\n★ KEY EXAM POINTS\n- Fast mapping (one exposure, not retained) vs. slow/extended mapping (repeated, deeper).\n- Sequence: auditory cue → phonological representation → semantic connection.\n- Know the 3 hypotheses by their core idea.",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
+      "id": "ch6-note002",
+      "title": "Parent-Child & Child-Directed Interactions",
+      "body": "Preparation begins in the womb (exposure to the mother's voice, rhythms, taste, smell). Early supports:\n- Infant-directed singing: lullabies soothe and build attachment by matching a calming emotional state.\n- Rhymes & stories: teach turn-taking structure, build word awareness, and help children predict how stories go.\n\nCHILD-DIRECTED INTERACTIONS\n- Contingent responding: infant initiates → caregiver responds → infant responds back.\n- Joint reference (joint attention): sharing the same focus with a caregiver (~2 months); needs shared eye contact and gaze/point following; sets the stage for language.\n- Motherese/parentese (review): higher pitch, exaggerated intonation, shorter/simpler phrases, slower rate, more repetition, exaggerated facial expressions.\n- Expansion (review): repeat the child's utterance with fuller grammar (\"shoe\" → \"put shoes on\").\n- Extension: add semantic information (\"shoe\" → \"let's put your red shoes on\").\n\nFACILITATING A STRONG LANGUAGE ENVIRONMENT\nStart from birth, be responsive, follow the child's lead/interests, use expansions and extensions, share picture books and simple stories.\n\n★ KEY EXAM POINTS\n- Contingent responding = the initiate-respond-respond loop.\n- Joint reference ~2 months = foundation for language.\n- Expansion = grammar; Extension = meaning.",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
+    {
+      "id": "ch6-note001",
+      "title": "SES, Influencing Factors & the Word Gap",
+      "body": "Infants are born able to discriminate the speech sounds of ALL languages; experience shapes speech/language to their culture and environment.\n\nSEVEN FACTORS THAT INFLUENCE LANGUAGE DEVELOPMENT\n1. Race and ethnicity\n2. Social class, education, and occupation\n3. Region\n4. Gender\n5. Situation or context\n6. Peer group association or identification\n7. First-language community or culture\n\nSOCIOECONOMIC STATUS (SES)\n- \"A person's SES includes family income, parental education, and occupation of the parents.\"\n- Impacts health (prenatal/health care, nourishment, environmental exposure), safety (living conditions, access to drugs/weapons), and education (parent education level, absences, limited language/literacy exposure).\n\nTHE WORD GAP\n- Language tracked by SES: low-income ~616 words/hr, working-class ~1,251/hr, professional ~2,153/hr.\n- Projected ~30-million-word gap by age 3 between wealthiest and poorest families.\n- More caregiver talk → higher vocabulary and IQ at 3, stronger language at 9-10. It's not only the NUMBER of words but exposure across many CONTEXTS (e.g., \"water\" for a drink, watering a plant, filling the tub).\n\n★ KEY EXAM POINTS\n- SES = income + parental education + parental occupation.\n- Word gap ≈ 30 million words by age 3; supports the NURTURE side.\n- Language-rich = same word modeled across varied contexts.",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "Lecture 6: Communication Development Birth-2",
+      "source": "COMM DIS 1B Lecture 6: Communication Development Birth-2 (Ch. 4)",
+      "created": "2026-09-21T12:30:00-07:00"
+    },
     {
       "id": "ch3-ppt-note001",
       "title": "Theories at a Glance — Nature / Nurture Placement",
