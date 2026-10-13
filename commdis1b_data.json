@@ -313,7 +313,7 @@
       "term": "Anaphoric reference",
       "def": "Type of reference in which a pronoun is used to refer to something in a preceding utterance.",
       "image": null,
-      "module": null,
+      "module": "mod-8",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -473,7 +473,7 @@
       "term": "Auxiliary verb",
       "def": "\"Helping\" verb, such as be, do, or have, that accompanies a main verb and expresses tense, aspect, modality, voice, or emphasis.",
       "image": null,
-      "module": null,
+      "module": "mod-8",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -563,7 +563,7 @@
       "term": "Bound morpheme",
       "def": "Morphemes that are attached to words and cannot stand alone (e.g., possessive form of -s).",
       "image": null,
-      "module": null,
+      "module": "mod-7",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -653,7 +653,7 @@
       "term": "Centering",
       "def": "Organizational narrative structure that involves building a story around a central theme with each item or action in the narrative being connected to the central theme by an attribute that is related to the theme.",
       "image": null,
-      "module": null,
+      "module": "mod-8",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -943,7 +943,7 @@
       "term": "Contingent responding",
       "def": "Parent's prompt response to a child's behavior or verbalization.",
       "image": null,
-      "module": null,
+      "module": "mod-6",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -973,7 +973,7 @@
       "term": "Controlled attention",
       "def": "Capacity to maintain and hold relevant information, especially when there are internal or external distractions or interferences in the environment.",
       "image": null,
-      "module": null,
+      "module": "mod-5",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -983,7 +983,7 @@
       "term": "Conversational repair",
       "def": "Revision, clarification, or repetition of a message to increase the chances of successful communication.",
       "image": null,
-      "module": null,
+      "module": "mod-8",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -1003,7 +1003,7 @@
       "term": "Cooing",
       "def": "Production of vowel-like sounds and brief consonant-like sound during the first few months.",
       "image": null,
-      "module": null,
+      "module": "mod-6",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -1013,7 +1013,7 @@
       "term": "Copula verb",
       "def": "Word used to link the subject and predicate of a sentence; main verb.",
       "image": null,
-      "module": null,
+      "module": "mod-9",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -1163,7 +1163,7 @@
       "term": "Deictic gestures",
       "def": "Use of pointing, showing, or reaching for something to call attention to or indicate an object or event.",
       "image": null,
-      "module": null,
+      "module": "mod-6",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -1183,7 +1183,7 @@
       "term": "Deixis",
       "def": "Phenomenon in which understanding the meaning of certain words and phrases in an utterance requires contextual information; message interpretation depends on extralinguistic contexts, such as who is speaking, time, place, location, and gestures of the speaker.",
       "image": null,
-      "module": null,
+      "module": "mod-9",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -1213,7 +1213,7 @@
       "term": "Derivational morpheme",
       "def": "Morphemes added to the beginning (e.g., re-, un-) and end (e.g., -ly, -un) of words; prefixes and suffixes.",
       "image": null,
-      "module": null,
+      "module": "mod-7",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -1223,7 +1223,7 @@
       "term": "Determiner",
       "def": "First unit in a noun phrase that is an article (a, the), a possessive pronoun (my, his, her), a demonstrative pronoun (this, that, these, those), or a qualifier (some, most, any).",
       "image": null,
-      "module": null,
+      "module": "mod-8",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -1533,7 +1533,7 @@
       "term": "Extension",
       "def": "When an adult repeats a child's utterance adding additional words, structure, and new information to the utterance.",
       "image": null,
-      "module": null,
+      "module": "mod-6",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -1563,7 +1563,7 @@
       "term": "Fast mapping",
       "def": "Act of learning a new concept after limited exposure, commonly used by young children when acquiring language.",
       "image": null,
-      "module": null,
+      "module": "mod-6",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -1573,7 +1573,7 @@
       "term": "Figurative language",
       "def": "Nonliteral form of language used to describe something by comparing it with something else (e.g., idioms, similes, metaphors, and irony).",
       "image": null,
-      "module": null,
+      "module": "mod-9",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -1653,7 +1653,7 @@
       "term": "Functional core hypothesis",
       "def": "Idea that children do not categorize things according to perceptual attributes (e.g., shapes and size), but rather develop meanings of early words based on their actions if they are animate objects, or on the objects performed on them if they are inanimate objects; children form concepts by viewing objects in terms of the whole, not a sum of parts or features.",
       "image": null,
-      "module": null,
+      "module": "mod-6",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -1723,7 +1723,7 @@
       "term": "Grammatical ellipsis",
       "def": "When speakers delete or withhold information that they assume listeners already possess.",
       "image": null,
-      "module": null,
+      "module": "mod-9",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -1843,7 +1843,7 @@
       "term": "Illocutionary stage",
       "def": "Time between 8 and about 12 months of age when infants begin to use gestures and combine these with vocalizations to express a range of specific and recognizable communicative functions.",
       "image": null,
-      "module": null,
+      "module": "mod-6",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -1913,7 +1913,7 @@
       "term": "Indirect request",
       "def": "Expression of desire or inclination requiring the receiver of a request to use an inference (I am very thirsty).",
       "image": null,
-      "module": null,
+      "module": "mod-9",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -1933,7 +1933,7 @@
       "term": "Inflection",
       "def": "Change in a word created by adding a grammatical morpheme.",
       "image": null,
-      "module": null,
+      "module": "mod-8",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -1943,7 +1943,7 @@
       "term": "Inflectional morpheme",
       "def": "Suffixes that change the meaning of words by marking grammatical adjustments for things such as plurality, possession, and verb tense.",
       "image": null,
-      "module": null,
+      "module": "mod-7",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -2463,7 +2463,7 @@
       "term": "Locutionary stage",
       "def": "Time around 12 months and older when a child begins using words to communicate.",
       "image": null,
-      "module": null,
+      "module": "mod-6",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -2633,7 +2633,7 @@
       "term": "Metalinguistics",
       "def": "Ability to think about the language and manipulate the components of language, such as counting syllables and sounds in words.",
       "image": null,
-      "module": null,
+      "module": "mod-8",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -2803,7 +2803,7 @@
       "term": "Narrative",
       "def": "A story; an account of events or experiences.",
       "image": null,
-      "module": null,
+      "module": "mod-8",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -2923,7 +2923,7 @@
       "term": "Noun phrase",
       "def": "Group of words containing a noun and words that describe or modify the noun.",
       "image": null,
-      "module": null,
+      "module": "mod-8",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -3093,7 +3093,7 @@
       "term": "Overextension",
       "def": "When a child uses a word or concept too broadly (e.g., calling all four-legged animals \"doggie\").",
       "image": null,
-      "module": null,
+      "module": "mod-6",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -3173,7 +3173,7 @@
       "term": "Perlocutionary stage",
       "def": "Time between birth and about 8 months of age during which infants respond in a reflexive manner to their environment and are not signaling any communication intent other than crying and nonspecific use of face and body.",
       "image": null,
-      "module": null,
+      "module": "mod-6",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -3213,7 +3213,7 @@
       "term": "Phonological awareness",
       "def": "Ability to focus on and understand the sound structure of language.",
       "image": null,
-      "module": null,
+      "module": "mod-9",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -3533,7 +3533,7 @@
       "term": "Presupposition",
       "def": "Assumption that speakers make concerning what their listener knows about the subject of their conversation.",
       "image": null,
-      "module": null,
+      "module": "mod-6",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -3633,7 +3633,7 @@
       "term": "Print referencing",
       "def": "During reading, when a caregiver highlights and points out basic elements of print to direct a child's attention to the forms, features, and functions of written language.",
       "image": null,
-      "module": null,
+      "module": "mod-9",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -3643,7 +3643,7 @@
       "term": "Print-concept knowledge",
       "def": "Knowledge of the rule-governed organizational properties of print, including being able to show the front of the book, the title, the difference between pictures and print, left-to-right and top-to-bottom directionality for reading, and the concepts of letter and first letter in a word.",
       "image": null,
-      "module": null,
+      "module": "mod-9",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -3673,7 +3673,7 @@
       "term": "Pronoun",
       "def": "Word that takes the place of a noun or noun phrase.",
       "image": null,
-      "module": null,
+      "module": "mod-8",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -3753,7 +3753,7 @@
       "term": "Prototype hypothesis",
       "def": "Idea that children rely on both perceptual features and functions of words to develop early meanings; children build mental models of a conceptual category—an ideal or representative example (prototype) that other members of this group must resemble.",
       "image": null,
-      "module": null,
+      "module": "mod-6",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -3883,7 +3883,7 @@
       "term": "Reduplicated babbling",
       "def": "More specific term for babbling involving repeated consonant-vowel (CV) syllables (e.g., \"mamama\").",
       "image": null,
-      "module": null,
+      "module": "mod-6",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -4003,7 +4003,7 @@
       "term": "Representational gestures",
       "def": "Signify some features of an object or its function; have meaning independent of the objects (e.g., holding a fist to the ear to mean \"telephone\").",
       "image": null,
-      "module": null,
+      "module": "mod-6",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -4133,7 +4133,7 @@
       "term": "Semantic feature hypothesis",
       "def": "Idea that the order of appearance of words in the course of a child's language acquisition is governed by the type and complexity of the semantic features they contain.",
       "image": null,
-      "module": null,
+      "module": "mod-6",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -4253,7 +4253,7 @@
       "term": "Shape bias",
       "def": "Tendency of young children learning common nouns to generalize on the basis of shape, rather than material, color, or texture.",
       "image": null,
-      "module": null,
+      "module": "mod-5",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -4373,7 +4373,7 @@
       "term": "Socioeconomic status (SES)",
       "def": "Position of an individual on a hierarchical social-economic scale that measures factors such as education, income, type of occupation, and place of residence.",
       "image": null,
-      "module": null,
+      "module": "mod-6",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -4663,7 +4663,7 @@
       "term": "Theory of mind",
       "def": "Cognitive ability to designate mental states—beliefs, intents, desires, knowledge, and so on—to oneself and others, and to understand that others have different mental states than oneself.",
       "image": null,
-      "module": null,
+      "module": "mod-5",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -4873,7 +4873,7 @@
       "term": "Underextension",
       "def": "When a child uses a word too narrowly (e.g., only calling golden retrievers \"doggie\"); not applying a new word to things that are included in the meaning of that word.",
       "image": null,
-      "module": null,
+      "module": "mod-6",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -4923,7 +4923,7 @@
       "term": "Variegated babbling",
       "def": "More complex form of babbling involving more complex combinations of consonant and vowel syllables (e.g., \"madagaba\").",
       "image": null,
-      "module": null,
+      "module": "mod-6",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -4943,7 +4943,7 @@
       "term": "Verb phrase",
       "def": "Group of words that contains a verb and possibly other supporting or qualifying words.",
       "image": null,
-      "module": null,
+      "module": "mod-8",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -4993,7 +4993,7 @@
       "term": "Vocables",
       "def": "Consistent patterns of sounds, unique to individual children, used in reference to particular things or situations; also referred to as phonetically consistent forms, performatives, or protowords.",
       "image": null,
-      "module": null,
+      "module": "mod-6",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -5143,7 +5143,7 @@
       "term": "Working memory",
       "def": "System that actively holds and allows for the voluntary, focused, and exclusive processing and maintenance of task-relevant information.",
       "image": null,
-      "module": null,
+      "module": "mod-5",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
