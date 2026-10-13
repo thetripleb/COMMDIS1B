@@ -76,6 +76,15 @@
       ],
       "created": "2026-10-07T13:00:00-07:00",
       "desc": "Language development through the preschool years across Brown's Stages 2-3: inflections and contractible/uncontractible verbs, pronouns and anaphoric reference, auxiliary verbs, noun and verb phrases, negation and question formation, semantic/vocabulary growth, and the emergence of conversation, conversational repair, narratives/protonarratives (centering), and metalinguistic awareness."
+    },
+    {
+      "id": "mod-9",
+      "name": "Preschool Language Development II (Brown's Stages 4-5)",
+      "chapters": [
+        "Lecture 9: Preschool Language (Brown's Stages 4-5)"
+      ],
+      "created": "2026-10-13T08:00:00-07:00",
+      "desc": "Later preschool language across Brown's Stages 4 and 5: auxiliary vs. copula verbs, Stage 4-5 syntax/grammar milestones, complex (embedded) and compound (conjoined) sentences, presupposition skills (anaphoric reference, deixis, grammatical ellipsis), direct/indirect requests, narratives, emergent literacy (print referencing, print-concept knowledge, phonological awareness), relational concepts, WH-question order, active/passive sentences, and figurative language."
     }
   ],
   "glossary": [
@@ -128,6 +137,16 @@
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "ch9-g010",
+      "term": "Active sentence",
+      "def": "A sentence in which the first noun is the agent (doer) and the second is the object (e.g., 'The dog chased the cat').",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
     },
     {
       "id": "tx-g004",
@@ -820,6 +839,26 @@
       "created": "2026-08-19T18:05:00-07:00"
     },
     {
+      "id": "ch9-g003",
+      "term": "Complex sentence",
+      "def": "A sentence in which one clause is embedded within another.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
+      "id": "ch9-g001",
+      "term": "Compound sentence",
+      "def": "Two independent clauses (each able to stand alone) joined by a conjunction (for, and, but, so). Also called a conjoined sentence; young children most often use 'and' to join clauses.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
       "id": "ch4-g003",
       "term": "Concrete operations",
       "def": "Piaget's third stage (7 to 11 years); logical thinking and growth in reading/writing, but still limited in abstract thinking.",
@@ -858,6 +897,16 @@
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "ch9-g002",
+      "term": "Conjoined sentence",
+      "def": "Another name for a compound sentence — two independent clauses joined by a conjunction.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
     },
     {
       "id": "tx-g052",
@@ -1228,6 +1277,16 @@
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "ch9-g008",
+      "term": "Direct request",
+      "def": "A request that functions like a demand.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
     },
     {
       "id": "tx-g083",
@@ -2890,6 +2949,16 @@
       "created": "2026-08-19T18:49:16-07:00"
     },
     {
+      "id": "ch9-g004",
+      "term": "Object complement clause",
+      "def": "An embedded clause with an independent clause containing a verb like think, hope, know, guess, mean, or need, followed by a noun phrase functioning as its object.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
       "id": "tx-g188",
       "term": "Object permanence",
       "def": "Knowledge that objects exist in time and space even if you can't see or act on them.",
@@ -3038,6 +3107,16 @@
       "chapter": "Theories of Acquisition",
       "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
       "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch9-g011",
+      "term": "Passive sentence",
+      "def": "A sentence in which the object comes before the agent, describing what was done to the object, often using 'was'/'were' (e.g., 'The boy was bitten by the girl').",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
     },
     {
       "id": "tx-g197",
@@ -3460,6 +3539,16 @@
       "created": "2026-08-19T18:49:16-07:00"
     },
     {
+      "id": "ch9-g007",
+      "term": "Presupposition skills",
+      "def": "A speaker's awareness of what the listener already knows about a topic and how much information to share for them to follow; includes anaphoric reference, deixis, and grammatical ellipsis.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
       "id": "tx-g224",
       "term": "Prevalence",
       "def": "Total number of cases of a disorder/disease in a population at a particular time.",
@@ -3850,6 +3939,16 @@
       "created": "2026-08-19T18:49:16-07:00"
     },
     {
+      "id": "ch9-g009",
+      "term": "Relational concepts",
+      "def": "Concepts expressing relationships, including spatial terms (location), temporal terms (time/sequence), and dimensional terms (characteristics like size).",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
       "id": "tx-g255",
       "term": "Relational words",
       "def": "Words that indicate relationships among people, objects, and events; these words reflect a child's understanding of space, time, amount, dimensions, and kinship.",
@@ -3858,6 +3957,16 @@
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "ch9-g006",
+      "term": "Relative clause",
+      "def": "An embedded clause introduced by who, whom, whoever, whomever, whose, which, or that that modifies the preceding noun.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
     },
     {
       "id": "tx-g256",
@@ -4978,6 +5087,16 @@
       "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
       "created": "2026-08-19T17:17:56-07:00",
       "def": "A left-hemisphere region responsible for language comprehension and formulation."
+    },
+    {
+      "id": "ch9-g005",
+      "term": "Wh-question clause",
+      "def": "An embedded clause containing a Wh-word (who, what, when, where, why) acting as a conjunction (e.g., 'I know what you did').",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
     },
     {
       "id": "tx-g331",
@@ -6730,6 +6849,226 @@
       "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
       "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
       "created": "2026-10-07T13:00:00-07:00"
+    },
+    {
+      "id": "ch9-f001",
+      "front": "What are the MLU/age ranges for Brown's Stages 4 and 5?",
+      "back": "Stage 4: ~35-40 months, MLU 3.0-3.7. Stage 5: ~3.5-4 years, MLU 3.75-4.5.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
+      "id": "ch9-f002",
+      "front": "Auxiliary verb vs. copula verb?",
+      "back": "Auxiliary = a helping verb (be-forms + modals + do/have) supplementing a main verb that carries -ing ('is running'). Copula = a LINKING verb (am/is/are/was/were) joining subject to predicate, with no main verb ('She is a nurse').",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
+      "id": "ch9-f003",
+      "front": "Which copula forms are uncontractible, and why?",
+      "back": "'Was' and 'were' — contracting them would make them indistinguishable from their present-tense markers.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
+      "id": "ch9-f004",
+      "front": "In what four situations does the copula occur?",
+      "back": "Identity ('I am John'), class membership ('She is a nurse'), possession of an attribute ('He was polite'), and location ('We are in Disneyland').",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
+      "id": "ch9-f005",
+      "front": "How many of the 14 grammatical morphemes are mastered by the end of Stage 5?",
+      "back": "9 of the 14.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
+      "id": "ch9-f006",
+      "front": "Name the three types of embedded clauses that form complex sentences.",
+      "back": "Object complement clause, Wh-question clause, and relative clause.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
+      "id": "ch9-f007",
+      "front": "Complex vs. compound (conjoined) sentence?",
+      "back": "Complex = one clause embedded in another. Compound/conjoined = two independent clauses joined by a conjunction (children most often use 'and').",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
+      "id": "ch9-f008",
+      "front": "Name the five ways 'and' is used to join clauses.",
+      "back": "Additive, object specification, temporal relations, causal relation, and adversative relations.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
+      "id": "ch9-f009",
+      "front": "What are the three presupposition skills?",
+      "back": "Anaphoric reference (pronoun refers back), deixis (perspective-dependent words like I/you), and grammatical ellipsis (omitting known information).",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
+      "id": "ch9-f010",
+      "front": "What is deixis?",
+      "back": "Understanding that words are interpreted by perspective — e.g., I/you and my/your mean different things depending on who speaks.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
+      "id": "ch9-f011",
+      "front": "What is grammatical ellipsis?",
+      "back": "Leaving out information the speaker assumes the listener already knows from context.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
+      "id": "ch9-f012",
+      "front": "Direct vs. indirect request, and which do preschoolers mainly use?",
+      "back": "Direct = like a demand; indirect = politely phrased as a question. Stage 4 children shift toward more indirect requests but still primarily use direct ones.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
+      "id": "ch9-f013",
+      "front": "What new request strategies does the Stage 5 child add?",
+      "back": "Rationalization (giving reasons for requests) and increased politeness.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
+      "id": "ch9-f014",
+      "front": "What is print referencing? Give an example.",
+      "back": "An adult technique to draw a child's attention to written language — e.g., pointing to words while reading, asking 'how many words are on this page?', or noting 'BANG' is big because we say it loud.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
+      "id": "ch9-f015",
+      "front": "What is phonological awareness, and does it require reading?",
+      "back": "Awareness of the sound structure of language (rhyming, counting syllables, blending, segmenting); it's hearing-based and does NOT require reading ability.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
+      "id": "ch9-f016",
+      "front": "Phonological awareness vs. phonics?",
+      "back": "Phonological awareness is sound-based and needs no reading; phonics requires awareness of letters AND their sounds.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
+      "id": "ch9-f017",
+      "front": "What two skills are the best predictors of early reading?",
+      "back": "Print-concept knowledge and phonological awareness.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
+      "id": "ch9-f018",
+      "front": "In what order do WH-questions emerge?",
+      "back": "what, where, who → then when, how, why (what/where/who first because they reflect the immediate environment; when/how/why are harder due to time and causality concepts).",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
+      "id": "ch9-f019",
+      "front": "Active vs. passive sentence structure?",
+      "back": "Active: agent first, object second ('The dog chased the cat'). Passive: object first, agent later, often with was/were ('The boy was bitten by the girl').",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
+      "id": "ch9-f020",
+      "front": "Name four types of figurative language.",
+      "back": "Idioms, similes, metaphors, and irony (sarcasm).",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
+      "id": "ch9-f021",
+      "front": "Give a Stage 4 vs. Stage 5 syntax milestone example.",
+      "back": "Stage 4: overextends regular past tense to irregular verbs ('swimmed'). Stage 5: masters irregular past (sat, went, ate) and adds comparatives/superlatives (-er/-est).",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
+      "id": "ch9-f022",
+      "front": "How do narratives change from Stage 4 to Stage 5?",
+      "back": "Stage 4: logical sequences with a beginning, end, and theme. Stage 5: more complex — more pronouns, verb tenses, and temporal words (first, then) that support sequencing.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
     }
   ],
   "questions": [
@@ -9398,9 +9737,399 @@
           "right": "Story built around a central theme"
         }
       ]
+    },
+    {
+      "id": "ch9-q001",
+      "type": "mc",
+      "text": "A linking verb that joins the subject to the predicate (like 'She is a nurse') is a:",
+      "answer": "Copula verb",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00",
+      "options": [
+        "Auxiliary verb",
+        "Copula verb",
+        "Modal verb",
+        "Relative clause"
+      ]
+    },
+    {
+      "id": "ch9-q002",
+      "type": "mc",
+      "text": "By the end of Stage 5, how many of the 14 grammatical morphemes are mastered?",
+      "answer": "9",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00",
+      "options": [
+        "5",
+        "7",
+        "9",
+        "14"
+      ]
+    },
+    {
+      "id": "ch9-q003",
+      "type": "mc",
+      "text": "'I know what you did' contains which type of embedded clause?",
+      "answer": "Wh-question clause",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00",
+      "options": [
+        "Object complement clause",
+        "Wh-question clause",
+        "Relative clause",
+        "Adversative clause"
+      ]
+    },
+    {
+      "id": "ch9-q004",
+      "type": "mc",
+      "text": "Two independent clauses joined by a conjunction form a:",
+      "answer": "Compound sentence",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00",
+      "options": [
+        "Complex sentence",
+        "Compound sentence",
+        "Relative clause",
+        "Copula"
+      ]
+    },
+    {
+      "id": "ch9-q005",
+      "type": "mc",
+      "text": "Understanding that 'I' and 'you' depend on who is speaking is which presupposition skill?",
+      "answer": "Deixis",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00",
+      "options": [
+        "Anaphoric reference",
+        "Deixis",
+        "Grammatical ellipsis",
+        "Ellipsis repair"
+      ]
+    },
+    {
+      "id": "ch9-q006",
+      "type": "mc",
+      "text": "Which copula forms are uncontractible?",
+      "answer": "was / were",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00",
+      "options": [
+        "am / is",
+        "are / was",
+        "was / were",
+        "is / are"
+      ]
+    },
+    {
+      "id": "ch9-q007",
+      "type": "mc",
+      "text": "Which WH-questions do children typically understand FIRST?",
+      "answer": "what, where, who",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00",
+      "options": [
+        "when, how, why",
+        "what, where, who",
+        "why, when, what",
+        "how, why, who"
+      ]
+    },
+    {
+      "id": "ch9-q008",
+      "type": "mc",
+      "text": "'The boy was bitten by the girl' is an example of a:",
+      "answer": "Passive sentence",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00",
+      "options": [
+        "Active sentence",
+        "Passive sentence",
+        "Object complement",
+        "Compound sentence"
+      ]
+    },
+    {
+      "id": "ch9-q009",
+      "type": "mc",
+      "text": "'It's raining cats and dogs' is an example of:",
+      "answer": "Figurative language (an idiom)",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00",
+      "options": [
+        "A relative clause",
+        "Figurative language (an idiom)",
+        "Deixis",
+        "A copula"
+      ]
+    },
+    {
+      "id": "ch9-q010",
+      "type": "mc",
+      "text": "Pointing to words while reading and asking 'where is letter B?' are examples of:",
+      "answer": "Print referencing",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00",
+      "options": [
+        "Phonological awareness",
+        "Print referencing",
+        "Deixis",
+        "Grammatical ellipsis"
+      ]
+    },
+    {
+      "id": "ch9-q011",
+      "type": "tf",
+      "text": "A copula verb links the subject to the predicate and has no separate main verb.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
+      "id": "ch9-q012",
+      "type": "tf",
+      "text": "Phonological awareness requires the ability to read.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
+      "id": "ch9-q013",
+      "type": "tf",
+      "text": "Children typically produce compound (conjoined) sentences before they ever produce complex sentences.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
+      "id": "ch9-q014",
+      "type": "tf",
+      "text": "Print-concept knowledge and phonological awareness are the best predictors of early reading.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
+      "id": "ch9-q015",
+      "type": "tf",
+      "text": "In an active sentence, the first noun is usually the agent (the doer of the action).",
+      "answer": "True",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
+      "id": "ch9-q016",
+      "type": "tf",
+      "text": "'When' and 'why' questions are typically easier for young children than 'what' and 'where' questions.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
+      "id": "ch9-q017",
+      "type": "fitb",
+      "text": "A linking 'state' verb such as am/is/are is called a ______ verb.",
+      "answer": "copula",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
+      "id": "ch9-q018",
+      "type": "fitb",
+      "text": "Leaving out information the listener already knows is grammatical ______.",
+      "answer": "ellipsis",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
+      "id": "ch9-q019",
+      "type": "fitb",
+      "text": "Awareness of the sound structure of language is ______ awareness.",
+      "answer": "phonological",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
+      "id": "ch9-q020",
+      "type": "fitb",
+      "text": "The most common first conjunction children use to join clauses is ______.",
+      "answer": "and",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
+      "id": "ch9-q021",
+      "type": "match",
+      "text": "Match each presupposition skill to its description.",
+      "answer": null,
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00",
+      "pairs": [
+        {
+          "left": "Anaphoric reference",
+          "right": "Pronoun refers back to something introduced"
+        },
+        {
+          "left": "Deixis",
+          "right": "Meaning depends on the speaker's perspective"
+        },
+        {
+          "left": "Grammatical ellipsis",
+          "right": "Omitting information the listener knows"
+        }
+      ]
+    },
+    {
+      "id": "ch9-q022",
+      "type": "match",
+      "text": "Match each embedded clause type to its example/description.",
+      "answer": null,
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00",
+      "pairs": [
+        {
+          "left": "Object complement clause",
+          "right": "'I think' + object noun phrase"
+        },
+        {
+          "left": "Wh-question clause",
+          "right": "'I know what you did'"
+        },
+        {
+          "left": "Relative clause",
+          "right": "'who/that…' modifies the preceding noun"
+        }
+      ]
     }
   ],
   "notes": [
+    {
+      "id": "ch9-note006",
+      "title": "Comprehension: Concepts, Questions, Voice & Figurative Language",
+      "body": "RELATIONAL CONCEPTS — learned as language develops:\n- Spatial terms (location of people/things), temporal terms (time; directions, story sequencing), dimensional terms (characteristics like size). Repeated exposure across contexts (\"water\" in the bath, a cup, the pool) builds understanding.\n\nWH-QUESTION COMPREHENSION emerges in order: what, where, who → then when, how, why. What/where/who come first (they reflect the immediate environment); \"when\" is harder (time concept), and \"how\"/\"why\" are hardest (causality still developing).\n\nACTIVE vs. PASSIVE SENTENCES:\n- Active: first noun = agent (doer), second = object (\"The dog chased the cat\"); reversible, though reversing changes meaning.\n- Passive: object comes before the agent, describing what was done to the object, often with was/were (\"The boy was bitten by the girl\").\n- Word-order exception to \"comprehension before production\": children may PRODUCE passives before fully COMPREHENDING them.\n\nFIGURATIVE LANGUAGE — non-literal language understood via tone and facial expression: idioms (\"raining cats and dogs\"), similes (\"you run like a cheetah\"), metaphors, and irony/sarcasm (\"great!\" after spilling coffee).\n\n★ KEY EXAM POINTS\n- WH-question order: what/where/who first; when/how/why later.\n- Active = agent-first; passive = object-first (was/were); passives may be produced before comprehended.\n- Figurative types: idiom, simile, metaphor, irony.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
+      "id": "ch9-note005",
+      "title": "Emergent Literacy & Phonological Awareness",
+      "body": "Shared early reading begins to pay off in Stages 4-5. Children learn book attributes (how to hold/use books, pictures, printed words, narrative structure).\n\nPRINT REFERENCING — an adult technique to draw attention to written language:\n- Pointing to words while reading so the child follows along.\n- Asking about print (\"how many words are on this page?\", \"where is letter B?\").\n- Pointing out features (\"BANG\" is in big letters because we say it loud).\n\nPRINT-CONCEPT KNOWLEDGE — the rules governing printed language and book use (can vary by culture):\n- Parts of books (front cover, title, pages, pictures vs. print).\n- Directionality (top-to-bottom, left-to-right).\n- Concepts of letters; first/last letters in words.\n\nPHONOLOGICAL AWARENESS — awareness of the SOUND structure of language (hearing-based, no reading required), developing in a sequence of increasing difficulty:\n- Counting words in a sentence; identifying/producing rhymes; counting syllables; blending syllables/sounds; identifying beginning/middle/ending sounds; deleting syllables/sounds (later); substituting sounds (later).\n- Differs from PHONICS, which requires awareness of letters AND sounds.\n- Print-concept knowledge and phonological awareness are the BEST predictors of early reading.\n\n★ KEY EXAM POINTS\n- Print referencing (adult technique) vs. print-concept knowledge (the child's knowledge of print rules).\n- Phonological awareness = sound-based, no reading needed; phonics = letters + sounds.\n- Print-concept knowledge + phonological awareness = best early-reading predictors.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
+      "id": "ch9-note004",
+      "title": "Pragmatics, Requests & Narratives",
+      "body": "PRESUPPOSITION (Stage 4) — awareness of what the listener knows and how much to share. Three skills:\n- Anaphoric reference: a pronoun refers back to something already introduced (\"I met a man named Bob. He was nice.\").\n- Deixis: understanding perspective — words like I/you, my/your are interpreted by who is speaking.\n- Grammatical ellipsis: omitting information the listener already knows.\n\nCONVERSATION: Stage 4 children begin recognizing pauses that signal a conversation has ended (vs. being habitual interrupters). Early Stage 5 children can maintain a topic for more than two turns, though they mostly repeat or ask questions rather than add new information.\n\nREQUESTS: Stage 4 children shift toward more indirect requests (phrased as questions) but still primarily use direct ones (demands). Stage 5 children add rationalization (giving reasons) and more politeness.\n\nNARRATIVES: Stage 4 narratives gain organization — logical sequences with a beginning, end, and theme (vs. unrelated events). Stage 5 narratives are more complex, with more pronouns, verb tenses, and temporal words (first, then) supporting sequencing.\n\n★ KEY EXAM POINTS\n- Three presupposition skills: anaphoric reference, deixis, grammatical ellipsis.\n- Direct (demand) vs. indirect (polite question) requests; Stage 5 adds rationalization + politeness.\n- Narratives: Stage 4 = logical sequence + theme; Stage 5 = complex, temporal words.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
+      "id": "ch9-note003",
+      "title": "Complex & Compound Sentences",
+      "body": "COMPLEX SENTENCES embed one clause within another. Three types of embedded clauses:\n1. Object complement clause: an independent clause with a verb like think, hope, know, guess, mean, need, followed by a noun phrase functioning as the object.\n2. Wh-question clause: contains a Wh-word (who, what, when, where, why) acting as a conjunction — \"I know what you did.\"\n3. Relative clause: introduced by who, whom, whoever, whomever, whose, which, or that; modifies the preceding noun.\n\nCOMPOUND (CONJOINED) SENTENCES join two independent clauses with a conjunction (for, and, but, so). Interestingly, children produce these AFTER they begin producing complex sentences. In Stages 4-5 they typically use \"and.\" Five ways \"and\" joins clauses:\n- Additive: combines two separate clauses.\n- Object specification: one clause elaborates/adds info to the other.\n- Temporal relations: two events in time order (one follows another).\n- Causal relation: one clause gives the action/state, the next gives the effect.\n- Adversative relations: two clauses that contrast.\n\n(The most common first connecting word children use to join clauses is \"and.\")\n\n★ KEY EXAM POINTS\n- Complex = embedded clause; Compound = two independent clauses + conjunction.\n- Three embedded types: object complement, Wh-question, relative.\n- Five uses of \"and\": additive, object specification, temporal, causal, adversative.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
+      "id": "ch9-note002",
+      "title": "Brown's Stages 4 & 5: Syntax & Grammar",
+      "body": "Stage 4: ~35-40 months, MLU 3.0-3.7. Stage 5: ~3.5-4 years, MLU 3.75-4.5. By the end of Stage 5, 9 of the 14 grammatical morphemes are mastered; vocabulary has grown rapidly across all five stages.\n\nSTAGE 4 skills:\n- Consistent personal pronouns (its, ours, him, their, theirs, myself, yourself).\n- New modifiers (some, something, other, more, one, two, another).\n- Past-tense modals (could, should, would).\n- Overextends regular past tense to irregular verbs (\"swimmed\" for \"swam\").\n- Combines \"be\" + present progressive (\"she is calling\", \"I am jumping\").\n\nSTAGE 5 skills:\n- Comparatives (-er: taller, hotter) and superlatives (-est: tallest, hottest).\n- Mastery of common irregular past tense (sat, went, broke, ate, fell).\n- Negative modals (wouldn't, couldn't, shouldn't).\n- Adds \"-er\" to verbs to make agent nouns (teach→teacher, paint→painter).\n- Uses copula forms to show person (\"I am,\" \"she is\") and tense (\"I am,\" \"I was\").\n\n★ KEY EXAM POINTS\n- Stage 4 MLU 3.0-3.7 (~35-40 mo); Stage 5 MLU 3.75-4.5 (~3.5-4 yr).\n- 9 of 14 grammatical morphemes mastered by end of Stage 5.\n- Stage 4 overextends past tense (\"swimmed\"); Stage 5 masters irregulars + adds -er/-est.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
+      "id": "ch9-note001",
+      "title": "Auxiliary vs. Copula Verbs",
+      "body": "A review of the frequently-confused auxiliary/copula distinction (from McLaughlin, Introduction to Language Development).\n\nAUXILIARY VERBS — helping verbs that accompany a MAIN verb:\n- The \"to be\" verbs and modals, supplementing the main verb with person, number, and tense.\n- The main verb usually carries the progressive -ing: \"am sitting\", \"is running\", \"was eating\".\n- Modals (also auxiliaries): can, could, should, will, would, may, might, must.\n- Two more auxiliaries: do, have.\n\nCOPULA VERBS — LINKING verbs with no separate main verb:\n- Forms: am, is, are, was, were (chosen by person, tense, number).\n- Links the subject to the predicate (a noun, adjective, or prepositional phrase); a \"state\" verb connecting a noun to some state.\n- Occurs in: identity (\"I am John\"), class membership (\"She is a nurse\"), possession of an attribute (\"He was very polite\"), location (\"We are in Disneyland\").\n- Uncontractible forms: past tense \"was\"/\"were\" — contracting them would make them indistinguishable from present-tense markers.\n\n★ KEY EXAM POINTS\n- Auxiliary = HELPS a main verb (often -ing); copula = LINKS subject to predicate, no main verb.\n- Copula forms: am/is/are/was/were.\n- \"was\"/\"were\" are uncontractible.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
+      "created": "2026-10-13T08:00:00-07:00"
+    },
     {
       "id": "ch8-note006",
       "title": "Pragmatics, Narratives & Metalinguistics",
