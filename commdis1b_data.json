@@ -67,6 +67,15 @@
       ],
       "created": "2026-10-07T12:00:00-07:00",
       "desc": "Early syntactic development and language-sample analysis: morphemes (free/bound, derivational/inflectional), Brown's stages and 14 grammatical morphemes with the 90% obligatory-context criterion, two-word semantic relations, the mathetic/informative/pragmatic functions, comprehension before production, and how to collect a language sample and calculate mean length of utterance (MLU)."
+    },
+    {
+      "id": "mod-8",
+      "name": "Preschool Language Development (Brown's Stages 2-3)",
+      "chapters": [
+        "Lecture 8: Preschool Language (Brown's Stages 2-3)"
+      ],
+      "created": "2026-10-07T13:00:00-07:00",
+      "desc": "Language development through the preschool years across Brown's Stages 2-3: inflections and contractible/uncontractible verbs, pronouns and anaphoric reference, auxiliary verbs, noun and verb phrases, negation and question formation, semantic/vocabulary growth, and the emergence of conversation, conversational repair, narratives/protonarratives (centering), and metalinguistic awareness."
     }
   ],
   "glossary": [
@@ -2611,6 +2620,16 @@
       "created": "2026-08-19T18:49:16-07:00"
     },
     {
+      "id": "ch8-g001",
+      "term": "Modal verb",
+      "def": "A secondary (modal) auxiliary — can, shall, may, will — that adds 'attitude' to a sentence (e.g., 'you CAN go' vs. 'you MUST go').",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00"
+    },
+    {
       "id": "tx-g173",
       "term": "Modality",
       "def": "Characteristics of sentences such as verb tense or the expression of negation or interrogation.",
@@ -2779,6 +2798,16 @@
       "chapter": "Theories of Acquisition",
       "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
       "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch8-g002",
+      "term": "Negation",
+      "def": "Language used to disagree with or deny something. Three early types: nonexistence (it's gone — 'allgone'), rejection (refusing — 'no night-night'), and denial (disagreeing — 'no blue').",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00"
     },
     {
       "id": "ch3-g009",
@@ -3611,6 +3640,16 @@
       "created": "2026-09-21T12:30:00-07:00"
     },
     {
+      "id": "ch8-g003",
+      "term": "Protonarrative",
+      "def": "A young child's earliest recounts (~24-30 months), typically guided by prompts from a parent who shared the experience.",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00"
+    },
+    {
       "id": "tx-g238",
       "term": "Protonarratives",
       "def": "Young children's early recounts or storytelling in temporal-causal sequences.",
@@ -3709,6 +3748,16 @@
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "ch8-g004",
+      "term": "Recount",
+      "def": "A retelling of a personal experience.",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00"
     },
     {
       "id": "tx-g247",
@@ -6501,6 +6550,186 @@
       "chapter": "Lecture 7: Emerging Syntax & Language Samples",
       "source": "COMM DIS 1B Lecture 7: Emerging Syntax & Language Samples (Ch. 4-5)",
       "created": "2026-10-07T12:00:00-07:00"
+    },
+    {
+      "id": "ch8-f001",
+      "front": "What are the MLU and age ranges for Brown's Stages II and III?",
+      "back": "Stage II: MLU 2.0-2.5 (~27-30 mo); Stage III: MLU 2.5-3.0 (~31-34 mo). (Ranges vary by source.)",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00"
+    },
+    {
+      "id": "ch8-f002",
+      "front": "What is an inflection?",
+      "back": "The change in meaning produced when a grammatical morpheme is added to a word (e.g., -ing for now vs. -ed for past).",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00"
+    },
+    {
+      "id": "ch8-f003",
+      "front": "Contractible vs. uncontractible verbs?",
+      "back": "Contractible = can be shortened with the pronoun ('he is' → 'he's', 'they are' → 'they're'). Uncontractible = cannot ('was').",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00"
+    },
+    {
+      "id": "ch8-f004",
+      "front": "What is anaphoric reference?",
+      "back": "Using a pronoun to refer back to something already introduced ('Do you have a soda? Can I have it?').",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00"
+    },
+    {
+      "id": "ch8-f005",
+      "front": "Primary vs. secondary (modal) auxiliary verbs?",
+      "back": "Primary auxiliaries: have, do. Secondary (modals): can, shall, may, will — they add 'attitude.'",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00"
+    },
+    {
+      "id": "ch8-f006",
+      "front": "What makes up a noun phrase, and what do young children use first?",
+      "back": "A noun + modifiers (determiners, adjectivals, initiators, postmodifiers); only one modifier + noun is needed. Children first use determiners ('my dog') and adjectivals ('little dog').",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00"
+    },
+    {
+      "id": "ch8-f007",
+      "front": "What three things does a verb phrase require?",
+      "back": "Tense, number, and a verb.",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00"
+    },
+    {
+      "id": "ch8-f008",
+      "front": "Name the three early types of negation.",
+      "back": "Nonexistence ('allgone'), rejection ('no night-night'), and denial ('no blue' when offered red).",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00"
+    },
+    {
+      "id": "ch8-f009",
+      "front": "How does the POSITION of negatives progress?",
+      "back": "First at the beginning ('No kick that') → then between subject and verb ('I no like that') → later adult-like ('Daddy not going to work').",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00"
+    },
+    {
+      "id": "ch8-f010",
+      "front": "How are yes/no questions formed?",
+      "back": "Move the auxiliary (is, are, do, was) to the front with rising intonation; if there's no auxiliary, add the correct form of 'do.'",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00"
+    },
+    {
+      "id": "ch8-f011",
+      "front": "How are WH-questions formed?",
+      "back": "Flip-flop the subject and auxiliary, then add the WH-word (or 'how') to the front: 'he is eating' → 'is he eating' → 'where is he eating?'",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00"
+    },
+    {
+      "id": "ch8-f012",
+      "front": "How does expressive vocabulary grow from 24 months to ~3 years?",
+      "back": "From about 200-300 words at 24 months to around 900 words by almost 3 years.",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00"
+    },
+    {
+      "id": "ch8-f013",
+      "front": "What is a conversational repair?",
+      "back": "Revising or fixing your message when you think the listener didn't understand — changing a sound, deleting a word, or changing a word.",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00"
+    },
+    {
+      "id": "ch8-f014",
+      "front": "What is a narrative (discourse)?",
+      "back": "At least two utterances in temporal order about a past or future event/experience.",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00"
+    },
+    {
+      "id": "ch8-f015",
+      "front": "What are protonarratives, and when do they appear?",
+      "back": "A child's earliest recounts (~24-30 months), guided by parent prompts about a shared experience.",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00"
+    },
+    {
+      "id": "ch8-f016",
+      "front": "What is centering in early narratives?",
+      "back": "Building the story around a central theme/event — often something fun or upsetting to the child.",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00"
+    },
+    {
+      "id": "ch8-f017",
+      "front": "What is metalinguistics and why does it matter?",
+      "back": "Awareness of the patterns, rhymes, and words of language itself; it's a building block for literacy (rhyme prediction, attending to print during book-sharing).",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00"
+    },
+    {
+      "id": "ch8-f018",
+      "front": "What three abilities does the text say children need to produce narratives?",
+      "back": "Producing linguistic units (episodes/settings), presupposition (knowing what the listener needs), and sequencing via working memory/information processing.",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00"
     }
   ],
   "questions": [
@@ -8846,9 +9075,392 @@
           "right": "One thought, signaled by a pause"
         }
       ]
+    },
+    {
+      "id": "ch8-q001",
+      "type": "mc",
+      "text": "The change in meaning from adding a grammatical morpheme to a word is called:",
+      "answer": "Inflection",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00",
+      "options": [
+        "Negation",
+        "Inflection",
+        "Centering",
+        "Glossing"
+      ]
+    },
+    {
+      "id": "ch8-q002",
+      "type": "mc",
+      "text": "'Do you have a soda? Can I have it?' — using 'it' to refer back is an example of:",
+      "answer": "Anaphoric reference",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00",
+      "options": [
+        "Conversational repair",
+        "Anaphoric reference",
+        "Centering",
+        "Presupposition"
+      ]
+    },
+    {
+      "id": "ch8-q003",
+      "type": "mc",
+      "text": "Which are the PRIMARY auxiliary verbs?",
+      "answer": "Have, do",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00",
+      "options": [
+        "Can, will",
+        "Have, do",
+        "May, shall",
+        "Is, are"
+      ]
+    },
+    {
+      "id": "ch8-q004",
+      "type": "mc",
+      "text": "A verb phrase must include tense, a verb, and:",
+      "answer": "Number",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00",
+      "options": [
+        "A determiner",
+        "Number",
+        "An adjectival",
+        "An initiator"
+      ]
+    },
+    {
+      "id": "ch8-q005",
+      "type": "mc",
+      "text": "'Allgone cookie' (the cookie is gone) is which type of negation?",
+      "answer": "Nonexistence",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00",
+      "options": [
+        "Rejection",
+        "Denial",
+        "Nonexistence",
+        "Recurrence"
+      ]
+    },
+    {
+      "id": "ch8-q006",
+      "type": "mc",
+      "text": "To form a yes/no question when there's no auxiliary, you add the correct form of:",
+      "answer": "Do",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00",
+      "options": [
+        "Be",
+        "Do",
+        "Have",
+        "A modal"
+      ]
+    },
+    {
+      "id": "ch8-q007",
+      "type": "mc",
+      "text": "A child's earliest parent-guided recounts (~24-30 months) are called:",
+      "answer": "Protonarratives",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00",
+      "options": [
+        "Recounts",
+        "Protonarratives",
+        "Centering",
+        "Metalinguistics"
+      ]
+    },
+    {
+      "id": "ch8-q008",
+      "type": "mc",
+      "text": "Building an early narrative around a central (often fun or upsetting) event is:",
+      "answer": "Centering",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00",
+      "options": [
+        "Chaining",
+        "Centering",
+        "Presupposition",
+        "Recount"
+      ]
+    },
+    {
+      "id": "ch8-q009",
+      "type": "mc",
+      "text": "Fixing your message when the listener didn't understand is a:",
+      "answer": "Conversational repair",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00",
+      "options": [
+        "Conversational repair",
+        "Inflection",
+        "Protonarrative",
+        "Modal"
+      ]
+    },
+    {
+      "id": "ch8-q010",
+      "type": "mc",
+      "text": "Which is a modal (secondary) auxiliary that adds 'attitude'?",
+      "answer": "Must",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00",
+      "options": [
+        "Is",
+        "Have",
+        "Must",
+        "Was"
+      ]
+    },
+    {
+      "id": "ch8-q011",
+      "type": "tf",
+      "text": "'Was' is an uncontractible verb because it can't be shortened with the pronoun.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00"
+    },
+    {
+      "id": "ch8-q012",
+      "type": "tf",
+      "text": "Young children first use postmodifiers and initiators in their noun phrases.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00"
+    },
+    {
+      "id": "ch8-q013",
+      "type": "tf",
+      "text": "Negatives first appear at the beginning of phrases before moving between subject and verb.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00"
+    },
+    {
+      "id": "ch8-q014",
+      "type": "tf",
+      "text": "By about 24 months children typically have around 900 words in expressive vocabulary.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00"
+    },
+    {
+      "id": "ch8-q015",
+      "type": "tf",
+      "text": "Metalinguistic awareness supports later literacy skills.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00"
+    },
+    {
+      "id": "ch8-q016",
+      "type": "fitb",
+      "text": "Using a pronoun to refer back to something introduced earlier is ______ reference.",
+      "answer": "anaphoric",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00"
+    },
+    {
+      "id": "ch8-q017",
+      "type": "fitb",
+      "text": "A helping verb paired with a main verb is an ______ verb.",
+      "answer": "auxiliary",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00"
+    },
+    {
+      "id": "ch8-q018",
+      "type": "fitb",
+      "text": "Awareness of the patterns, rhymes, and words of language itself is called ______.",
+      "answer": "metalinguistics",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00"
+    },
+    {
+      "id": "ch8-q019",
+      "type": "fitb",
+      "text": "The three early types of negation are nonexistence, rejection, and ______.",
+      "answer": "denial",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00"
+    },
+    {
+      "id": "ch8-q020",
+      "type": "match",
+      "text": "Match each negation type to its example.",
+      "answer": null,
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00",
+      "pairs": [
+        {
+          "left": "Nonexistence",
+          "right": "'Allgone' (it's gone)"
+        },
+        {
+          "left": "Rejection",
+          "right": "'No night-night' (refusing)"
+        },
+        {
+          "left": "Denial",
+          "right": "'No blue' (disagreeing)"
+        }
+      ]
+    },
+    {
+      "id": "ch8-q021",
+      "type": "match",
+      "text": "Match each narrative term to its meaning.",
+      "answer": null,
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00",
+      "pairs": [
+        {
+          "left": "Narrative",
+          "right": "Connected sequence about an event"
+        },
+        {
+          "left": "Protonarrative",
+          "right": "Earliest parent-guided recounts (~24-30 mo)"
+        },
+        {
+          "left": "Recount",
+          "right": "Retelling of a personal experience"
+        },
+        {
+          "left": "Centering",
+          "right": "Story built around a central theme"
+        }
+      ]
     }
   ],
   "notes": [
+    {
+      "id": "ch8-note006",
+      "title": "Pragmatics, Narratives & Metalinguistics",
+      "body": "CONVERSATION emerges as children combine words and take turns, though they speak mostly about the here-and-now, manage only a few turns, and keep topics going largely by answering questions. Pragmatic functions include requesting objects, requesting actions, asking questions, and answering others.\n- Conversational repair: revising/fixing a message when the listener may not understand (change a sound, delete a word, change a word).\n\nNARRATIVES: telling a connected, sequenced series of utterances about a past/future event (\"at least two utterances in temporal order\"). The text lists three requirements:\n1. Producing linguistic units (episodes and settings — a sequence with a beginning and end).\n2. Presupposition — awareness of what the listener needs to follow along.\n3. Sequencing information using working memory and information processing.\nRecounts are retellings of personal experiences; earliest ones (~24-30 months) are protonarratives, parent-prompted. Early narratives use chaining (logical ordering of events) built around a central event — centering.\n\nMETALINGUISTICS: attention to the patterns, rhymes, and words of language itself (predicting a rhyme's tune, singing along). These skills build real awareness of words/language and are especially important as children begin book-sharing — looking at pictures, listening, and focusing on print.\n\n★ KEY EXAM POINTS\n- Conversational repair = fixing an unclear message.\n- Narrative = ≥2 utterances in temporal order; needs episodes/settings, presupposition, sequencing.\n- Protonarrative (~24-30 mo, parent-prompted); centering = central theme; metalinguistics → literacy.",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00"
+    },
+    {
+      "id": "ch8-note005",
+      "title": "Semantic Development in the Preschool Years",
+      "body": "Expressive vocabulary grows fast: ~200-300 words by 24 months and around 900 words by almost 3 years. Children learn words through the context of introduction plus repeated exposure in NEW contexts (e.g., \"water\" for drinking, bathing, washing hands, swimming).\n\nCognitive alignment: by 24 months children have typically passed through all sensorimotor substages (object permanence, causality, means-end), which supports creating meaning through word relationships and word combining. By ~24 months most can reference their own and others' emotions; by ~30 months they use words like \"because\" and \"so\" to explain the cause of emotions.\n\n★ KEY EXAM POINTS\n- Vocabulary: ~200-300 words at 24 mo → ~900 by ~3 yr.\n- Repeated exposure in varied contexts drives word learning.\n- \"Because/so\" for causal/emotion explanation emerges ~30 months.",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00"
+    },
+    {
+      "id": "ch8-note004",
+      "title": "Negation & Asking Questions",
+      "body": "NEGATION (disagree or deny). Three early types (Stage II):\n- Nonexistence: it's gone/absent (\"allgone\").\n- Rejection: refusing (\"no night-night\").\n- Denial: disagreeing (\"no blue\" when offered red).\nChildren may confuse \"no\" and \"not\"; late Stage II brings \"can't\"/\"don't.\" POSITION progresses: first at the start (\"No kick that\"), then between subject and verb (\"I no like that\"), then adult-like (\"Daddy not going to work\").\n\nASKING QUESTIONS (to get information): yes/no, WH (who, whose, whom, what, when, where, which, why), and how.\n- Yes/No: move the auxiliary (is, are, do, was) to the front with rising intonation; if no auxiliary, add the correct form of \"do.\" Earliest yes/no questions are just word combinations with rising intonation (\"my milk↑?\").\n- WH: flip-flop the subject and auxiliary, then add the WH-word: \"he is eating\" → \"is he eating\" → \"where is he eating?\" \"What\"/\"where\" questions emerge first (immediate environment). Forms become more complete in Stage III as auxiliaries are used.\n\n★ KEY EXAM POINTS\n- Three negation types: nonexistence, rejection, denial; position moves start → mid → adult-like.\n- Yes/No = front the auxiliary + rising intonation (add \"do\" if none).\n- WH = flip subject/auxiliary + add WH-word; what/where come first.",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00"
+    },
+    {
+      "id": "ch8-note003",
+      "title": "Auxiliary Verbs, Noun Phrases & Verb Phrases",
+      "body": "AUXILIARY (HELPING) VERBS pair with a main (action) verb: subject + auxiliary + main verb (\"Susan is eating\").\n- Primary auxiliaries: have, do.\n- Secondary auxiliaries (modals): can, shall, may, will — they add \"attitude\" (\"you CAN go\" vs. \"you MUST go\").\n\nPHRASES are related words that do NOT contain both a subject and a verb.\n- NOUN PHRASE: a noun + modifiers (only one modifier + noun needed). Four modifier types:\n  • Determiners (first unit): articles (a, the), possessive pronouns (my, his), demonstratives (this, that), qualifiers (some, most, any).\n  • Adjectivals: adjectives (pretty, tall), ordinals (first, last), quantifiers (one, many).\n  • Initiators: come before the determiner and limit the noun (only, all, both, just).\n  • Postmodifiers: prepositional phrases (in the middle, on the table).\n  Young children first use determiners (\"my dog\") and adjectivals (\"little dog\").\n- VERB PHRASE: a main verb with linking/auxiliary verbs; doesn't need every part but REQUIRES tense, number, and a verb. (Number = how many in the subject: girl vs. girls.)\n\n★ KEY EXAM POINTS\n- Primary auxiliaries have/do; modals = can/shall/may/will.\n- Noun phrase = noun + modifier(s); children use determiners & adjectivals first.\n- Verb phrase REQUIRES tense, number, verb.",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00"
+    },
+    {
+      "id": "ch8-note002",
+      "title": "Pronouns & Anaphoric Reference",
+      "body": "Pronouns are used in place of nouns and are acquired in a fairly predictable pattern. Types:\n- Subjective (sentence subject): I, she, he, they\n- Objective (sentence object): me, her, him, them\n- Demonstrative: this, that, these, those\n- Personal: your, yours, she, he, we\n- Possessive: his, hers, their, our\n- Reflexive: myself, yourself, themselves, himself, herself\n\nANAPHORIC REFERENCE: a pronoun must refer to something already introduced. \"Can I have it?\" is unclear until \"it\" is introduced — e.g., \"Do you have a soda? Can I have it?\" The referent is introduced first, then the pronoun refers back to it.\n\n★ KEY EXAM POINTS\n- Know the pronoun types with examples.\n- Anaphoric reference = pronoun refers BACK to an already-introduced referent.",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00"
+    },
+    {
+      "id": "ch8-note001",
+      "title": "Brown's Stages 2-3: Inflections & Contractibility",
+      "body": "Preschool development adds a lot of syntax and grammar. Brown's Stages (ranges vary by source; the text uses):\n- Stage II: ~27-30 months, MLU 2.0-2.5\n- Stage III: ~31-34 months, MLU 2.5-3.0\n\nIn these stages grammatical morphemes are used to produce \"modulations of meaning.\" An INFLECTION is the change in meaning produced when a grammatical morpheme is added to a word (e.g., choosing -ing for something happening now vs. -ed for the past). Children grow more aware of when an utterance requires a specific morpheme.\n\nCONTRACTIBLE vs. UNCONTRACTIBLE (copulas & auxiliaries)\n- Contractible: the verb can be shortened with the pronoun — \"he is\" → \"he's\", \"they are\" → \"they're\".\n- Uncontractible: cannot be shortened — \"was\".\n\n★ KEY EXAM POINTS\n- Inflection = meaning change from adding a grammatical morpheme.\n- Contractible = can shorten with pronoun; uncontractible (e.g., \"was\") cannot.\n- Stage II MLU 2.0-2.5; Stage III MLU 2.5-3.0.",
+      "image": null,
+      "module": "mod-8",
+      "chapter": "Lecture 8: Preschool Language (Brown's Stages 2-3)",
+      "source": "COMM DIS 1B Lecture 8: Preschool Language - Brown's Stages 2-3 (Ch. 6, pp. 209-229)",
+      "created": "2026-10-07T13:00:00-07:00"
+    },
     {
       "id": "ch7-note006",
       "title": "Language Sampling & Calculating MLU",
