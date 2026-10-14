@@ -7,7 +7,7 @@
   "modules": [
     {
       "id": "mod-1",
-      "name": "Anatomy & Physiology of Speech, Language & Hearing",
+      "name": "Module 1: Anatomy & Physiology of Speech, Language & Hearing",
       "desc": "The four subsystems of speech (respiration, phonation, resonation, articulation), the brain's speech/language centers and neural pathways, and the anatomy of the hearing mechanism.",
       "chapters": [
         "Lecture 1"
@@ -16,7 +16,7 @@
     },
     {
       "id": "mod-2",
-      "name": "Language Acquisition: Theories & Communication Foundations",
+      "name": "Module 2: Language Acquisition: Theories & Communication Foundations",
       "desc": "Communication foundations (terminology, framework, Hockett's design features, the speech chain, brain), the nature–nurture debate, and the three theory families — nativism, behaviorism, and interactionism — with Chomsky's LAD and transformational grammar, Skinner's operant conditioning, and the interactionist views (Vygotsky, Piaget, semantic/cognitive/social).",
       "chapters": [
         "Chapter 2"
@@ -25,7 +25,7 @@
     },
     {
       "id": "mod-3",
-      "name": "Theories of Language Development",
+      "name": "Module 3: Theories of Language Development",
       "desc": "A deeper look at the major theories of language acquisition and their theorists: nativism (Chomsky/LAD), behaviorism (Skinner's operant conditioning, verbal operants, and Pavlov's classical conditioning), and the interactionist views — semantic (Fillmore), cognitive (Piaget), social interactionist (Bruner/LASS), and the pragmatics revolution (Austin & Searle) — plus evidence and limitations (virtuous errors, the critical period/Genie, creoles).",
       "chapters": [
         "Lecture 3"
@@ -34,7 +34,7 @@
     },
     {
       "id": "mod-4",
-      "name": "Cognitive Development",
+      "name": "Module 4: Cognitive Development",
       "chapters": [
         "Lecture: Cognitive Development"
       ],
@@ -43,7 +43,7 @@
     },
     {
       "id": "mod-6",
-      "name": "Communication Development: Birth to 2 Years",
+      "name": "Module 6: Communication Development: Birth to 2 Years",
       "chapters": [
         "Lecture 6: Communication Development Birth-2"
       ],
@@ -52,7 +52,7 @@
     },
     {
       "id": "mod-5",
-      "name": "Cognitive Development II: Vygotsky",
+      "name": "Module 5: Cognitive Development II: Vygotsky",
       "chapters": [
         "Lecture 5: Cognitive Development II"
       ],
@@ -61,7 +61,7 @@
     },
     {
       "id": "mod-7",
-      "name": "Emerging Syntax & Language Samples",
+      "name": "Module 7: Emerging Syntax & Language Samples",
       "chapters": [
         "Lecture 7: Emerging Syntax & Language Samples"
       ],
@@ -70,7 +70,7 @@
     },
     {
       "id": "mod-8",
-      "name": "Preschool Language Development (Brown's Stages 2-3)",
+      "name": "Module 8: Preschool Language Development (Brown's Stages 2-3)",
       "chapters": [
         "Lecture 8: Preschool Language (Brown's Stages 2-3)"
       ],
@@ -79,7 +79,7 @@
     },
     {
       "id": "mod-9",
-      "name": "Preschool Language Development II (Brown's Stages 4-5)",
+      "name": "Module 9: Preschool Language Development II (Brown's Stages 4-5)",
       "chapters": [
         "Lecture 9: Preschool Language (Brown's Stages 4-5)"
       ],
