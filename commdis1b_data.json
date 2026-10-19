@@ -85,6 +85,15 @@
       ],
       "created": "2026-10-13T08:00:00-07:00",
       "desc": "Later preschool language across Brown's Stages 4 and 5: auxiliary vs. copula verbs, Stage 4-5 syntax/grammar milestones, complex (embedded) and compound (conjoined) sentences, presupposition skills (anaphoric reference, deixis, grammatical ellipsis), direct/indirect requests, narratives, emergent literacy (print referencing, print-concept knowledge, phonological awareness), relational concepts, WH-question order, active/passive sentences, and figurative language."
+    },
+    {
+      "id": "mod-10",
+      "name": "Language Sample Analysis & Preschool Review",
+      "chapters": [
+        "Lecture 10: Language Sample Overview"
+      ],
+      "created": "2026-10-19T10:30:00-07:00",
+      "desc": "A consolidation of early/preschool language development through language-sample analysis: Brown's complete five-stage chart (negation, questions, pronouns, verbs, phrases, pragmatics, narratives), the Form/Content/Use sample-analysis framework, the four universal narrative types (recounts, accounts, eventcasts, fictional stories) with centering and chaining, and 37-60 month developmental norms (vocabulary, prepositions, modals, articles, speech sounds) from the U Alberta Roadmap."
     }
   ],
   "glossary": [
@@ -137,6 +146,16 @@
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "ch10-g001",
+      "term": "Account (narrative)",
+      "def": "A child-INITIATED, spontaneous verbalization of an experience (not adult-prompted); children often open with 'You know what?'",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00"
     },
     {
       "id": "ch9-g010",
@@ -719,6 +738,16 @@
       "created": "2026-08-19T18:49:16-07:00"
     },
     {
+      "id": "ch10-g004",
+      "term": "Closed-class words",
+      "def": "Word classes with a limited, fixed membership — prepositions, pronouns, conjunctions, and auxiliary verbs; their growth between 3-5 years makes sentences easier to understand.",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00"
+    },
+    {
       "id": "tx-g044",
       "term": "Cluttering",
       "def": "A disorder that involves both speech and language errors including sound omissions and distortions, irregular rate and lack of pausing, poor awareness and self-monitoring, incomplete phrases, and disorganization in the construction and execution of verbal information.",
@@ -927,6 +956,16 @@
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "ch10-g005",
+      "term": "Consonant cluster",
+      "def": "A sequence of consonants produced together (also called a consonant blend), such as 'bl' or 'tr'; preschoolers often simplify them by deleting one consonant (e.g., 'back' for 'black').",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00"
     },
     {
       "id": "tx-g054",
@@ -1157,6 +1196,16 @@
       "chapter": "Lecture: Cognitive Development",
       "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
       "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch10-g007",
+      "term": "Definite article",
+      "def": "'the' — used for a specific noun or information shared between speaker and listener; often overused by 3-year-olds.",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00"
     },
     {
       "id": "tx-g072",
@@ -1479,6 +1528,16 @@
       "created": "2026-08-19T18:49:16-07:00"
     },
     {
+      "id": "ch10-g002",
+      "term": "Eventcast",
+      "def": "A narrative describing a current or future event, often used to direct others' actions in imaginative play ('Let's be pirates, you shoot the cannon').",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00"
+    },
+    {
       "id": "ch5-g002",
       "term": "Executive functions",
       "def": "A set of control processes in the brain that let us maintain attention, inhibit irrelevant associations, and use working memory; not fully developed until the mid-20s (which helps explain impulsive decisions in children, teens, and young adults).",
@@ -1569,6 +1628,16 @@
       "created": "2026-08-19T18:49:16-07:00"
     },
     {
+      "id": "ch10-g003",
+      "term": "Fictional story",
+      "def": "A narrative with an anticipated pattern/structure in which a character attempts to carry out a goal; relates events that are not real.",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00"
+    },
+    {
       "id": "tx-g104",
       "term": "Figurative language",
       "def": "Nonliteral form of language used to describe something by comparing it with something else (e.g., idioms, similes, metaphors, and irony).",
@@ -1607,6 +1676,16 @@
       "chapter": "Connection of Brains",
       "source": "Connection of Brains (S. Herrera) — Module 2 deck",
       "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch10-g008",
+      "term": "Form/Content/Use",
+      "def": "A framework for describing language samples: Form (syntax + morphology), Content (semantics), and Use (pragmatics/social language).",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00"
     },
     {
       "id": "ch4-g004",
@@ -1887,6 +1966,16 @@
       "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
       "created": "2026-08-19T17:17:56-07:00",
       "def": "The middle ossicle, connecting the malleus to the stapes."
+    },
+    {
+      "id": "ch10-g006",
+      "term": "Indefinite article",
+      "def": "'a' / 'an' — used for a non-specific noun or information not yet known to the listener.",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00"
     },
     {
       "id": "tx-g123",
@@ -7069,6 +7158,186 @@
       "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
       "source": "COMM DIS 1B Lecture 9: Preschool Language - Brown's Stages 4-5 (Ch. 6, pp. 229-252)",
       "created": "2026-10-13T08:00:00-07:00"
+    },
+    {
+      "id": "ch10-f001",
+      "front": "What are the MLU ranges for Brown's five stages?",
+      "back": "Stage 1: 1.0-2.0; Stage 2: 2.0-2.5; Stage 3: 2.5-3.0; Stage 4: 3.0-3.75; Stage 5: 3.75-4.5.",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00"
+    },
+    {
+      "id": "ch10-f002",
+      "front": "How is a child's Brown's Stage primarily determined?",
+      "back": "By the MLU (mean length of utterance); you may also note which stages specific syntactic structures come from.",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00"
+    },
+    {
+      "id": "ch10-f003",
+      "front": "Name the four universal types of narratives.",
+      "back": "Recounts, accounts, eventcasts, and fictional stories.",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00"
+    },
+    {
+      "id": "ch10-f004",
+      "front": "Recount vs. account?",
+      "back": "Recount = retelling a SHARED experience, adult-prompted ('Tell Grandma what we did'). Account = child-INITIATED, spontaneous ('You know what?').",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00"
+    },
+    {
+      "id": "ch10-f005",
+      "front": "What is an eventcast?",
+      "back": "A narrative describing a current or future event, often used to direct others in imaginative play ('Let's be pirates, you shoot the cannon').",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00"
+    },
+    {
+      "id": "ch10-f006",
+      "front": "Centering vs. chaining in story organization?",
+      "back": "Centering = events built around a central topic (listener may not see the link). Chaining = each event shares features with and builds on the previous one. Both appear by age 3.",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00"
+    },
+    {
+      "id": "ch10-f007",
+      "front": "What vocabulary sizes are typical at ages 3, 4, and 5?",
+      "back": "~900-1000 words at 3; ~1500-1600 at 4; ~5000 at 5 (adding 5-9 new words/day between ~1.5 and 6 years).",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00"
+    },
+    {
+      "id": "ch10-f008",
+      "front": "In what order are colors typically learned by age 4?",
+      "back": "Red, blue, and yellow are understood/labeled before green, brown, and orange.",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00"
+    },
+    {
+      "id": "ch10-f009",
+      "front": "What is the typical order of preposition acquisition?",
+      "back": "in/on (by 3) → under → next to (40 mo) → behind, in back of, in front of (4 yr); above/below/at the bottom of are harder; up/down/off not until after 4.",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00"
+    },
+    {
+      "id": "ch10-f010",
+      "front": "What two strategies do children use for unfamiliar location prepositions?",
+      "back": "If B is a container, A goes IN it; if B is a supporting surface, A goes ON it.",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00"
+    },
+    {
+      "id": "ch10-f011",
+      "front": "What do the modals mean: might, must, may, will, can?",
+      "back": "might = possibility, must = obligation, may = permission, will = intent, can = ability.",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00"
+    },
+    {
+      "id": "ch10-f012",
+      "front": "What are the speech intelligibility norms at ages 3 and 4?",
+      "back": "Unfamiliar listeners understand ~75% of a 3-year-old's speech and ~90% by age 4.",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00"
+    },
+    {
+      "id": "ch10-f013",
+      "front": "Which sounds are mastered first — stops or fricatives?",
+      "back": "Stops (p, b, t, d, k, g) before fricatives (f, v, s, z, h) — e.g., 'p' correct before 's'.",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00"
+    },
+    {
+      "id": "ch10-f014",
+      "front": "How do children typically simplify consonant clusters?",
+      "back": "Delete one consonant: s in s-clusters (pill/spill), l in l-clusters (back/black), r in r-clusters (fog/frog).",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00"
+    },
+    {
+      "id": "ch10-f015",
+      "front": "Why do 3-year-olds overuse the definite article 'the'?",
+      "back": "Their understanding of what is known vs. unknown to the listener is still developing ('Give me THE truck' when the listener can't know which).",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00"
+    },
+    {
+      "id": "ch10-f016",
+      "front": "When do children typically understand PASSIVE sentences?",
+      "back": "Not until about 48 months or older (they understand active sentences well before passive).",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00"
+    },
+    {
+      "id": "ch10-f017",
+      "front": "How do young children mistakenly use 'because'?",
+      "back": "To describe the RESULT of an action rather than its cause ('How did you get hurt?' → 'Because I hurt my knee').",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00"
+    },
+    {
+      "id": "ch10-f018",
+      "front": "What does the Language Sample Checklist's Form/Content/Use framework cover?",
+      "back": "Form = syntax + morphology; Content = semantics; Use = pragmatics/social language.",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00"
     }
   ],
   "questions": [
@@ -10067,9 +10336,438 @@
           "right": "'who/that…' modifies the preceding noun"
         }
       ]
+    },
+    {
+      "id": "ch10-q001",
+      "type": "mc",
+      "text": "A child's Brown's Stage of syntactic development is primarily determined by:",
+      "answer": "MLU",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00",
+      "options": [
+        "Age in months",
+        "MLU",
+        "Vocabulary size",
+        "Number of questions asked"
+      ]
+    },
+    {
+      "id": "ch10-q002",
+      "type": "mc",
+      "text": "Which narrative type is child-initiated and spontaneous (often 'You know what?')?",
+      "answer": "Account",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00",
+      "options": [
+        "Recount",
+        "Account",
+        "Eventcast",
+        "Fictional story"
+      ]
+    },
+    {
+      "id": "ch10-q003",
+      "type": "mc",
+      "text": "A narrative used to direct others during imaginative play is a(n):",
+      "answer": "Eventcast",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00",
+      "options": [
+        "Recount",
+        "Account",
+        "Eventcast",
+        "Fictional story"
+      ]
+    },
+    {
+      "id": "ch10-q004",
+      "type": "mc",
+      "text": "Organizing a story around a central topic (links may be unclear to the listener) is:",
+      "answer": "Centering",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00",
+      "options": [
+        "Chaining",
+        "Centering",
+        "Recounting",
+        "Sequencing"
+      ]
+    },
+    {
+      "id": "ch10-q005",
+      "type": "mc",
+      "text": "About how many words does a typical 5-year-old have in their vocabulary?",
+      "answer": "~5,000",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00",
+      "options": [
+        "~1,000",
+        "~1,600",
+        "~5,000",
+        "~10,000"
+      ]
+    },
+    {
+      "id": "ch10-q006",
+      "type": "mc",
+      "text": "Which set of prepositions is typically acquired FIRST?",
+      "answer": "in, on",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00",
+      "options": [
+        "above, below",
+        "in, on",
+        "in front of, behind",
+        "up, down"
+      ]
+    },
+    {
+      "id": "ch10-q007",
+      "type": "mc",
+      "text": "By age 4, unfamiliar listeners understand about what percent of a child's speech?",
+      "answer": "90%",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00",
+      "options": [
+        "50%",
+        "75%",
+        "90%",
+        "100%"
+      ]
+    },
+    {
+      "id": "ch10-q008",
+      "type": "mc",
+      "text": "The modal that expresses PERMISSION is:",
+      "answer": "may",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00",
+      "options": [
+        "must",
+        "might",
+        "may",
+        "will"
+      ]
+    },
+    {
+      "id": "ch10-q009",
+      "type": "mc",
+      "text": "Children typically do NOT understand passive sentences until about:",
+      "answer": "48 months",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00",
+      "options": [
+        "24 months",
+        "36 months",
+        "48 months",
+        "60 months"
+      ]
+    },
+    {
+      "id": "ch10-q010",
+      "type": "mc",
+      "text": "Prepositions, pronouns, conjunctions, and auxiliary verbs are examples of:",
+      "answer": "Closed-class words",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00",
+      "options": [
+        "Open-class words",
+        "Closed-class words",
+        "Content words",
+        "Bound morphemes"
+      ]
+    },
+    {
+      "id": "ch10-q011",
+      "type": "tf",
+      "text": "In Brown's stages, Stage 1 spans an MLU of 1.0-2.0.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00"
+    },
+    {
+      "id": "ch10-q012",
+      "type": "tf",
+      "text": "A recount is a spontaneous, child-initiated narrative.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00"
+    },
+    {
+      "id": "ch10-q013",
+      "type": "tf",
+      "text": "Children understand active sentences before they understand passive sentences.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00"
+    },
+    {
+      "id": "ch10-q014",
+      "type": "tf",
+      "text": "Children master stop sounds (p, b, t) before fricatives (s, f).",
+      "answer": "True",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00"
+    },
+    {
+      "id": "ch10-q015",
+      "type": "tf",
+      "text": "Three-year-olds tend to overuse the definite article 'the.'",
+      "answer": "True",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00"
+    },
+    {
+      "id": "ch10-q016",
+      "type": "fitb",
+      "text": "A child-initiated, spontaneous narrative is called a(n) ______.",
+      "answer": "account",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00"
+    },
+    {
+      "id": "ch10-q017",
+      "type": "fitb",
+      "text": "Red, blue, and yellow are typically learned before green, brown, and ______.",
+      "answer": "orange",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00"
+    },
+    {
+      "id": "ch10-q018",
+      "type": "fitb",
+      "text": "In the Form/Content/Use framework, semantics is the ______ area.",
+      "answer": "content",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00"
+    },
+    {
+      "id": "ch10-q019",
+      "type": "fitb",
+      "text": "To simplify the cluster in 'black,' a child commonly says ______.",
+      "answer": "back",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00"
+    },
+    {
+      "id": "ch10-q020",
+      "type": "match",
+      "text": "Match each narrative type to its description.",
+      "answer": null,
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00",
+      "pairs": [
+        {
+          "left": "Recount",
+          "right": "Shared experience, adult-prompted"
+        },
+        {
+          "left": "Account",
+          "right": "Spontaneous, child-initiated"
+        },
+        {
+          "left": "Eventcast",
+          "right": "Describes/directs a current or future event"
+        },
+        {
+          "left": "Fictional story",
+          "right": "Character pursues a goal; not real"
+        }
+      ]
+    },
+    {
+      "id": "ch10-q021",
+      "type": "match",
+      "text": "Match each Brown's stage to its MLU range.",
+      "answer": null,
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00",
+      "pairs": [
+        {
+          "left": "Stage 1",
+          "right": "1.0-2.0"
+        },
+        {
+          "left": "Stage 2",
+          "right": "2.0-2.5"
+        },
+        {
+          "left": "Stage 3",
+          "right": "2.5-3.0"
+        },
+        {
+          "left": "Stage 4",
+          "right": "3.0-3.75"
+        },
+        {
+          "left": "Stage 5",
+          "right": "3.75-4.5"
+        }
+      ]
+    },
+    {
+      "id": "ch10-q022",
+      "type": "match",
+      "text": "Match each modal to the meaning it expresses.",
+      "answer": null,
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00",
+      "pairs": [
+        {
+          "left": "may",
+          "right": "Permission"
+        },
+        {
+          "left": "must",
+          "right": "Obligation"
+        },
+        {
+          "left": "will",
+          "right": "Intent"
+        },
+        {
+          "left": "can",
+          "right": "Ability"
+        },
+        {
+          "left": "might",
+          "right": "Possibility"
+        }
+      ]
+    },
+    {
+      "id": "ch10-q023",
+      "type": "match",
+      "text": "Match each Form/Content/Use area to what it covers.",
+      "answer": null,
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00",
+      "pairs": [
+        {
+          "left": "Form",
+          "right": "Syntax and morphology"
+        },
+        {
+          "left": "Content",
+          "right": "Semantics"
+        },
+        {
+          "left": "Use",
+          "right": "Pragmatics / social language"
+        }
+      ]
     }
   ],
   "notes": [
+    {
+      "id": "ch10-note004",
+      "title": "Developmental Norms, 37-60 Months (U Alberta Roadmap)",
+      "body": "Concrete 3-5 year benchmarks from the University of Alberta 'Roadmap' handbook.\n\nVOCABULARY: ~900-1000 words at 3 yr; ~1500-1600 at 4 yr; ~5000 at 5 yr (adds 5-9 new words/day from ~1.5-6 yr). Closed-class words (prepositions, pronouns, conjunctions, auxiliaries) expand, making sentences clearer.\nCOLORS & NUMBERS: by 4 yr, labels red/blue/yellow before green/brown/orange; counts to 5, understands numbers to 3, can bring 'three' of something.\nPREPOSITIONS: in/on correct by 3 → under → next to (40 mo) → behind/in back of/in front of (4 yr); above/below/at the bottom of harder; up/down/off not until after 4. Strategies for unfamiliar ones: container → put IN; supporting surface → put ON. Movement prepositions first interpreted as 'toward.'\nPRONOUNS: by 3 yr masters subjective (I/you/he/she/it/we), objective me/you, possessive mine/my/your/yours, demonstratives this/that; they/us/hers/his/them/her between 3-3.5.\nMODALS: between 3-4 yr — might (possibility), must (obligation), may (permission), will (intent), can (ability).\nARTICLES: indefinite a/an (non-specific/unknown) vs. definite the (specific/shared); 3-year-olds overuse 'the.'\nSPEECH SOUNDS: by 3 yr all vowels + p, m, h, n, w, b, k, g, d; stops before fricatives; ~75% intelligible to strangers at 3, ~90% at 4. Consonant clusters simplified by deleting one (s in spill, l in black, r in frog). Longer words shortened by dropping unstressed syllables.\nPASSIVES: not typically understood until 48 months+.\n\n★ KEY EXAM POINTS\n- Vocab: ~1000 (3) / ~1600 (4) / ~5000 (5).\n- Intelligibility: 75% at 3, 90% at 4; stops before fricatives.\n- Prepositions in/on first; passives understood ~48 mo+.",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00"
+    },
+    {
+      "id": "ch10-note003",
+      "title": "Four Types of Narratives & Story Organization",
+      "body": "Children are exposed to four UNIVERSAL types of narratives (produced from ~25-36 months onward):\n1. Recounts — retelling a SHARED experience; ADULT-prompted ('Tell Grandma what we did at the park,' Show-and-Share).\n2. Accounts — spontaneous verbalizations of experience; CHILD-initiated (often 'You know what?').\n3. Eventcasts — descriptions of a current or future event; often used to direct others in play ('Let's be pirates, you shoot the cannon').\n4. Fictional stories — an anticipated pattern/structure with a character pursuing a goal; events are not real.\n\nORGANIZING STRATEGIES (both emerging by age 3):\n- Centering: events built around a central topic; the listener may not recognize how each piece relates.\n- Chaining: each event shares one or more features with and builds on the previous one (a connected sequence).\n\n★ KEY EXAM POINTS\n- Four types: recount (shared/prompted), account (spontaneous/child-initiated), eventcast (directs play), fictional story (goal, not real).\n- Centering = around a central topic; chaining = each event builds on the last.\n- Narratives begin ~25-36 months.",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00"
+    },
+    {
+      "id": "ch10-note002",
+      "title": "Analyzing a Language Sample (Form / Content / Use)",
+      "body": "The week's task is a written, OBJECTIVE paragraph describing a child's sample across four areas. Avoid 'I think/I feel'; use 'it appears,' 'observations show.' State the stage (determined by MLU; you may also note which stages specific structures come from).\n\nThe Language Sample Checklist organizes observations with the Form / Content / Use framework:\n- FORM (Syntax + Morphology): utterance length (one-word → 4-5 word), simple/compound/complex/compound-complex sentences, word order, omitted words/inflections; tense markers (-ing, -s, -ed, will, irregular past, copula is/are); pronouns (subjective/objective/possessive); possessive 's; articles a/the; negatives (no/not/don't); WH-questions (who/what/where/when/why); Y/N question auxiliaries (am/are/is, have/has, can/could, will/would, do/does, etc.).\n- CONTENT (Semantics): range and correctness of words — naming, action, describing, 'place,' 'time,' 'quantity,' 'reason,' 'possession,' 'repetition' words; word-retrieval problems; nonspecific references; whether connected speech is organized/sequenced and on topic.\n- USE (Pragmatics): topic maintenance, asking/answering, requesting (direct/indirect), greetings, prosody/tone, eye contact/body language, turn-taking, conversational repair, joint attention.\n\n★ KEY EXAM POINTS\n- Form = syntax + morphology; Content = semantics; Use = pragmatics.\n- Write objectively ('observations show…'), state the MLU-based stage.\n- Check grammar against the 14 morphemes; check sentence types and phrase use.",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00"
+    },
+    {
+      "id": "ch10-note001",
+      "title": "Brown's Five Stages — Complete Review Chart",
+      "body": "A consolidated review of Brown's Stages of Syntactic Development (MLU drives the stage).\n\nSTAGE 1 (MLU 1.0-2.0): two-word combinations begin 18-24 mo (agent+action, action+object); prepositions in/on embedded.\n- Early Stage 1 (12-22 mo): single-word negation ('No!', 'Allgone!'); Y/N = single word + rising intonation; WH = 'What?'/'Where?'.\n- Late Stage 1 (22-26 mo): 'no/not' to start sentences ('no sleep!'); 'that + __?'; 'What that?'.\nSTAGE 2 (MLU 2.0-2.5): pronouns I/it/this/that then my/me/mine/you; have/do as main + auxiliary; semi-infinitives (hafta/gonna/wanna); NP uses only determiners + adjectivals; present progressive; sustains topic 1-2 turns; attempts conversational repair.\n- Late Stage 2 (28-30 mo): 'no/not/don't/can't' may go between subject and predicate ('daddy can't go'); WH 'What daddy kick?', 'Where doggie is?'; may ask single 'Why?'.\nSTAGE 3 (MLU 2.5-3.0): consistent you/she/he/we + demonstratives; modals can/will/do; 'to be' as copula AND auxiliary (with person/number errors); overextends regular past to irregulars ('he runned'); end of stage inverts copula ('Where is doggie?'); 'won't'; Y/N auxiliary inversion ('Can kitty meow?'); adds 'who'.\nSTAGE 4 (MLU 3.0-3.75): they/us/his/her/hers/them; past-tense modals could/should/would; maintains topic >2 turns; primitive presupposition; indirect requests begin; recounts & heaps; print referencing; adds 'how' then how/why/who/when to questions; isn't/doesn't/aren't/didn't.\nSTAGE 5 (MLU 3.75-4.5): its/our/ours/him/their/theirs/myself/yourself; superlatives (then comparatives); embeds relative clauses in object position; conjoins with 'and'; phonological awareness; wouldn't/couldn't/wasn't/shouldn't/weren't; consistent auxiliary inversion + may/must; tag questions ('…ok?').\n\n★ KEY EXAM POINTS\n- Memorize the five MLU bands: 1.0-2.0 / 2.0-2.5 / 2.5-3.0 / 3.0-3.75 / 3.75-4.5.\n- Negation order: single word → sentence-initial → between subject/predicate → auxiliary + contractions.\n- Questions: rising intonation → what/where → add who/how/when/why → auxiliary inversion + tags.",
+      "image": null,
+      "module": "mod-10",
+      "chapter": "Lecture 10: Language Sample Overview",
+      "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
+      "created": "2026-10-19T10:30:00-07:00"
+    },
     {
       "id": "ch9-note006",
       "title": "Comprehension: Concepts, Questions, Voice & Figurative Language",
