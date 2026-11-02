@@ -94,6 +94,15 @@
       ],
       "created": "2026-10-19T10:30:00-07:00",
       "desc": "A consolidation of early/preschool language development through language-sample analysis: Brown's complete five-stage chart (negation, questions, pronouns, verbs, phrases, pragmatics, narratives), the Form/Content/Use sample-analysis framework, the four universal narrative types (recounts, accounts, eventcasts, fictional stories) with centering and chaining, and 37-60 month developmental norms (vocabulary, prepositions, modals, articles, speech sounds) from the U Alberta Roadmap."
+    },
+    {
+      "id": "mod-12",
+      "name": "School-Age Language & Literacy",
+      "chapters": [
+        "Lecture 12: School-Age Language & Literacy"
+      ],
+      "created": "2026-11-02T10:30:00-08:00",
+      "desc": "School-age conversation and narratives (relevance, topic maintenance, indirect requests, gender-difference generalizations, story grammar, true narratives, cultural narrative styles); metalinguistic awareness across speech sounds (phonological-awareness progression), semantics, morphology/syntax, and pragmatics; reading and reading instruction (phonics, fluency, vocabulary instruction, text comprehension, the emergent/developing/independent reader categories, reading levels); and writing development (self-regulated writing, graphophonemic awareness, spelling stages, and the preparation/consolidation/differentiation/integration writing stages)."
     }
   ],
   "glossary": [
@@ -1278,6 +1287,16 @@
       "created": "2026-08-19T18:49:16-07:00"
     },
     {
+      "id": "ch12-g006",
+      "term": "Developing reader",
+      "def": "A reader receiving direct instruction who is actually reading for meaning; uses phonological awareness, decoding, letter-sound knowledge, and spelling patterns to figure out unfamiliar words.",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
+    },
+    {
       "id": "tx-g079",
       "term": "Developing readers",
       "def": "Individuals who are not yet reading independently, but read for meaning using the text, illustrations, letter-sound associations, and their own knowledge of print conventions to sample, predict, and confirm printed words.",
@@ -1476,6 +1495,16 @@
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "ch12-g005",
+      "term": "Emergent reader",
+      "def": "A reader just beginning to understand the concept of reading; may 'pretend to read,' point to words as an adult reads, recognize some letters, and rely on pictures to comprehend and predict.",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
     },
     {
       "id": "tx-g095",
@@ -1838,6 +1867,16 @@
       "created": "2026-09-21T12:30:00-07:00"
     },
     {
+      "id": "ch12-g008",
+      "term": "Handwriting practice",
+      "def": "The act of forming letters and copying writing — distinct from 'real' (idea-conveying) writing.",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
+    },
+    {
       "id": "ch1-g029",
       "term": "Hard palate",
       "image": null,
@@ -1976,6 +2015,16 @@
       "chapter": "Lecture 10: Language Sample Overview",
       "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
       "created": "2026-10-19T10:30:00-07:00"
+    },
+    {
+      "id": "ch12-g007",
+      "term": "Independent reader",
+      "def": "A mostly fluent, proficient reader focused on information and meaning rather than the effort of decoding; reads longer, more complex, varied texts (the lifelong adult stage).",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
     },
     {
       "id": "tx-g123",
@@ -3298,6 +3347,16 @@
       "created": "2026-08-19T18:49:16-07:00"
     },
     {
+      "id": "ch12-g001",
+      "term": "Phonics",
+      "def": "Linking sounds to letter symbols and combining them to make words (phonological awareness + letter representation of sounds).",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
+    },
+    {
       "id": "tx-g202",
       "term": "Phonological awareness",
       "def": "Ability to focus on and understand the sound structure of language.",
@@ -3918,6 +3977,16 @@
       "created": "2026-08-19T18:49:16-07:00"
     },
     {
+      "id": "ch12-g002",
+      "term": "Reading fluency",
+      "def": "The ability to read with accuracy, speed, and comprehension; supported by guided and repeated oral reading.",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
+    },
+    {
       "id": "tx-g246",
       "term": "Receptive language",
       "def": "Listening to and understanding what is communicated; the ability to comprehend a message.",
@@ -4066,6 +4135,16 @@
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "ch12-g009",
+      "term": "Relevance (conversation)",
+      "def": "Awareness of the information that is important and useful to the topic at hand, which school-age children use to maintain and add to conversational topics.",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
     },
     {
       "id": "ch7-g013",
@@ -4738,6 +4817,16 @@
       "created": "2026-08-19T18:49:16-07:00"
     },
     {
+      "id": "ch12-g004",
+      "term": "Text comprehension",
+      "def": "Teaching children to ask and answer questions about text, summarize, and connect what they read to other information or stories.",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
+    },
+    {
       "id": "ch2-cob-g005",
       "term": "The Speech Chain",
       "def": "The chain of events connecting a speaker's brain to a listener's brain during communication, moving through linguistic, physiological, and acoustic levels and back.",
@@ -5086,6 +5175,16 @@
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "ch12-g003",
+      "term": "Vocabulary instruction",
+      "def": "Teaching word knowledge — root words, prefixes, suffixes, definitions, and morphological attributes — to support reading and comprehension.",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
     },
     {
       "id": "ch2-g008",
@@ -7338,6 +7437,196 @@
       "chapter": "Lecture 10: Language Sample Overview",
       "source": "COMM DIS 1B Lecture 10: Language Sample Overview (Ch. 6 review; Brown's full chart; UAlberta 37-60 mo)",
       "created": "2026-10-19T10:30:00-07:00"
+    },
+    {
+      "id": "ch12-f001",
+      "front": "What is story grammar?",
+      "back": "The structure of stories (plot, characters, sequence, problem-solution) used for storytelling and comprehension, formed through early story experiences.",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
+    },
+    {
+      "id": "ch12-f002",
+      "front": "What four elements define a true narrative, and when is it understood?",
+      "back": "Plot, character development, sequence of events, and problem-solution; understood with causal relationships around 6-7 years.",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
+    },
+    {
+      "id": "ch12-f003",
+      "front": "How do narrative styles differ across cultures (per the text)?",
+      "back": "Hispanic: focus on relationships; Japanese: haiku-like, theme-connected (not temporal); White middle-SES: topic-based around a specific character/event; African American females: topic-associating (separate events sharing a theme), often longer with more figurative language.",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
+    },
+    {
+      "id": "ch12-f004",
+      "front": "What is metalinguistic awareness?",
+      "back": "The ability to reflect on and make judgments about one's own language — 'thinking about language' — e.g., judging whether grammar or word choice is correct.",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
+    },
+    {
+      "id": "ch12-f005",
+      "front": "Give the progression of phonological awareness skills (easy → hard).",
+      "back": "Rhyming → counting/segmenting sounds → longer words → letter-sound correspondence → onset-rime → varied syllable shapes → manipulating (deleting/substituting) sounds → using sounds to spell.",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
+    },
+    {
+      "id": "ch12-f006",
+      "front": "Deleting vs. substituting sounds — give an example of each.",
+      "back": "Deleting: say 'cat' without /k/ = 'at.' Substituting: say 'cat,' change /k/ to /h/ = 'hat.'",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
+    },
+    {
+      "id": "ch12-f007",
+      "front": "Why does phonological awareness matter for reading?",
+      "back": "Preschool/kindergarten phonological awareness skills predict later reading ability; they rely heavily on working memory.",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
+    },
+    {
+      "id": "ch12-f008",
+      "front": "Name the three categories of readers.",
+      "back": "Emergent, developing, and independent.",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
+    },
+    {
+      "id": "ch12-f009",
+      "front": "What characterizes the emergent reader stage?",
+      "back": "Just grasping the concept of reading; may 'pretend to read,' point to words, recognize some letters, and rely on pictures; books are rhythmic, repetitive, simple.",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
+    },
+    {
+      "id": "ch12-f010",
+      "front": "What characterizes the developing reader stage?",
+      "back": "Receiving direct instruction and reading for meaning; uses phonological awareness, decoding, letter-sound knowledge, and spelling patterns to decode unfamiliar words.",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
+    },
+    {
+      "id": "ch12-f011",
+      "front": "What characterizes the independent reader stage?",
+      "back": "Mostly fluent/proficient; focus is on meaning, not decoding; reads longer, more complex, varied texts — the lifelong adult stage.",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
+    },
+    {
+      "id": "ch12-f012",
+      "front": "What is reading fluency, and how is it supported?",
+      "back": "Reading with accuracy, speed, and comprehension; supported by guided and repeated oral reading.",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
+    },
+    {
+      "id": "ch12-f013",
+      "front": "Name the four levels of reading/understanding text.",
+      "back": "Literal, inspectual, analytic, and comparative.",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
+    },
+    {
+      "id": "ch12-f014",
+      "front": "What is graphophonemic awareness?",
+      "back": "Awareness of the correspondence between letter formations and their sounds.",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
+    },
+    {
+      "id": "ch12-f015",
+      "front": "What is self-regulated writing?",
+      "back": "A writer's awareness of audience and style in order to convey their message.",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
+    },
+    {
+      "id": "ch12-f016",
+      "front": "Name the four stages of writing development.",
+      "back": "Preparation, consolidation, differentiation, and integration.",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
+    },
+    {
+      "id": "ch12-f017",
+      "front": "Name the four stages of spelling.",
+      "back": "Prephonemic, early phonemic, letter name, and transitional.",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
+    },
+    {
+      "id": "ch12-f018",
+      "front": "What distinguishes 'real' writing from handwriting practice?",
+      "back": "Real writing conveys ideas (choosing words to convey meaning); handwriting practice is forming letters and copying.",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
+    },
+    {
+      "id": "ch12-f019",
+      "front": "Per the text's generalizations, how do school-age girls vs. boys tend to communicate?",
+      "back": "Girls: take turns, share experiences, talk about feelings, seek collaboration/approval, build relationships; aggression as gossip. Boys: brag to establish status, challenge with jokes/wit, more private with feelings but solve problems; aggression as accusing/shouting/name-calling.",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
     }
   ],
   "questions": [
@@ -10725,9 +11014,401 @@
           "right": "Pragmatics / social language"
         }
       ]
+    },
+    {
+      "id": "ch12-q001",
+      "type": "mc",
+      "text": "Linking sounds to letter symbols and combining them to make words is:",
+      "answer": "Phonics",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00",
+      "options": [
+        "Phonological awareness",
+        "Phonics",
+        "Story grammar",
+        "Fluency"
+      ]
+    },
+    {
+      "id": "ch12-q002",
+      "type": "mc",
+      "text": "Conscious awareness and manipulation of sound units within words (no letters required) is:",
+      "answer": "Phonological awareness",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00",
+      "options": [
+        "Phonics",
+        "Phonological awareness",
+        "Graphophonemic awareness",
+        "Decoding"
+      ]
+    },
+    {
+      "id": "ch12-q003",
+      "type": "mc",
+      "text": "Which reader stage is mostly fluent and focused on meaning rather than decoding?",
+      "answer": "Independent",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00",
+      "options": [
+        "Emergent",
+        "Developing",
+        "Independent",
+        "Prephonemic"
+      ]
+    },
+    {
+      "id": "ch12-q004",
+      "type": "mc",
+      "text": "A reader who 'pretends to read' and relies on pictures is in which stage?",
+      "answer": "Emergent",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00",
+      "options": [
+        "Emergent",
+        "Developing",
+        "Independent",
+        "Transitional"
+      ]
+    },
+    {
+      "id": "ch12-q005",
+      "type": "mc",
+      "text": "Reading with accuracy, speed, and comprehension is called:",
+      "answer": "Reading fluency",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00",
+      "options": [
+        "Decoding",
+        "Reading fluency",
+        "Text comprehension",
+        "Phonics"
+      ]
+    },
+    {
+      "id": "ch12-q006",
+      "type": "mc",
+      "text": "A narrative with plot, character development, sequence, and problem-solution is a:",
+      "answer": "True narrative",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00",
+      "options": [
+        "Recount",
+        "True narrative",
+        "Topic-associating narrative",
+        "Eventcast"
+      ]
+    },
+    {
+      "id": "ch12-q007",
+      "type": "mc",
+      "text": "Awareness of the correspondence between letter formations and their sounds is:",
+      "answer": "Graphophonemic awareness",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00",
+      "options": [
+        "Phonological awareness",
+        "Graphophonemic awareness",
+        "Self-regulated writing",
+        "Story grammar"
+      ]
+    },
+    {
+      "id": "ch12-q008",
+      "type": "mc",
+      "text": "Which is the correct order of the four writing stages?",
+      "answer": "Preparation → consolidation → differentiation → integration",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00",
+      "options": [
+        "Consolidation → preparation → integration → differentiation",
+        "Preparation → consolidation → differentiation → integration",
+        "Preparation → differentiation → consolidation → integration",
+        "Integration → differentiation → consolidation → preparation"
+      ]
+    },
+    {
+      "id": "ch12-q009",
+      "type": "mc",
+      "text": "Saying 'cat' and changing /k/ to /h/ to make 'hat' is an example of:",
+      "answer": "Substituting sounds",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00",
+      "options": [
+        "Deleting sounds",
+        "Substituting sounds",
+        "Segmenting sounds",
+        "Onset-rime"
+      ]
+    },
+    {
+      "id": "ch12-q010",
+      "type": "mc",
+      "text": "Which is the most SOPHISTICATED stage of writing, conveying mood and personality?",
+      "answer": "Integration",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00",
+      "options": [
+        "Preparation",
+        "Consolidation",
+        "Differentiation",
+        "Integration"
+      ]
+    },
+    {
+      "id": "ch12-q011",
+      "type": "tf",
+      "text": "Phonics requires linking sounds to letters, while phonological awareness does not.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
+    },
+    {
+      "id": "ch12-q012",
+      "type": "tf",
+      "text": "True narratives (with causal relationships) are typically understood around 6-7 years of age.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
+    },
+    {
+      "id": "ch12-q013",
+      "type": "tf",
+      "text": "The independent reader stage is one we remain in throughout adulthood.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
+    },
+    {
+      "id": "ch12-q014",
+      "type": "tf",
+      "text": "Preschool phonological awareness skills have no relationship to later reading ability.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
+    },
+    {
+      "id": "ch12-q015",
+      "type": "tf",
+      "text": "Cultural narrative styles should be treated as rigid rules rather than generalizations.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
+    },
+    {
+      "id": "ch12-q016",
+      "type": "fitb",
+      "text": "Linking sounds to letter symbols to make words is called ______.",
+      "answer": "phonics",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
+    },
+    {
+      "id": "ch12-q017",
+      "type": "fitb",
+      "text": "The structure of stories used for telling and comprehension is called story ______.",
+      "answer": "grammar",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
+    },
+    {
+      "id": "ch12-q018",
+      "type": "fitb",
+      "text": "A writer's awareness of audience and style to convey a message is ______ writing.",
+      "answer": "self-regulated",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
+    },
+    {
+      "id": "ch12-q019",
+      "type": "fitb",
+      "text": "The earliest spelling stage, with letter strings that don't resemble the word, is the ______ stage.",
+      "answer": "prephonemic",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
+    },
+    {
+      "id": "ch12-q020",
+      "type": "match",
+      "text": "Match each reader category to its description.",
+      "answer": null,
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00",
+      "pairs": [
+        {
+          "left": "Emergent",
+          "right": "Pretends to read; relies on pictures"
+        },
+        {
+          "left": "Developing",
+          "right": "Direct instruction; reads for meaning/decodes"
+        },
+        {
+          "left": "Independent",
+          "right": "Fluent; focus on meaning, not decoding"
+        }
+      ]
+    },
+    {
+      "id": "ch12-q021",
+      "type": "match",
+      "text": "Match each writing stage to its description.",
+      "answer": null,
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00",
+      "pairs": [
+        {
+          "left": "Preparation",
+          "right": "Forming letters and copying words"
+        },
+        {
+          "left": "Consolidation",
+          "right": "Writes using speaking vocabulary/grammar"
+        },
+        {
+          "left": "Differentiation",
+          "right": "Writing style differs from speaking"
+        },
+        {
+          "left": "Integration",
+          "right": "Develops style; conveys mood/personality"
+        }
+      ]
+    },
+    {
+      "id": "ch12-q022",
+      "type": "match",
+      "text": "Match each spelling stage to its description.",
+      "answer": null,
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00",
+      "pairs": [
+        {
+          "left": "Prephonemic",
+          "right": "Letter strings not resembling the word"
+        },
+        {
+          "left": "Early phonemic",
+          "right": "First letter, then random letters"
+        },
+        {
+          "left": "Letter name",
+          "right": "Basic letter-sound representations"
+        },
+        {
+          "left": "Transitional",
+          "right": "Applies learned spelling patterns/rules"
+        }
+      ]
     }
   ],
   "notes": [
+    {
+      "id": "ch12-note004",
+      "title": "Writing & Its Development",
+      "body": "Reading and writing are intertwined — exposure to reading supports writing; each process enhances the other. Both need background knowledge/life experience. Writing = choosing the best words/symbols to convey meaning. SELF-REGULATED WRITING = awareness of audience and style to convey the message.\n\nREAL WRITING vs. HANDWRITING PRACTICE: forming letters and copying is handwriting practice; toddler scribbles → markings resembling writing prepare for early writing. GRAPHOPHONEMIC AWARENESS = awareness of the correspondence between letter formations and their sounds.\n\nSTAGES OF SPELLING:\n1. Prephonemic: letter strings that 'represent' words but don't resemble them.\n2. Early phonemic: maybe the first letter of a word, then random letters.\n3. Letter name: spelling based on basic letter-sound representations.\n4. Transitional: remembers and applies learned spelling patterns/rules.\n\nSTAGES OF WRITING:\n- Preparation: earliest practice — forming letters, copying words.\n- Consolidation: stringing words together using the same vocabulary/grammar as in speaking.\n- Differentiation: writing style becomes different from speaking; more complex forms.\n- Integration: sophisticated writing — develops a style, conveys mood, attitude, personality (creative/expressive).\n\n★ KEY EXAM POINTS\n- Self-regulated writing = audience + style awareness; graphophonemic awareness = letters↔sounds.\n- Spelling stages: prephonemic → early phonemic → letter name → transitional.\n- Writing stages: preparation → consolidation → differentiation → integration (integration = most expressive).",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
+    },
+    {
+      "id": "ch12-note003",
+      "title": "Reading & Reading Instruction",
+      "body": "Key reading-development skills:\n- Phonological awareness → add letter representation of sounds = PHONICS ('link sounds to letter symbols and combine them to make words'). Phonics skills: decoding regularly spelled words, reading nonsense words, using sound-symbol relationships, learning orthographic patterns.\n- READING FLUENCY: reading with accuracy, speed, and comprehension; supported by guided and repeated oral reading.\n- VOCABULARY INSTRUCTION: teaching word knowledge (roots, prefixes, suffixes, definitions, morphological attributes) to support word recognition and comprehension.\n- TEXT COMPREHENSION: asking/answering questions about text, summarizing, and making connections to other information/stories.\n\nTHREE CATEGORIES OF READERS (same progression, own pace):\n1. Emergent: grasping the concept of reading; may 'pretend to read,' point to words, recognize some letters, rely on pictures; books rhythmic, repetitive, simple.\n2. Developing: direct instruction; reading for MEANING; phonological awareness + decoding, letter-sound knowledge, spelling patterns; figures out unfamiliar words.\n3. Independent: mostly fluent/proficient; focus on meaning, not decoding; longer, more complex, varied texts — the lifelong adult stage.\n\nLevels of reading/understanding text: LITERAL, INSPECTUAL, ANALYTIC, and COMPARATIVE.\n\n★ KEY EXAM POINTS\n- Phonics = phonological awareness + letters; fluency = accuracy + speed + comprehension.\n- Three readers: emergent (pretend/pictures) → developing (decode for meaning) → independent (fluent, meaning-focused).\n- Four text levels: literal, inspectual, analytic, comparative.",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
+    },
+    {
+      "id": "ch12-note002",
+      "title": "Metalinguistic Awareness Across Language Areas",
+      "body": "Metalinguistic awareness = reflecting on and judging one's own language ('thinking about language/thinking'). It relates to cognitive development, intellectual capacity, scholastic achievement, reading, and environment (play, adult stimulation). It lets us judge whether grammar or word choice is correct, using our knowledge of language rules.\n\n- SPEECH SOUNDS (phonological awareness): conscious awareness/manipulation of smaller sound units; preschool/kinder skills PREDICT later reading; rely on working memory. Progression (easy→hard): rhyming → counting/segmenting sounds → longer/complex words → letter-sound correspondence → onset-rime segmentation → varied syllable shapes → manipulating sounds (deleting: 'cat' w/o /k/ = 'at'; substituting: /k/→/h/ = 'hat') → using sounds to spell.\n- SEMANTICS: deeper word understanding; words are ARBITRARY and can represent more than one thing; by age 5 children judge semantic appropriateness and fix mistakes ('firemen put out the trash').\n- MORPHOLOGY & SYNTAX: knowing inflectional + derivational morphemes benefits reading, spelling, vocabulary, and morphological awareness; syntax awareness = judging/fixing sentence errors (word order, missing/extra words).\n- PRAGMATICS: repairing amount/quality of information; asking for clarification of intent; knowing time/place/person for what's said; may break 'social rules' on purpose to make a point.\n\n★ KEY EXAM POINTS\n- Phonological awareness progression: rhyme → segment → letter-sound → onset-rime → manipulate → spell.\n- Deleting vs. substituting sounds; spelling is the hardest (needs working memory).\n- By age 5, children judge semantic appropriateness; metalinguistics spans sounds, semantics, morphology/syntax, pragmatics.",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
+    },
+    {
+      "id": "ch12-note001",
+      "title": "Conversations, Narratives & Gender Differences",
+      "body": "CONVERSATION (school age): increased awareness of RELEVANCE (what's important/useful to the topic); better topic maintenance by ADDING new information; better repairs and listener-specific detail; knows what to leave out; improved organizing/sequencing. Makes proficient, polite INDIRECT requests (aware of audience, importance of politeness to adults).\n\nGENDER DIFFERENCES (treat as GENERALIZATIONS): girls often talk before boys; boys more likely to have language impairments.\n- Females: take turns, share experiences, want acceptance; influence by suggestions/preferences; talk about feelings; aggression as gossip; communicate to build/maintain relationships; seek collaboration, cooperation, agreement, approval; use empathy/sympathy.\n- Males: brag to establish status/superiority; challenge peers with jokes/wit; aggression as accusing, shouting, name-calling, harsh language; more independent, relate as rivals; private with feelings but offer advice and solve problems.\n\nNARRATIVES: early story experiences build STORY GRAMMAR (story structure for telling/comprehension). By 6-7 years children understand causal relationships for TRUE NARRATIVES (plot, character development, sequence of events, problem-solution).\nCultural narrative styles (be culturally sensitive for equity): Hispanic → relationships within the story; Japanese → haiku-like, theme-connected (not temporal); White middle-SES → topic-based around a specific character/event; African American females → topic-associating (separate events sharing a theme; often longer, more figurative language/exaggeration).\n\n★ KEY EXAM POINTS\n- Relevance + adding info + repairs = better topic maintenance; indirect requests become polite/proficient.\n- Gender patterns are generalizations (girls: relationships/collaboration; boys: status/independence).\n- Story grammar; true narrative = plot + characters + sequence + problem-solution (~6-7 yr); know the cultural styles, esp. topic-associating.",
+      "image": null,
+      "module": "mod-12",
+      "chapter": "Lecture 12: School-Age Language & Literacy",
+      "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
+      "created": "2026-11-02T10:30:00-08:00"
+    },
     {
       "id": "ch10-note004",
       "title": "Developmental Norms, 37-60 Months (U Alberta Roadmap)",
