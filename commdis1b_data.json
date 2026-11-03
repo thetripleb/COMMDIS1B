@@ -42,15 +42,6 @@
       "desc": "Piaget's cognitive development: how knowledge is organized (schema, assimilation, accommodation, equilibrium) and his four stages (sensorimotor, preoperational, concrete operations, formal operations), with a detailed look at the six key sensorimotor skills and six substages that lay the groundwork for language."
     },
     {
-      "id": "mod-6",
-      "name": "Module 6: Communication Development: Birth to 2 Years",
-      "chapters": [
-        "Lecture 6: Communication Development Birth-2"
-      ],
-      "created": "2026-09-21T12:30:00-07:00",
-      "desc": "How communication develops from birth to age 2: influencing factors and SES/the word gap, parent-child and child-directed interactions (contingent responding, joint reference, parentese, expansion/extension), word learning (fast vs. slow mapping, phonological representations, three meaning hypotheses), prelinguistic vocal development (Bates' stages; cooing through jargon), gestures and pointing, and first words (over/underextension, Halliday, Dore, MLU)."
-    },
-    {
       "id": "mod-5",
       "name": "Module 5: Cognitive Development II: Vygotsky",
       "chapters": [
@@ -58,6 +49,15 @@
       ],
       "created": "2026-09-28T12:00:00-07:00",
       "desc": "Vygotsky's sociocultural theory of cognitive development: private speech, the zone of proximal development and scaffolding, shape bias, the development of perception (visual-tactile and auditory), executive functions, controlled attention and working memory (phonological loop and visual-spatial sketchpad), and theory of mind."
+    },
+    {
+      "id": "mod-6",
+      "name": "Module 6: Communication Development: Birth to 2 Years",
+      "chapters": [
+        "Lecture 6: Communication Development Birth-2"
+      ],
+      "created": "2026-09-21T12:30:00-07:00",
+      "desc": "How communication develops from birth to age 2: influencing factors and SES/the word gap, parent-child and child-directed interactions (contingent responding, joint reference, parentese, expansion/extension), word learning (fast vs. slow mapping, phonological representations, three meaning hypotheses), prelinguistic vocal development (Bates' stages; cooing through jargon), gestures and pointing, and first words (over/underextension, Halliday, Dore, MLU)."
     },
     {
       "id": "mod-7",
@@ -88,7 +88,7 @@
     },
     {
       "id": "mod-10",
-      "name": "Language Sample Analysis & Preschool Review",
+      "name": "Module 10: Language Sample Analysis & Preschool Review",
       "chapters": [
         "Lecture 10: Language Sample Overview"
       ],
@@ -96,8 +96,17 @@
       "desc": "A consolidation of early/preschool language development through language-sample analysis: Brown's complete five-stage chart (negation, questions, pronouns, verbs, phrases, pragmatics, narratives), the Form/Content/Use sample-analysis framework, the four universal narrative types (recounts, accounts, eventcasts, fictional stories) with centering and chaining, and 37-60 month developmental norms (vocabulary, prepositions, modals, articles, speech sounds) from the U Alberta Roadmap."
     },
     {
+      "id": "mod-11",
+      "name": "Module 11: School-Age Language",
+      "chapters": [
+        "Lecture 11: School Age Language"
+      ],
+      "created": "2026-10-28T07:00:00-07:00",
+      "desc": "Language development in school-age children: the three languages of school and the challenges of diverse/English-learner classrooms; semantic development (adult models, context clues, morphological knowledge; horizontal/vertical expansion; chunking and the syntagmatic-paradigmatic shift; word retrieval; defining words); figurative language (idioms, irony, proverbs); and syntax/morphology (passive sentences, principle of minimal distance, conjoining/embedding, noun/verb phrases, morphological modifications, gerunds, and adverb forms)."
+    },
+    {
       "id": "mod-12",
-      "name": "School-Age Language & Literacy",
+      "name": "Module 12: School-Age Language & Literacy",
       "chapters": [
         "Lecture 12: School-Age Language & Literacy"
       ],
@@ -731,7 +740,7 @@
       "term": "Chunking",
       "def": "Process of placing words into categories based on their semantic relationships.",
       "image": null,
-      "module": null,
+      "module": "mod-11",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -1171,7 +1180,7 @@
       "term": "Decontextualized",
       "def": "Devoid of situation or context.",
       "image": null,
-      "module": null,
+      "module": "mod-11",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -1801,7 +1810,7 @@
       "term": "Gerund",
       "def": "Verbal or nonfinite verb form (based on a verb and expresses action or a state of being) that ends in -ing and functions as a noun.",
       "image": null,
-      "module": null,
+      "module": "mod-11",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -1851,7 +1860,7 @@
       "term": "Graphophonemic awareness",
       "def": "Ability to match letters to individual sounds.",
       "image": null,
-      "module": null,
+      "module": "mod-12",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -1911,7 +1920,7 @@
       "term": "Horizontal expansion",
       "def": "Adding semantic features to one's definitions of a word to create a greater understanding and use of a word in common situations with greater differentiation of it from other words.",
       "image": null,
-      "module": null,
+      "module": "mod-11",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -2261,7 +2270,7 @@
       "term": "Ironic compliment",
       "def": "Negative statement intended to mean something positive.",
       "image": null,
-      "module": null,
+      "module": "mod-11",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -2271,7 +2280,7 @@
       "term": "Ironic criticism",
       "def": "Positive statement with the intent to mean something negative.",
       "image": null,
-      "module": null,
+      "module": "mod-11",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -3761,7 +3770,7 @@
       "term": "Principle of minimal distance",
       "def": "Concept that the preceding noun closest to the verb is treated as the subject of the sentence.",
       "image": null,
-      "module": null,
+      "module": "mod-11",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -3911,7 +3920,7 @@
       "term": "Proverb",
       "def": "Popular, wise saying or a precise statement of truth.",
       "image": null,
-      "module": null,
+      "module": "mod-11",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -4291,7 +4300,7 @@
       "term": "Self-regulated writing",
       "def": "Proactive and self-directed process of writing in which a writer takes into account aspects such as the audience and the literary style most appropriate to convey the message.",
       "image": null,
-      "module": null,
+      "module": "mod-12",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -4631,7 +4640,7 @@
       "term": "Story grammar",
       "def": "Knowledge about general structure of stories and how to ask oneself important questions while reading stories to facilitate comprehension.",
       "image": null,
-      "module": null,
+      "module": "mod-12",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -4761,7 +4770,7 @@
       "term": "Syntagmatic-paradigmatic shift",
       "def": "Change in a child's processing and organization of words to reflect more adultlike patterns of organizing words into classes, rather than by syntactic relationships (e.g., syntagmatic relationship: \"cat-meows\"; paradigmatic relationship: \"cat-animal\").",
       "image": null,
-      "module": null,
+      "module": "mod-11",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -4881,7 +4890,7 @@
       "term": "Topic-associating narrative",
       "def": "Story that connects two or more different events that share a common theme, in which each episode in the narrative might have different characters, and the stories might occur in different places and times.",
       "image": null,
-      "module": null,
+      "module": "mod-12",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -4991,7 +5000,7 @@
       "term": "True narrative",
       "def": "Stories that focus on a true plot, character development, a sequence of events, and a definite resolution of the central conflict or problem.",
       "image": null,
-      "module": null,
+      "module": "mod-12",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -5141,7 +5150,7 @@
       "term": "Vertical expansion",
       "def": "Developing an understanding of the deeper meanings of words by taking a known word and breaking it down into categories.",
       "image": null,
-      "module": null,
+      "module": "mod-11",
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
@@ -5355,6 +5364,126 @@
       "chapter": "Theories of Acquisition",
       "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
       "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch11-g001",
+      "term": "Adult models (word learning)",
+      "def": "Direct teaching in which an adult presents a word, describes its meaning, and demonstrates how to apply it.",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
+      "id": "ch11-g002",
+      "term": "Context clues",
+      "def": "Using information in the environment or text to determine the meaning of an unknown word.",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
+      "id": "ch11-g003",
+      "term": "Morphological knowledge",
+      "def": "Using knowledge of word parts (prefixes, suffixes, root words) to figure out the meaning of an unfamiliar word.",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
+      "id": "ch11-g004",
+      "term": "Operational definition",
+      "def": "An early definition type that refers to what an object does or its properties.",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
+      "id": "ch11-g005",
+      "term": "Categorical definition",
+      "def": "A definition that states the word's semantic category — a step toward a dictionary definition.",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
+      "id": "ch11-g006",
+      "term": "Dictionary definition",
+      "def": "A mature definition that states both the semantic category and the characteristics.",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
+      "id": "ch11-g007",
+      "term": "Morphological modification",
+      "def": "Expanding or changing a word's meaning by adding prefixes/suffixes to a root word ('morphing' the root).",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
+      "id": "ch9-g012",
+      "term": "Tag question",
+      "def": "A short question added to the end of a statement to invite confirmation; preschoolers first produce primitive tags like 'Okay?' or 'Right?' in Stage 5.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00"
+    },
+    {
+      "id": "ch9-g013",
+      "term": "Subject-verb agreement",
+      "def": "Matching the verb form to the number of the subject (singular vs. plural); a Stage 5 child still has difficulty with this.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00"
+    },
+    {
+      "id": "ch9-g014",
+      "term": "Prepositional phrase",
+      "def": "A phrase beginning with a preposition that gives information such as location; in Stage 4 it often appears at the end of an utterance ('Baby's on the bed').",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00"
+    },
+    {
+      "id": "ch9-g015",
+      "term": "Multiple embedding",
+      "def": "Embedding more than one clause within a sentence, emerging in Stage 5 ('I think I want to eat all the cake').",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00"
+    },
+    {
+      "id": "ch9-g016",
+      "term": "Reflexive pronoun",
+      "def": "A pronoun ending in -self/-selves (myself, yourself) referring back to the subject; used more consistently in Stage 5.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00"
     }
   ],
   "flashcards": [
@@ -7627,6 +7756,306 @@
       "chapter": "Lecture 12: School-Age Language & Literacy",
       "source": "COMM DIS 1B Lecture 12: School-Age Language & Literacy (Ch. 7, pp. 294-322)",
       "created": "2026-11-02T10:30:00-08:00"
+    },
+    {
+      "id": "ch11-f001",
+      "front": "What three types of language must children quickly learn when they start school?",
+      "back": "(1) Language of academic subjects/curriculum, (2) language of behavior management (incl. indirect language), (3) language by which personal identity is expressed.",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
+      "id": "ch11-f002",
+      "front": "What are the three influences on how school-age children acquire new words?",
+      "back": "Adult models (direct teaching), context clues (environment/text), and morphological knowledge (word parts).",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
+      "id": "ch11-f003",
+      "front": "Horizontal vs. vertical expansion?",
+      "back": "Horizontal = learning additional features/meanings for a known word ('mouse' animal → computer mouse). Vertical = learning deeper meanings.",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
+      "id": "ch11-f004",
+      "front": "What is chunking as a vocabulary strategy?",
+      "back": "Grouping words into categories based on their semantic relationships.",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
+      "id": "ch11-f005",
+      "front": "What is the syntagmatic-paradigmatic shift?",
+      "back": "Moving from responding to words by function/association to responding by semantic features/category (e.g., 'cow' → animal, farm, milk).",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
+      "id": "ch11-f006",
+      "front": "Name the three word-retrieval strategies from the text.",
+      "back": "(1) Semantic categorical information, (2) externally provided auditory/phonological cues, (3) visual cues (pictures).",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
+      "id": "ch11-f007",
+      "front": "What does 'decontextualized' mean when defining words?",
+      "back": "Describing a word's meaning with no situation or context to support it.",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
+      "id": "ch11-f008",
+      "front": "List the developmental progression of defining words.",
+      "back": "Operational/functional → descriptive → categorical → dictionary (category + characteristics).",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
+      "id": "ch11-f009",
+      "front": "Why are idioms described as single lexical units?",
+      "back": "Their meaning is learned/stored as a whole, not interpreted from the individual words.",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
+      "id": "ch11-f010",
+      "front": "Ironic criticism vs. ironic compliment?",
+      "back": "Ironic criticism = positive statement, negative meaning ('you look great' to bedhead). Ironic compliment = negative statement, positive meaning ('what a terrible life' before a Hawaii trip).",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
+      "id": "ch11-f011",
+      "front": "What is a proverb?",
+      "back": "A commonplace/wise saying or precise statement of truth that offers advice or a lesson.",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
+      "id": "ch11-f012",
+      "front": "How are passive sentences structured?",
+      "back": "The object (acted upon) comes first and the agent (doer) comes after ('the baby was bathed by the mom').",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
+      "id": "ch11-f013",
+      "front": "What is the principle of minimal distance, and which verbs are exceptions?",
+      "back": "The subject immediately precedes the verb; ask, tell, and promise are exceptions that can confuse children.",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
+      "id": "ch11-f014",
+      "front": "Which conjunctions do younger vs. older school-age children use?",
+      "back": "Younger: 'and' first. Later elementary: because, when, if, in order. 'Because' is tricky (effect often stated before cause).",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
+      "id": "ch11-f015",
+      "front": "What is a gerund?",
+      "back": "A noun made by adding -ing to a verb and using it as a noun (e.g., 'running is hard').",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
+      "id": "ch11-f016",
+      "front": "How do children form adverbs, and how do adverbs differ from adjectives?",
+      "back": "Add -ly to an adjective (slow → slowly). An adjective describes a noun; an adverb describes a verb.",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
+      "id": "ch11-f017",
+      "front": "What is morphological modification?",
+      "back": "Changing/expanding a root word's meaning by adding prefixes and suffixes.",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
+      "id": "ch11-f018",
+      "front": "Why is the classroom a language challenge for English learners?",
+      "back": "They must learn English while simultaneously learning curriculum content in English.",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
+      "id": "ch9-f023",
+      "front": "Copula vs. auxiliary 'to be' — which is the main verb?",
+      "back": "The COPULA is the main (linking) verb of the clause ('She is happy'). The AUXILIARY only supports a main verb that carries -ing ('She is playing'). Only these two uses of 'be' are among Brown's 14 morphemes.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00"
+    },
+    {
+      "id": "ch9-f024",
+      "front": "What does 'contractible' mean for a copula/auxiliary?",
+      "back": "It COULD be produced contracted or uncontracted in that context ('She's happy' or 'She is happy') — contraction is optional (like 'inflatable': could be inflated, needn't be).",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00"
+    },
+    {
+      "id": "ch9-f025",
+      "front": "What does 'uncontractible' mean, and which forms can't contract at all?",
+      "back": "The context requires the uncontracted form ('Who is teaching? Dr. Reece is.'). Also, 'was' and 'were' have no contracted form, unlike am/is/are ('m/'re/'s).",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00"
+    },
+    {
+      "id": "ch9-f026",
+      "front": "Which 2 of Brown's 14 morphemes involve the auxiliary 'be'?",
+      "back": "The uncontractible auxiliary (#12, 'Is he pointing?') and the contractible auxiliary (#14, 'She's calling'). Only auxiliary 'be' counts among the 14.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00"
+    },
+    {
+      "id": "ch9-f027",
+      "front": "At what MLU/age does a child master 9 of the 14 morphemes?",
+      "back": "By late Stage 5 (MLU 3.75-4.5, ~41-46 months); the remaining morphemes are mastered over roughly the next 4 months.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00"
+    },
+    {
+      "id": "ch9-f028",
+      "front": "What new negation forms appear in Stage 4?",
+      "back": "Auxiliary-based negatives ('He will not run') and true contractions can't/won't (2 morphemes), plus didn't, doesn't, isn't, aren't.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00"
+    },
+    {
+      "id": "ch9-f029",
+      "front": "What new sentence-combining appears in Stage 5?",
+      "back": "Proficient compound sentences with 'and,' plus or/but/then/when/because; embedded relative clauses ('the thing that I broke'); and multiple embeddings.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00"
+    },
+    {
+      "id": "ch9-f030",
+      "front": "What primitive conversational device appears in Stage 5?",
+      "back": "Primitive tag questions ('Okay?', 'Right?'), plus anticipating one's next turn and helping a partner finish theirs.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00"
+    },
+    {
+      "id": "ch9-f031",
+      "front": "Roughly how many words does a 42-month-old use and comprehend?",
+      "back": "Uses up to ~1,200 words in mostly complete sentences (4-5 words each) and comprehends up to ~4,200 words.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00"
+    },
+    {
+      "id": "ch9-f032",
+      "front": "How do you calculate MLU? Give the handout's worked example.",
+      "back": "Total morphemes ÷ total utterances. Example: 'I go home / Baby smile-s / Mommy sing-ing song-s' = 11 morphemes ÷ 3 utterances = 3.6 MLU.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00"
+    },
+    {
+      "id": "ch9-f033",
+      "front": "In MLU, how are 'can't' and 'won't' counted?",
+      "back": "As 2 morphemes (true contractions) — but let's, don't, and won't are treated as single units in the count-as-one rule set; note the course handout lists can't/won't as 2.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00"
+    },
+    {
+      "id": "ch9-f034",
+      "front": "Give the acquisition-age span for the earliest vs. latest of Brown's morphemes.",
+      "back": "Earliest: present progressive -ing (~19-28 mo). Latest: contractible auxiliary (~30-50 mo); uncontractible copula/articles extend to ~46-48 mo.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00"
     }
   ],
   "questions": [
@@ -11366,6 +11795,629 @@
           "right": "Applies learned spelling patterns/rules"
         }
       ]
+    },
+    {
+      "id": "ch11-q001",
+      "type": "mc",
+      "text": "Learning that 'mouse' can mean an animal AND a computer device is an example of:",
+      "answer": "Horizontal expansion",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00",
+      "options": [
+        "Vertical expansion",
+        "Horizontal expansion",
+        "Chunking",
+        "Gerund formation"
+      ]
+    },
+    {
+      "id": "ch11-q002",
+      "type": "mc",
+      "text": "Using prefixes, suffixes, and root words to figure out an unknown word uses:",
+      "answer": "Morphological knowledge",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00",
+      "options": [
+        "Context clues",
+        "Adult models",
+        "Morphological knowledge",
+        "Chunking"
+      ]
+    },
+    {
+      "id": "ch11-q003",
+      "type": "mc",
+      "text": "Responding to 'cow' with 'animal, farm, milk' rather than 'moo' reflects the:",
+      "answer": "Syntagmatic-paradigmatic shift",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00",
+      "options": [
+        "Principle of minimal distance",
+        "Syntagmatic-paradigmatic shift",
+        "Horizontal expansion",
+        "Decontextualization"
+      ]
+    },
+    {
+      "id": "ch11-q004",
+      "type": "mc",
+      "text": "Which is the correct developmental order for defining words?",
+      "answer": "Operational → descriptive → categorical → dictionary",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00",
+      "options": [
+        "Dictionary → categorical → descriptive → operational",
+        "Operational → descriptive → categorical → dictionary",
+        "Descriptive → operational → dictionary → categorical",
+        "Categorical → operational → descriptive → dictionary"
+      ]
+    },
+    {
+      "id": "ch11-q005",
+      "type": "mc",
+      "text": "Saying 'you look great' to someone with bedhead in pajamas is an:",
+      "answer": "Ironic criticism",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00",
+      "options": [
+        "Ironic compliment",
+        "Ironic criticism",
+        "Proverb",
+        "Idiom"
+      ]
+    },
+    {
+      "id": "ch11-q006",
+      "type": "mc",
+      "text": "In a passive sentence, which comes first?",
+      "answer": "The object (acted upon)",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00",
+      "options": [
+        "The agent (doer)",
+        "The object (acted upon)",
+        "The verb",
+        "The adverb"
+      ]
+    },
+    {
+      "id": "ch11-q007",
+      "type": "mc",
+      "text": "Which verbs are noted as exceptions to the principle of minimal distance?",
+      "answer": "ask, tell, promise",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00",
+      "options": [
+        "run, jump, play",
+        "is, are, was",
+        "ask, tell, promise",
+        "go, come, see"
+      ]
+    },
+    {
+      "id": "ch11-q008",
+      "type": "mc",
+      "text": "A noun formed by adding -ing to a verb (e.g., 'swimming') is a:",
+      "answer": "Gerund",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00",
+      "options": [
+        "Adverb",
+        "Gerund",
+        "Proverb",
+        "Participle"
+      ]
+    },
+    {
+      "id": "ch11-q009",
+      "type": "mc",
+      "text": "Adding -ly to an adjective (slow → slowly) creates a(n):",
+      "answer": "Adverb",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00",
+      "options": [
+        "Gerund",
+        "Adjective",
+        "Adverb",
+        "Noun"
+      ]
+    },
+    {
+      "id": "ch11-q010",
+      "type": "mc",
+      "text": "Idioms are described as being stored as:",
+      "answer": "Single lexical units",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00",
+      "options": [
+        "Separate words",
+        "Single lexical units",
+        "Context clues",
+        "Gerunds"
+      ]
+    },
+    {
+      "id": "ch11-q011",
+      "type": "tf",
+      "text": "An adjective describes a verb and an adverb describes a noun.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
+      "id": "ch11-q012",
+      "type": "tf",
+      "text": "In horizontal expansion, children learn deeper meanings of a word.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
+      "id": "ch11-q013",
+      "type": "tf",
+      "text": "'Because' can confuse children because the effect is often stated before the cause.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
+      "id": "ch11-q014",
+      "type": "tf",
+      "text": "Idioms are interpreted word-by-word rather than as whole units.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
+      "id": "ch11-q015",
+      "type": "tf",
+      "text": "Young children typically conjoin sentences with 'and' before using because/when/if.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
+      "id": "ch11-q016",
+      "type": "fitb",
+      "text": "Adding -ly to an adjective produces an ______.",
+      "answer": "adverb",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
+      "id": "ch11-q017",
+      "type": "fitb",
+      "text": "A noun made by adding -ing to a verb is a ______.",
+      "answer": "gerund",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
+      "id": "ch11-q018",
+      "type": "fitb",
+      "text": "Grouping words into categories by semantic relationship is called ______.",
+      "answer": "chunking",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
+      "id": "ch11-q019",
+      "type": "fitb",
+      "text": "Defining a word with no supporting context is called ______.",
+      "answer": "decontextualized",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
+      "id": "ch11-q020",
+      "type": "match",
+      "text": "Match each word-learning influence to its description.",
+      "answer": null,
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00",
+      "pairs": [
+        {
+          "left": "Adult models",
+          "right": "Direct teaching of a word's meaning"
+        },
+        {
+          "left": "Context clues",
+          "right": "Using environment/text to infer meaning"
+        },
+        {
+          "left": "Morphological knowledge",
+          "right": "Using prefixes/suffixes/roots"
+        }
+      ]
+    },
+    {
+      "id": "ch11-q021",
+      "type": "match",
+      "text": "Match each definition type to its description.",
+      "answer": null,
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00",
+      "pairs": [
+        {
+          "left": "Operational",
+          "right": "What an object does / its properties"
+        },
+        {
+          "left": "Descriptive",
+          "right": "Describing characteristics"
+        },
+        {
+          "left": "Categorical",
+          "right": "Stating the semantic category"
+        },
+        {
+          "left": "Dictionary",
+          "right": "Category plus characteristics"
+        }
+      ]
+    },
+    {
+      "id": "ch11-q022",
+      "type": "match",
+      "text": "Match each figurative form to its description.",
+      "answer": null,
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00",
+      "pairs": [
+        {
+          "left": "Idiom",
+          "right": "Stored as a single lexical unit"
+        },
+        {
+          "left": "Ironic criticism",
+          "right": "Positive words, negative meaning"
+        },
+        {
+          "left": "Ironic compliment",
+          "right": "Negative words, positive meaning"
+        },
+        {
+          "left": "Proverb",
+          "right": "Wise saying offering a lesson"
+        }
+      ]
+    },
+    {
+      "id": "ch9-q023",
+      "type": "mc",
+      "text": "In 'She is playing,' the word 'is' functions as a(n):",
+      "answer": "Auxiliary verb",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00",
+      "options": [
+        "Copula verb",
+        "Auxiliary verb",
+        "Modal verb",
+        "Tag question"
+      ]
+    },
+    {
+      "id": "ch9-q024",
+      "type": "mc",
+      "text": "In 'She is happy,' the word 'is' functions as a(n):",
+      "answer": "Copula verb",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00",
+      "options": [
+        "Copula verb",
+        "Auxiliary verb",
+        "Preposition",
+        "Article"
+      ]
+    },
+    {
+      "id": "ch9-q025",
+      "type": "mc",
+      "text": "Which pair of 'be' forms has NO contracted form?",
+      "answer": "was / were",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00",
+      "options": [
+        "am / is",
+        "are / is",
+        "was / were",
+        "is / am"
+      ]
+    },
+    {
+      "id": "ch9-q026",
+      "type": "mc",
+      "text": "'Who is teaching today?' — 'Dr. Reece is.' This shows the copula in its:",
+      "answer": "Uncontractible form",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00",
+      "options": [
+        "Contractible form",
+        "Uncontractible form",
+        "Past tense",
+        "Plural form"
+      ]
+    },
+    {
+      "id": "ch9-q027",
+      "type": "mc",
+      "text": "By late Stage 5 a child has mastered how many of Brown's 14 grammatical morphemes?",
+      "answer": "9",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00",
+      "options": [
+        "5",
+        "7",
+        "9",
+        "12"
+      ]
+    },
+    {
+      "id": "ch9-q028",
+      "type": "mc",
+      "text": "'Okay?' and 'Right?' added to the end of statements are primitive:",
+      "answer": "Tag questions",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00",
+      "options": [
+        "Prepositions",
+        "Tag questions",
+        "Reflexive pronouns",
+        "Articles"
+      ]
+    },
+    {
+      "id": "ch9-q029",
+      "type": "mc",
+      "text": "About how many words does a typical 42-month-old USE?",
+      "answer": "~1,200",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00",
+      "options": [
+        "~600",
+        "~1,200",
+        "~4,200",
+        "~900"
+      ]
+    },
+    {
+      "id": "ch9-q030",
+      "type": "mc",
+      "text": "In the MLU example 'Mommy sing/ing song/s,' how many morphemes is that utterance?",
+      "answer": "4",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    {
+      "id": "ch9-q031",
+      "type": "tf",
+      "text": "Only the auxiliary 'be' (not 'have' or 'do') is counted among Brown's 14 grammatical morphemes.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00"
+    },
+    {
+      "id": "ch9-q032",
+      "type": "tf",
+      "text": "'Contractible' means the verb must be produced in contracted form.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00"
+    },
+    {
+      "id": "ch9-q033",
+      "type": "tf",
+      "text": "A Stage 5 child typically still has difficulty with subject-verb agreement.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00"
+    },
+    {
+      "id": "ch9-q034",
+      "type": "tf",
+      "text": "Children understand passive sentences before active sentences.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00"
+    },
+    {
+      "id": "ch9-q035",
+      "type": "fitb",
+      "text": "Total morphemes divided by total utterances gives the ______ (abbreviation).",
+      "answer": "MLU",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00"
+    },
+    {
+      "id": "ch9-q036",
+      "type": "fitb",
+      "text": "'Was' and 'were' are ______ because they have no contracted form.",
+      "answer": "uncontractible",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00"
+    },
+    {
+      "id": "ch9-q037",
+      "type": "fitb",
+      "text": "Embedding more than one clause in a sentence (e.g., 'I think I want to eat all the cake') is called multiple ______.",
+      "answer": "embedding",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00"
+    },
+    {
+      "id": "ch9-q038",
+      "type": "match",
+      "text": "Match each 'be' use to its example.",
+      "answer": null,
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00",
+      "pairs": [
+        {
+          "left": "Contractible copula",
+          "right": "Daddy's big / Daddy is big"
+        },
+        {
+          "left": "Uncontractible copula",
+          "right": "Is it pink? Yes, it is."
+        },
+        {
+          "left": "Contractible auxiliary",
+          "right": "Daddy's eating"
+        },
+        {
+          "left": "Uncontractible auxiliary",
+          "right": "Ball was rolling"
+        }
+      ]
+    },
+    {
+      "id": "ch9-q039",
+      "type": "match",
+      "text": "Match each Stage 5 figurative form to its example.",
+      "answer": null,
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00",
+      "pairs": [
+        {
+          "left": "Idiom",
+          "right": "Give me a break"
+        },
+        {
+          "left": "Simile",
+          "right": "You are like a puppy"
+        },
+        {
+          "left": "Metaphor",
+          "right": "Daddy is Superman"
+        },
+        {
+          "left": "Irony",
+          "right": "Oh, that's just great!"
+        }
+      ]
     }
   ],
   "notes": [
@@ -11968,6 +13020,96 @@
       "chapter": "Lecture: Cognitive Development",
       "source": "COMM DIS 1B Lecture: Cognitive Development (Ch. 3, pp. 62-88)",
       "created": "2026-09-20T12:00:00-07:00"
+    },
+    {
+      "id": "ch11-note001",
+      "title": "School-Age Language: Home to School",
+      "body": "Starting school, children must quickly learn THREE types of language:\n1. Language of academic subjects/curriculum.\n2. Language of behavior management (including recognizing INDIRECT language).\n3. Language by which personal identity is expressed.\n\nChallenges: lack of home exposure to academics, impoverished conditions affecting daily readiness, and being English language learners (who must learn English WHILE learning curriculum content in English). Teachers are often underprepared for diverse backgrounds; educators should learn about, value, and celebrate all cultures so children don't feel shame assimilating. Children entering below age level — or with perceptual, intellectual, sensory, learning, or emotional challenges — can become frustrated and discouraged.\n\n★ KEY EXAM POINTS\n- Three school languages: academic/curriculum, behavior management (indirect language), personal identity.\n- English learners carry a double load: English + content in English.\n- School readiness gaps compound frustration.",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
+      "id": "ch11-note002",
+      "title": "Semantic Development: Acquiring & Expanding Vocabulary",
+      "body": "School-age children move toward ABSTRACT thinking (boosting figurative-language understanding) and gain vocabulary especially through READING, which exposes them to words beyond their natural environment.\n\nTHREE influences on word acquisition:\n1. Adult models — direct teaching: present a word, describe meaning, demonstrate use.\n2. Context clues — using environment/text to infer an unknown word's meaning.\n3. Morphological knowledge — using word parts (prefixes, suffixes, roots) to build meaning.\n\nEXPANSION:\n- Horizontal expansion: learning more features/meanings of a KNOWN word ('mouse' animal → computer mouse → 'mousing around').\n- Vertical expansion: learning DEEPER meanings.\n\nSTORING/ORGANIZING/RETRIEVING:\n- Chunking: grouping words into semantic categories; also organizing by function.\n- Syntagmatic-paradigmatic shift: from responding by function/association to responding by semantic FEATURES/category ('cow' → animal, farm, milk).\n- Three retrieval strategies: (1) semantic categorical information, (2) externally provided auditory/phonological cues, (3) visual cues (pictures). ('Tip of the tongue' = a retrieval difficulty.)\n\n★ KEY EXAM POINTS\n- Word-learning influences: adult models, context clues, morphological knowledge.\n- Horizontal = more meanings of a known word; vertical = deeper meaning.\n- Syntagmatic→paradigmatic = association → semantic features.",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
+      "id": "ch11-note003",
+      "title": "Defining Words & Figurative Language",
+      "body": "DEFINING WORDS is decontextualized (no situation supports the meaning). Developmental progression:\n- Operational/functional: what an object does or its properties.\n- Descriptive: describing characteristics.\n- Categorical: stating the semantic category (toward a dictionary definition).\n- Dictionary: category + characteristics.\n\nFIGURATIVE LANGUAGE (understood better as abstract cognition grows):\n- Idioms: the most common classroom form; learned/stored as SINGLE LEXICAL UNITS (meaning memorized as a whole, not from the individual words).\n- Irony (sarcasm): recognized via facial expression and prosody/tone.\n  • Ironic criticism: positive statement, negative interpretation ('you look great' to bedhead/pajamas).\n  • Ironic compliment: negative statement, positive interpretation ('what a terrible life' before a Hawaii trip).\n- Proverbs: commonplace/wise sayings or precise statements of truth that offer advice or a lesson.\n\n★ KEY EXAM POINTS\n- Defining order: operational → descriptive → categorical → dictionary.\n- Idioms = single lexical units; irony relies on tone/facial cues.\n- Ironic criticism (positive→negative) vs. ironic compliment (negative→positive).",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
+      "id": "ch11-note004",
+      "title": "Syntax & Morphology in School Age",
+      "body": "PASSIVE SENTENCES: agent/object order reverses — the OBJECT acted upon comes first, the AGENT after ('the baby was bathed by the mom': baby = object, mom = agent).\n\nPRINCIPLE OF MINIMAL DISTANCE: children expect the SUBJECT to immediately precede the VERB ('mom goes to the store'). Verbs ask, tell, and promise are exceptions that can cause confusion.\n\nCONJOINING & EMBEDDING: 'and' first; later elementary adds because, when, if, in order. 'Because' is tricky because it's cause/effect and the effect is often stated before the cause.\n\nNOUN & VERB PHRASES: expanded by adding prepositional phrases, subordinate clauses, adjectives, and adverbs — combining and embedding syntactic structures to lengthen and complicate sentences.\n\nMORPHOLOGICAL MODIFICATIONS: 'morphing' root words with prefixes/suffixes to shape meaning.\n- Gerund: a noun made by adding -ing to a verb ('swimming is fun').\n- Adverb forms: add -ly to an adjective (slow → slowly). An adjective describes a NOUN; an adverb describes a VERB.\n\n★ KEY EXAM POINTS\n- Passive = object first, agent after; principle of minimal distance (subject before verb; ask/tell/promise exceptions).\n- Conjunctions: 'and' → because/when/if/in order; 'because' confuses (effect before cause).\n- Gerund = verb+-ing used as a noun; adverb = adjective+-ly (describes a verb).",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
+      "id": "ch9-note007",
+      "title": "Copula vs. Auxiliary 'To Be' (Handout)",
+      "body": "From the Copula vs. Auxiliary handout (adapted from Nippold, Univ. of Oregon; Rutherford 1993). In Brown's stages, only the \"to be\" verb matters for these morphemes.\n\nCOPULA = the MAIN (linking) verb; relates the subject to a complement (She IS happy. He WAS hungry).\nAUXILIARY = a helping verb with no independent role except to support the main verb (He IS going home); adds mood, aspect, or voice. When auxiliary \"is\" (or a form of it) is used, the main verb ends in -ING. Only the auxiliary BE is counted among Brown's 14 morphemes (not have/do/shall/will for this purpose).\n\nCONTRACTIBLE = it COULD be produced contracted or uncontracted in that context (optional): \"I'm the leader\" / \"I am the leader\"; \"He's baking\" / \"He is baking.\"\nUNCONTRACTIBLE = the context REQUIRES the uncontracted form (not optional): \"Who is teaching? Dr. Reece is.\" / \"Jane was in the library.\"\nAlso: am/is/are have contracted forms ('m/'re/'s), but WAS and WERE do not. (\"Contractible\" = could be contracted, like \"inflatable\" = could be inflated.)\n\n★ KEY EXAM POINTS\n- Copula = main linking verb; auxiliary = helper + main verb takes -ing.\n- Only auxiliary BE counts among the 14 morphemes.\n- Contractible = optional; uncontractible = context forces full form; was/were never contract.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00"
+    },
+    {
+      "id": "ch9-note008",
+      "title": "Brown's 14 Morphemes — Examples & Acquisition Ages",
+      "body": "The 14 grammatical morphemes with examples (and approximate mastery age range in months):\n1. Present progressive -ing — Mommy driving (19-28)\n2. \"in\" — ball in cup (27-30)\n3. \"on\" — doggy on sofa (27-33)\n4. Regular plural -s — kitties (27-33)\n5. Irregular past — came, fell, broke, sat, went (25-46)\n6. Possessive 's — Mommy's balloon (26-40)\n7. Uncontractible copula — \"He is.\" (28-46)\n8. Articles a/an/the — I see a kitty (28-46)\n9. Regular past -ed — Mommy pulled the wagon (26-48)\n10. Regular 3rd person -s — Kathy hits (28-50)\n11. Irregular 3rd person — has, does (28-50)\n12. Uncontractible auxiliary — I was going (29-48)\n13. Contractible copula — Daddy's big (29-49)\n14. Contractible auxiliary — Daddy's eating (30-50)\n\nOrder runs roughly from present progressive (earliest) to the contractible copula/auxiliary (latest). By late Stage 5, 9 of 14 are mastered; the rest follow over ~4 more months.\n\n★ KEY EXAM POINTS\n- -ing is first; contractible copula/auxiliary are last.\n- Uncontractible forms (#7, #12) are mastered before contractible (#13, #14).\n- 9 of 14 mastered by late Stage 5.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00"
+    },
+    {
+      "id": "ch9-note009",
+      "title": "Stage 4 Detail (Audio Lecture)",
+      "body": "Brown Stage 4 (35-40 months, MLU 3.0-3.75) — complex sentences are emerging.\n- Complex sentences: prepositional phrases at the end of an utterance (\"Baby's on the bed\"); later Stage 4 embeds clauses (\"I know what I want\").\n- Noun phrase: usually 1-2 modifiers (\"That doggie got my cookie\"); more than one modifier is confusing (\"those bad, black, two cats\").\n- Morphology: consistent pronouns (they, he, she, us, her, hers, his, them); more modifiers (some, other, another, more, one, two); past-tense modals emerge (could, should, would); continues to overgeneralize past-tense -ed.\n- Verb phrase: auxiliary \"do\" (\"Do you want it?\"), auxiliary be + -ing (\"She is playing\"); irregular verb types (word change, phoneme change, no change).\n- Negation: auxiliary negatives (\"Daddy is not playing\"); true contractions can't/won't (2 morphemes); adds didn't, doesn't, isn't, aren't.\n- Interrogatives: adds \"when\" to WH-questions; uses auxiliary inversion (\"Is he coming over?\").\n- Pragmatics: learns culturally appropriate pause time (short pause = continue; long = no response coming); more turn-taking and topic maintenance; beginning indirect requests.\n\n★ KEY EXAM POINTS\n- Stage 4 = emerging complex sentences; NP uses 1-2 modifiers.\n- Negation via auxiliaries + can't/won't; WH adds \"when\" + auxiliary inversion.\n- Pause-time reading and indirect requests begin.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00"
+    },
+    {
+      "id": "ch9-note010",
+      "title": "Stage 5 Detail (Audio Lecture)",
+      "body": "Brown Stage 5 (MLU 3.75-4.5, ~41-46 months). By late Stage 5, 9 of 14 morphemes mastered.\n- Morphology: masters uncontractible copula/auxiliary first, contractible a little later; masters common irregular past (ate, ran, fell, broke, sat, went); still struggles with subject-verb agreement; adds comparatives/superlatives; consistent pronouns (its, our, ours, him, their, theirs) and reflexives (myself, yourself); consistent 3rd-person -s (ball rolls); later masters irregular 3rd person (he does, she has).\n- Syntax: negative past of \"be\" (wasn't, isn't); more consistent question word order (\"Is he playing ball?\"); primitive tag questions (\"Okay?\", \"Right?\"); proficient compound sentences with \"and\" plus or/but/then/when/because; embeds relative clauses (\"that's the thing that I broke\"); multiple embeddings (\"I think I want to eat all the cake\").\n- Pragmatics: interprets pause time for turn-taking, anticipates next turn, may help partner finish, ceases simultaneous talking (but not yet appropriate interruptions); indirect requests more frequent.\n- Semantics (by 42 months): uses ~1,200 words in mostly complete 4-5 word sentences; comprehends ~4,200 words.\n- Active/passive: understands ACTIVE before PASSIVE (\"The dog chased the goat\" before \"The dog was chased by the goat\").\n- Figurative language (adult input): idioms (\"give me a break\"), similes (\"you are like a puppy\"), metaphors (\"Daddy is Superman\"), irony (\"Oh, that's just great!\").\n\n★ KEY EXAM POINTS\n- Masters uncontractible before contractible copula/auxiliary; still shaky on subject-verb agreement.\n- Tag questions, relative-clause and multiple embedding, compound sentences (and/or/but/because).\n- ~1,200 words used / ~4,200 comprehended by 42 mo; active understood before passive.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00"
+    },
+    {
+      "id": "ch9-note011",
+      "title": "Worked Language Sample — Determining MLU & Stage",
+      "body": "A language-sample exercise (Willie, 45 months, describing an Avengers book) models the analysis workflow:\n1. Break each utterance into morphemes with slashes (cats = cat/s); refer to the Rules for Counting Morphemes.\n2. Total the morphemes and divide by the number of utterances to get MLU.\n3. Do NOT count an unintelligible word (marked X).\n4. Use the MLU and Brown's chart (text p.166) to determine the child's Stage.\n5. Note language features characteristic of that stage.\n\nObserved features in Willie's sample point to the later preschool stages: emerging complex sentences (\"Why do Captain America has a shield\"), auxiliary/catenative use (\"he gonna be big,\" \"Hes gonna say attack\"), overgeneralization and agreement errors (\"he throwed it,\" \"has a shield,\" \"Hers a bee\"), and pronoun errors (\"Him Ant Man\"). These are exactly the Stage 4-5 markers from the lectures.\n\n★ KEY EXAM POINTS\n- MLU = total morphemes ÷ total utterances; mark morpheme boundaries with \"/\".\n- Don't count unintelligible (X) words.\n- Overgeneralization (\"throwed\"), agreement errors (\"has\"), and pronoun errors (\"Him Ant Man\") are expected Stage 4-5 features.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00"
     }
   ],
   "questionStats": {}
