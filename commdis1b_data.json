@@ -112,6 +112,15 @@
       ],
       "created": "2026-11-02T10:30:00-08:00",
       "desc": "School-age conversation and narratives (relevance, topic maintenance, indirect requests, gender-difference generalizations, story grammar, true narratives, cultural narrative styles); metalinguistic awareness across speech sounds (phonological-awareness progression), semantics, morphology/syntax, and pragmatics; reading and reading instruction (phonics, fluency, vocabulary instruction, text comprehension, the emergent/developing/independent reader categories, reading levels); and writing development (self-regulated writing, graphophonemic awareness, spelling stages, and the preparation/consolidation/differentiation/integration writing stages)."
+    },
+    {
+      "id": "mod-13",
+      "name": "Module 13: Development of Speech Sounds",
+      "chapters": [
+        "Lecture 13: Development of Speech Sounds"
+      ],
+      "created": "2026-11-22T17:15:00-08:00",
+      "desc": "Phonological/speech-sound development: phonology, phonemes, distinctive features and the IPA (the 44 English phonemes); describing consonants by placement, manner, and voicing; prelinguistic vocal development through emergence and mastery (sound-acquisition timeline); consonant clusters, intelligibility, and coarticulation; and phonological processes (substitution, assimilation, syllable-structure, vowel) with examples and suppression ages."
     }
   ],
   "glossary": [
@@ -246,6 +255,16 @@
       "created": "2026-08-19T18:49:16-07:00"
     },
     {
+      "id": "ch11-g001",
+      "term": "Adult models (word learning)",
+      "def": "Direct teaching in which an adult presents a word, describes its meaning, and demonstrates how to apply it.",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
       "id": "tx-g009",
       "term": "Adverbial",
       "def": "Word that describes or changes the meaning of a verb or verb phrase, but it also qualifies adjectives, other adverbs, and clauses. Adverbs often end in -ly and answer wh-questions, such as how, when, where, and why.",
@@ -284,6 +303,26 @@
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "ch13-g007",
+      "term": "Affricate",
+      "def": "A manner of production combining stop and fricative qualities ('ch', 'dʒ' as in jam).",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-g020",
+      "term": "Affrication",
+      "def": "A substitution process: a nonaffricate is replaced with an affricate — 'joor' for 'door' (gone ~3 yr).",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "Phonological Processes Cheat Sheet (Little Bee Speech; Bleile 1995, Bowen 2011)",
+      "created": "2026-11-22T17:15:00-08:00"
     },
     {
       "id": "tx-g013",
@@ -546,6 +585,16 @@
       "created": "2026-08-19T18:49:16-07:00"
     },
     {
+      "id": "ch13-g015",
+      "term": "Backing",
+      "def": "A substitution process: alveolar sounds (/t, d/) are replaced with velar sounds (/k, g/) — 'gog' for 'dog.'",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "Phonological Processes Cheat Sheet (Little Bee Speech; Bleile 1995, Bowen 2011)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
       "id": "ch2-ppt-g004",
       "term": "Behaviorism",
       "def": "The theory that language is a learned behavior shaped mainly by the environment (an argument for NURTURE).",
@@ -666,6 +715,16 @@
       "created": "2026-08-19T18:49:16-07:00"
     },
     {
+      "id": "ch11-g005",
+      "term": "Categorical definition",
+      "def": "A definition that states the word's semantic category — a step toward a dictionary definition.",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
       "id": "tx-g037",
       "term": "Causal conjunctive relation",
       "def": "One clause expresses an action or state of being, and the other clause provides a reason or describes the effect.",
@@ -766,6 +825,16 @@
       "created": "2026-10-19T10:30:00-07:00"
     },
     {
+      "id": "ch13-g028",
+      "term": "Cluster reduction",
+      "def": "A syllable-structure process: a consonant cluster is reduced to a single consonant — 'pane' for 'plane' (gone ~4 yr, or ~5 with /s/).",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "Phonological Processes Cheat Sheet (Little Bee Speech; Bleile 1995, Bowen 2011)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
       "id": "tx-g044",
       "term": "Cluttering",
       "def": "A disorder that involves both speech and language errors including sound omissions and distortions, irregular rate and lack of pausing, poor awareness and self-monitoring, incomplete phrases, and disorganization in the construction and execution of verbal information.",
@@ -774,6 +843,16 @@
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "ch13-g026",
+      "term": "Coalescence",
+      "def": "An assimilation process: two phonemes are replaced by a different phoneme sharing similar features — 'foon' for 'spoon.'",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "Phonological Processes Cheat Sheet (Little Bee Speech; Bleile 1995, Bowen 2011)",
+      "created": "2026-11-22T17:15:00-08:00"
     },
     {
       "id": "tx-g045",
@@ -996,6 +1075,16 @@
       "created": "2026-08-19T18:49:16-07:00"
     },
     {
+      "id": "ch11-g002",
+      "term": "Context clues",
+      "def": "Using information in the environment or text to determine the meaning of an unknown word.",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
       "id": "tx-g055",
       "term": "Contingent responding",
       "def": "Parent's prompt response to a child's behavior or verbalization.",
@@ -1176,6 +1265,16 @@
       "created": "2026-09-09T15:05:00-07:00"
     },
     {
+      "id": "ch13-g021",
+      "term": "Deaffrication",
+      "def": "A substitution process: an affricate is replaced with a fricative or stop — 'ships' for 'chips' (gone ~4 yr).",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "Phonological Processes Cheat Sheet (Little Bee Speech; Bleile 1995, Bowen 2011)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
       "id": "tx-g069",
       "term": "Decontextualized",
       "def": "Devoid of situation or context.",
@@ -1276,6 +1375,26 @@
       "created": "2026-08-19T18:49:16-07:00"
     },
     {
+      "id": "ch13-g023",
+      "term": "Denasalization",
+      "def": "An assimilation process: a nasal consonant (/m, n/) becomes a non-nasal (/b, d/) — 'doze' for 'nose' (gone ~2.5 yr).",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "Phonological Processes Cheat Sheet (Little Bee Speech; Bleile 1995, Bowen 2011)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-g022",
+      "term": "Depalatalization",
+      "def": "A substitution process: a palatal sound is replaced with a nonpalatal sound — 'fit' for 'fish' (gone ~5 yr).",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "Phonological Processes Cheat Sheet (Little Bee Speech; Bleile 1995, Bowen 2011)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
       "id": "tx-g077",
       "term": "Derivational morpheme",
       "def": "Morphemes added to the beginning (e.g., re-, un-) and end (e.g., -ly, -un) of words; prefixes and suffixes.",
@@ -1344,6 +1463,16 @@
       "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
       "created": "2026-08-19T17:17:56-07:00",
       "def": "The primary muscle of inhalation, a dome-shaped muscle sitting just below the lungs. When it contracts it flattens, enlarging the thorax; at rest it returns to its dome shape, driving exhalation."
+    },
+    {
+      "id": "ch11-g006",
+      "term": "Dictionary definition",
+      "def": "A mature definition that states both the semantic category and the characteristics.",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
     },
     {
       "id": "tx-g082",
@@ -1436,6 +1565,16 @@
       "created": "2026-08-19T18:49:16-07:00"
     },
     {
+      "id": "ch13-g001",
+      "term": "Distinctive features",
+      "def": "The characteristics used to describe and categorize phonemes (e.g., placement, manner, voicing).",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
       "id": "tx-g090",
       "term": "Dual language system hypothesis",
       "def": "Concept that a child who is exposed to two languages from birth uses two separate language systems from the very beginning and does not go through stages in which a conjoined language system is gradually differentiated into two language systems.",
@@ -1506,6 +1645,16 @@
       "created": "2026-08-19T18:49:16-07:00"
     },
     {
+      "id": "ch13-g011",
+      "term": "Emergence (sounds)",
+      "def": "The beginning use of a sound — used sometimes but not always ('emerging').",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
       "id": "ch12-g005",
       "term": "Emergent reader",
       "def": "A reader just beginning to understand the concept of reading; may 'pretend to read,' point to words as an adult reads, recognize some letters, and rely on pictures to comprehend and predict.",
@@ -1534,6 +1683,16 @@
       "chapter": "Theories of Acquisition",
       "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
       "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch13-g031",
+      "term": "Epenthesis",
+      "def": "A syllable-structure process: a sound (usually 'uh') is added between two consonants — 'bu-lue' for 'blue' (gone ~8 yr).",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "Phonological Processes Cheat Sheet (Little Bee Speech; Bleile 1995, Bowen 2011)",
+      "created": "2026-11-22T17:15:00-08:00"
     },
     {
       "id": "ch1-g015",
@@ -1686,6 +1845,26 @@
       "created": "2026-08-19T18:49:16-07:00"
     },
     {
+      "id": "ch13-g029",
+      "term": "Final consonant deletion",
+      "def": "A syllable-structure process: the final consonant is left off — 'toe' for 'toad' (gone ~3 yr).",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "Phonological Processes Cheat Sheet (Little Bee Speech; Bleile 1995, Bowen 2011)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-g024",
+      "term": "Final consonant devoicing",
+      "def": "An assimilation process: a voiced final consonant becomes voiceless — 'pick' for 'pig' (gone ~3 yr).",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "Phonological Processes Cheat Sheet (Little Bee Speech; Bleile 1995, Bowen 2011)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
       "id": "tx-g105",
       "term": "Financial/material capital",
       "def": "Objects that have value, but do not do anything (e.g., money); wealth of the individual within a society.",
@@ -1756,6 +1935,36 @@
       "created": "2026-10-07T12:00:00-07:00"
     },
     {
+      "id": "ch13-g006",
+      "term": "Fricative",
+      "def": "A manner of production: air is forced through a narrow constriction, producing a friction-like sound (/f, v, s, z/, 'th', 'sh', 'zh').",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-g016",
+      "term": "Fronting",
+      "def": "A substitution process: velar/palatal sounds (/k, g/, 'sh') are replaced with alveolar sounds (/t, d, s/) — 'tootie' for 'cookie' (gone ~3.5 yr).",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "Phonological Processes Cheat Sheet (Little Bee Speech; Bleile 1995, Bowen 2011)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-g014",
+      "term": "Frozen forms",
+      "def": "Particular sound combinations a child uses to represent a variety of things.",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
       "id": "tx-g109",
       "term": "Fully resonant nuclei",
       "def": "Vowel and consonant sounds with a full range of frequencies and resonant characteristics.",
@@ -1814,6 +2023,26 @@
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "ch13-g010",
+      "term": "Glide",
+      "def": "A manner of production: semivowels made with movement and continuous airflow (/w/, 'y' /j/).",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-g017",
+      "term": "Gliding",
+      "def": "A substitution process: /r/ becomes /w/ and /l/ becomes /w/ or 'y' — 'wabbit' for 'rabbit' (gone ~6 yr).",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "Phonological Processes Cheat Sheet (Little Bee Speech; Bleile 1995, Bowen 2011)",
+      "created": "2026-11-22T17:15:00-08:00"
     },
     {
       "id": "ch7-g015",
@@ -2226,6 +2455,16 @@
       "created": "2026-08-19T18:49:16-07:00"
     },
     {
+      "id": "ch13-g002",
+      "term": "International Phonetic Alphabet (IPA)",
+      "def": "A system of symbols that represents speech sounds — some like the alphabet, others unique — so that each sound has one symbol (e.g., 'sh' = one sound = ʃ).",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
       "id": "tx-g138",
       "term": "Intersubjectivity",
       "def": "Term to conceptualize the psychological relationship between individuals.",
@@ -2506,6 +2745,16 @@
       "created": "2026-09-21T12:30:00-07:00"
     },
     {
+      "id": "ch13-g009",
+      "term": "Lateral",
+      "def": "A manner of production: the tongue tip goes up near the point of contact and air flows around the sides (/l/).",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
       "id": "tx-g152",
       "term": "Learnability",
       "def": "Idea that learning occurs when people's innate capacity for learning, a learning environment, and some stimulus for learning that comes from learners themselves are combined, suggesting that cognitive structures interact with experience to produce learning.",
@@ -2676,6 +2925,16 @@
       "created": "2026-09-09T15:05:00-07:00"
     },
     {
+      "id": "ch13-g004",
+      "term": "Manner (articulation)",
+      "def": "How a sound is produced: stop, fricative, affricate, nasal, lateral, or glide.",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
       "id": "tx-g162",
       "term": "Manner of articulation",
       "def": "Description of how a consonant sound is produced, such as a stop, fricative, or nasal.",
@@ -2714,6 +2973,16 @@
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "ch13-g012",
+      "term": "Mastery (sounds)",
+      "def": "Consistent production of a sound; overall mastery = about 90% of children produce the sound by a particular age.",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
     },
     {
       "id": "tx-g166",
@@ -2876,6 +3145,26 @@
       "created": "2026-08-19T18:49:16-07:00"
     },
     {
+      "id": "ch11-g003",
+      "term": "Morphological knowledge",
+      "def": "Using knowledge of word parts (prefixes, suffixes, root words) to figure out the meaning of an unfamiliar word.",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
+      "id": "ch11-g007",
+      "term": "Morphological modification",
+      "def": "Expanding or changing a word's meaning by adding prefixes/suffixes to a root word ('morphing' the root).",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
+    },
+    {
       "id": "ch2-cob-g001",
       "term": "Morphology",
       "def": "The study of morphemes: how word parts combine to build words and convey grammatical meaning.",
@@ -2926,6 +3215,16 @@
       "created": "2026-08-19T18:49:16-07:00"
     },
     {
+      "id": "ch9-g015",
+      "term": "Multiple embedding",
+      "def": "Embedding more than one clause within a sentence, emerging in Stage 5 ('I think I want to eat all the cake').",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00"
+    },
+    {
       "id": "tx-g179",
       "term": "Muscle tension dysphonia",
       "def": "Voice disorder in which the larynx is strained due to inappropriate or excessive use of the muscles above and around the vocal folds.",
@@ -2964,6 +3263,16 @@
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "ch13-g008",
+      "term": "Nasal",
+      "def": "A manner of production: sound produced through the nasal cavity with the oral cavity closed off (/m, n, ŋ/).",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
     },
     {
       "id": "ch1-g025",
@@ -3174,6 +3483,16 @@
       "chapter": "Theories of Acquisition",
       "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
       "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch11-g004",
+      "term": "Operational definition",
+      "def": "An early definition type that refers to what an object does or its properties.",
+      "image": null,
+      "module": "mod-11",
+      "chapter": "Lecture 11: School Age Language",
+      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
+      "created": "2026-10-28T07:00:00-07:00"
     },
     {
       "id": "ch1-g024",
@@ -3406,6 +3725,16 @@
       "created": "2026-09-28T12:00:00-07:00"
     },
     {
+      "id": "ch13-g013",
+      "term": "Phonological process",
+      "def": "An innate simplification strategy that lets a child produce not-yet-mastered sounds within words; should be suppressed by a typical age.",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
       "id": "ch6-g005",
       "term": "Phonological representation",
       "def": "The stored sound pattern that represents a word; hearing the word later lets us retrieve the thing or concept associated with it.",
@@ -3514,6 +3843,16 @@
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "ch13-g003",
+      "term": "Placement (articulation)",
+      "def": "Where a sound is made — front, middle, or back of the oral cavity (high/mid/low) or the nasal cavity.",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
     },
     {
       "id": "tx-g213",
@@ -3676,6 +4015,16 @@
       "created": "2026-08-19T18:49:16-07:00"
     },
     {
+      "id": "ch9-g014",
+      "term": "Prepositional phrase",
+      "def": "A phrase beginning with a preposition that gives information such as location; in Stage 4 it often appears at the end of an utterance ('Baby's on the bed').",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00"
+    },
+    {
       "id": "tx-g222",
       "term": "Present progressive",
       "def": "Verb form that indicates an action is taking place right now.",
@@ -3724,6 +4073,16 @@
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "ch13-g025",
+      "term": "Prevocalic voicing",
+      "def": "An assimilation process: a voiceless initial consonant becomes voiced — 'gomb' for 'comb' (gone ~6 yr).",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "Phonological Processes Cheat Sheet (Little Bee Speech; Bleile 1995, Bowen 2011)",
+      "created": "2026-11-22T17:15:00-08:00"
     },
     {
       "id": "tx-g226",
@@ -4054,6 +4413,26 @@
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "ch13-g027",
+      "term": "Reduplication",
+      "def": "An assimilation/syllable process: a complete or incomplete syllable is repeated — 'baba' for 'bottle' (gone ~3 yr).",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "Phonological Processes Cheat Sheet (Little Bee Speech; Bleile 1995, Bowen 2011)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch9-g016",
+      "term": "Reflexive pronoun",
+      "def": "A pronoun ending in -self/-selves (myself, yourself) referring back to the subject; used more consistently in Stage 5.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00"
     },
     {
       "id": "tx-g251",
@@ -4636,6 +5015,26 @@
       "def": "The third ossicle; its footplate fits into the oval window, moving the fluids of the inner ear."
     },
     {
+      "id": "ch13-g005",
+      "term": "Stop",
+      "def": "A manner of production: airflow is stopped then suddenly released (/p, b, t, d, k, g/).",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-g018",
+      "term": "Stopping",
+      "def": "A substitution process: a fricative or affricate is replaced with a stop — 'pan' for 'fan,' 'dump' for 'jump.'",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "Phonological Processes Cheat Sheet (Little Bee Speech; Bleile 1995, Bowen 2011)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
       "id": "tx-g291",
       "term": "Story grammar",
       "def": "Knowledge about general structure of stories and how to ask oneself important questions while reading stories to facilitate comprehension.",
@@ -4654,6 +5053,16 @@
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "ch9-g013",
+      "term": "Subject-verb agreement",
+      "def": "Matching the verb form to the number of the subject (singular vs. plural); a Stage 5 child still has difficulty with this.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00"
     },
     {
       "id": "tx-g293",
@@ -4794,6 +5203,16 @@
       "chapter": "Lecture 3",
       "source": "COMM DIS 1B Lecture 3 (lecture notes)",
       "created": "2026-09-09T15:05:00-07:00"
+    },
+    {
+      "id": "ch9-g012",
+      "term": "Tag question",
+      "def": "A short question added to the end of a statement to invite confirmation; preschoolers first produce primitive tags like 'Okay?' or 'Right?' in Stage 5.",
+      "image": null,
+      "module": "mod-9",
+      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
+      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
+      "created": "2026-10-13T08:35:00-07:00"
     },
     {
       "id": "ch1-g052",
@@ -5266,6 +5685,16 @@
       "created": "2026-08-19T18:49:16-07:00"
     },
     {
+      "id": "ch13-g019",
+      "term": "Vowelization",
+      "def": "A substitution process: /l/ or 'er' sounds are replaced with a vowel — 'appo' for 'apple.'",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "Phonological Processes Cheat Sheet (Little Bee Speech; Bleile 1995, Bowen 2011)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
       "id": "ch2-g006",
       "term": "Washoe",
       "def": "A chimpanzee taught American Sign Language by the Gardners; learned 100+ signs and combined them, but showed no consistent grammatical rules.",
@@ -5274,6 +5703,16 @@
       "chapter": "Chapter 2",
       "source": "Born to Talk, Ch. 2: Language Acquisition — A Theoretical Journey",
       "created": "2026-08-19T18:05:00-07:00"
+    },
+    {
+      "id": "ch13-g030",
+      "term": "Weak syllable deletion",
+      "def": "A syllable-structure process: an unstressed syllable is deleted — 'nana' for 'banana' (gone ~4 yr).",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "Phonological Processes Cheat Sheet (Little Bee Speech; Bleile 1995, Bowen 2011)",
+      "created": "2026-11-22T17:15:00-08:00"
     },
     {
       "id": "ch1-g031",
@@ -5364,126 +5803,6 @@
       "chapter": "Theories of Acquisition",
       "source": "Theories of Acquisition (B. Reece) — Module 2 deck",
       "created": "2026-08-19T18:05:00-07:00"
-    },
-    {
-      "id": "ch11-g001",
-      "term": "Adult models (word learning)",
-      "def": "Direct teaching in which an adult presents a word, describes its meaning, and demonstrates how to apply it.",
-      "image": null,
-      "module": "mod-11",
-      "chapter": "Lecture 11: School Age Language",
-      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
-      "created": "2026-10-28T07:00:00-07:00"
-    },
-    {
-      "id": "ch11-g002",
-      "term": "Context clues",
-      "def": "Using information in the environment or text to determine the meaning of an unknown word.",
-      "image": null,
-      "module": "mod-11",
-      "chapter": "Lecture 11: School Age Language",
-      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
-      "created": "2026-10-28T07:00:00-07:00"
-    },
-    {
-      "id": "ch11-g003",
-      "term": "Morphological knowledge",
-      "def": "Using knowledge of word parts (prefixes, suffixes, root words) to figure out the meaning of an unfamiliar word.",
-      "image": null,
-      "module": "mod-11",
-      "chapter": "Lecture 11: School Age Language",
-      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
-      "created": "2026-10-28T07:00:00-07:00"
-    },
-    {
-      "id": "ch11-g004",
-      "term": "Operational definition",
-      "def": "An early definition type that refers to what an object does or its properties.",
-      "image": null,
-      "module": "mod-11",
-      "chapter": "Lecture 11: School Age Language",
-      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
-      "created": "2026-10-28T07:00:00-07:00"
-    },
-    {
-      "id": "ch11-g005",
-      "term": "Categorical definition",
-      "def": "A definition that states the word's semantic category — a step toward a dictionary definition.",
-      "image": null,
-      "module": "mod-11",
-      "chapter": "Lecture 11: School Age Language",
-      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
-      "created": "2026-10-28T07:00:00-07:00"
-    },
-    {
-      "id": "ch11-g006",
-      "term": "Dictionary definition",
-      "def": "A mature definition that states both the semantic category and the characteristics.",
-      "image": null,
-      "module": "mod-11",
-      "chapter": "Lecture 11: School Age Language",
-      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
-      "created": "2026-10-28T07:00:00-07:00"
-    },
-    {
-      "id": "ch11-g007",
-      "term": "Morphological modification",
-      "def": "Expanding or changing a word's meaning by adding prefixes/suffixes to a root word ('morphing' the root).",
-      "image": null,
-      "module": "mod-11",
-      "chapter": "Lecture 11: School Age Language",
-      "source": "COMM DIS 1B Lecture 11: School Age Language (Ch. 7, pp. 263-294)",
-      "created": "2026-10-28T07:00:00-07:00"
-    },
-    {
-      "id": "ch9-g012",
-      "term": "Tag question",
-      "def": "A short question added to the end of a statement to invite confirmation; preschoolers first produce primitive tags like 'Okay?' or 'Right?' in Stage 5.",
-      "image": null,
-      "module": "mod-9",
-      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
-      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
-      "created": "2026-10-13T08:35:00-07:00"
-    },
-    {
-      "id": "ch9-g013",
-      "term": "Subject-verb agreement",
-      "def": "Matching the verb form to the number of the subject (singular vs. plural); a Stage 5 child still has difficulty with this.",
-      "image": null,
-      "module": "mod-9",
-      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
-      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
-      "created": "2026-10-13T08:35:00-07:00"
-    },
-    {
-      "id": "ch9-g014",
-      "term": "Prepositional phrase",
-      "def": "A phrase beginning with a preposition that gives information such as location; in Stage 4 it often appears at the end of an utterance ('Baby's on the bed').",
-      "image": null,
-      "module": "mod-9",
-      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
-      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
-      "created": "2026-10-13T08:35:00-07:00"
-    },
-    {
-      "id": "ch9-g015",
-      "term": "Multiple embedding",
-      "def": "Embedding more than one clause within a sentence, emerging in Stage 5 ('I think I want to eat all the cake').",
-      "image": null,
-      "module": "mod-9",
-      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
-      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
-      "created": "2026-10-13T08:35:00-07:00"
-    },
-    {
-      "id": "ch9-g016",
-      "term": "Reflexive pronoun",
-      "def": "A pronoun ending in -self/-selves (myself, yourself) referring back to the subject; used more consistently in Stage 5.",
-      "image": null,
-      "module": "mod-9",
-      "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
-      "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
-      "created": "2026-10-13T08:35:00-07:00"
     }
   ],
   "flashcards": [
@@ -8056,6 +8375,256 @@
       "chapter": "Lecture 9: Preschool Language (Brown's Stages 4-5)",
       "source": "COMM DIS 1B Module 9 supplements: Copula/Aux handout, Brown's morphemes, Stage 4-5 decks, Language Sample",
       "created": "2026-10-13T08:35:00-07:00"
+    },
+    {
+      "id": "ch13-f001",
+      "front": "What is phonology?",
+      "back": "The study of speech sounds and the rules for how they combine into syllables and words.",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-f002",
+      "front": "What does /s/ (letter between slashes) represent?",
+      "back": "The SOUND, not the letter.",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-f003",
+      "front": "What are the three main ways phonemes are categorized?",
+      "back": "Placement (where), manner (how), and voicing (voiced or voiceless).",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-f004",
+      "front": "Name the six manners of production.",
+      "back": "Stop, fricative, affricate, nasal, lateral, and glide.",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-f005",
+      "front": "Stop vs. fricative?",
+      "back": "Stop = airflow is stopped then released (/p,b,t,d,k,g/). Fricative = air forced through a narrow constriction (/f,v,s,z/, th, sh).",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-f006",
+      "front": "What is an affricate, and give the two English affricates.",
+      "back": "A combination of stop + fricative: 'ch' (tʃ) and 'j' (dʒ).",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-f007",
+      "front": "Which sounds emerge BEFORE age two?",
+      "back": "/m/, /n/, /p/, /b/, /w/, and /h/ (mostly nasals and stops).",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-f008",
+      "front": "Which sounds emerge around/after age two?",
+      "back": "/ŋ/, /t/, /d/, /k/, /g/, and /f/.",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-f009",
+      "front": "When do /s/ and /z/ emerge vs. master?",
+      "back": "Emerge ~3 years; mastered later, around 6 years.",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-f010",
+      "front": "Which is the most difficult sound, and when is it mastered?",
+      "back": "/r/ — can take up to 8 years to master.",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-f011",
+      "front": "Customary production (emergence) vs. mastery?",
+      "back": "Emergence = ~half of children use it ≥50% in ≥2 positions (sometimes, not always). Mastery = ~90% of children produce it consistently by a given age.",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-f012",
+      "front": "What are the intelligibility milestones at 2, 3, and 4 years?",
+      "back": "~50% understood at 2, ~75% during the 3rd year, and fully intelligible by ~4.",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-f013",
+      "front": "How is intelligibility measured?",
+      "back": "Percent of consonants produced correctly, or percent of words intelligible in a spontaneous sample.",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-f014",
+      "front": "What is a phonological process?",
+      "back": "An innate simplification strategy that lets a child produce not-yet-mastered sounds; typical up to a certain age.",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-f015",
+      "front": "Name the four categories of phonological processes.",
+      "back": "Syllable structure, substitution, assimilation, and vowel processes.",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-f016",
+      "front": "Fronting vs. backing?",
+      "back": "Fronting = velars→alveolars ('tat' for 'cat'). Backing = alveolars→velars ('gog' for 'dog').",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-f017",
+      "front": "What is gliding? Give an example and elimination age.",
+      "back": "/r/→/w/ and /l/→/w/ or 'y' — 'wabbit' for 'rabbit'; gone ~6 years.",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-f018",
+      "front": "What is stopping?",
+      "back": "Replacing a fricative or affricate with a stop — 'pan' for 'fan,' 'dump' for 'jump.'",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-f019",
+      "front": "What is cluster reduction?",
+      "back": "Reducing a consonant cluster to a single consonant — 'pane' for 'plane.'",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-f020",
+      "front": "What is weak syllable deletion?",
+      "back": "Deleting an unstressed syllable — 'nana' for 'banana.'",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-f021",
+      "front": "What is coarticulation? Give the textbook example.",
+      "back": "Neighboring sounds shape one another; e.g., the /s/ in 'see' (lips smiling) vs. 'saw' (lips pucker).",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-f022",
+      "front": "Trace prelinguistic vocal development to first words.",
+      "back": "Vocal play (squeals/grunts/raspberries) → marginal babbling (CV sounds) → reduplicated babbling ('mamama') → variation + intonation → vocables → first words (~1 yr).",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-f023",
+      "front": "How are consonant clusters built in English?",
+      "back": "Add a consonant before /l,w,r/ ('blue,' 'freeze'); add /s/ before a consonant or at word ends ('spot,' 'fast,' 'pots'); 3-part clusters ('spring,' 'street').",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-f024",
+      "front": "Marked vs. natural (unmarked) sounds?",
+      "back": "Natural sounds are learned early and common across languages; marked sounds develop later, are language-specific, and are harder for slow developers.",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-f025",
+      "front": "What are the two English nasals besides /m/ and /n/... actually name all three nasals.",
+      "back": "/m/, /n/, and /ŋ/ (ng).",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
     }
   ],
   "questions": [
@@ -12418,9 +12987,482 @@
           "right": "Oh, that's just great!"
         }
       ]
+    },
+    {
+      "id": "ch13-q001",
+      "type": "mc",
+      "text": "The study of speech sounds and the rules for combining them is:",
+      "answer": "Phonology",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00",
+      "options": [
+        "Morphology",
+        "Phonology",
+        "Semantics",
+        "Pragmatics"
+      ]
+    },
+    {
+      "id": "ch13-q002",
+      "type": "mc",
+      "text": "Writing /s/ between slashes indicates:",
+      "answer": "The sound, not the letter",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00",
+      "options": [
+        "The letter, not the sound",
+        "The sound, not the letter",
+        "A syllable",
+        "A morpheme"
+      ]
+    },
+    {
+      "id": "ch13-q003",
+      "type": "mc",
+      "text": "Which manner of production stops airflow and then releases it?",
+      "answer": "Stop",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00",
+      "options": [
+        "Fricative",
+        "Stop",
+        "Nasal",
+        "Glide"
+      ]
+    },
+    {
+      "id": "ch13-q004",
+      "type": "mc",
+      "text": "'ch' and 'j' (dʒ) are examples of which manner?",
+      "answer": "Affricate",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00",
+      "options": [
+        "Fricative",
+        "Stop",
+        "Affricate",
+        "Lateral"
+      ]
+    },
+    {
+      "id": "ch13-q005",
+      "type": "mc",
+      "text": "Which sound is typically the LAST/most difficult to master (up to age 8)?",
+      "answer": "/r/",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00",
+      "options": [
+        "/m/",
+        "/p/",
+        "/r/",
+        "/t/"
+      ]
+    },
+    {
+      "id": "ch13-q006",
+      "type": "mc",
+      "text": "Saying 'tat' for 'cat' (velar replaced by alveolar) is which process?",
+      "answer": "Fronting",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00",
+      "options": [
+        "Backing",
+        "Fronting",
+        "Gliding",
+        "Stopping"
+      ]
+    },
+    {
+      "id": "ch13-q007",
+      "type": "mc",
+      "text": "Saying 'wabbit' for 'rabbit' is an example of:",
+      "answer": "Gliding",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00",
+      "options": [
+        "Stopping",
+        "Gliding",
+        "Fronting",
+        "Cluster reduction"
+      ]
+    },
+    {
+      "id": "ch13-q008",
+      "type": "mc",
+      "text": "Reducing 'plane' to 'pane' is:",
+      "answer": "Cluster reduction",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00",
+      "options": [
+        "Weak syllable deletion",
+        "Final consonant deletion",
+        "Cluster reduction",
+        "Epenthesis"
+      ]
+    },
+    {
+      "id": "ch13-q009",
+      "type": "mc",
+      "text": "By about what age should a child be completely intelligible?",
+      "answer": "4 years",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00",
+      "options": [
+        "2 years",
+        "3 years",
+        "4 years",
+        "6 years"
+      ]
+    },
+    {
+      "id": "ch13-q010",
+      "type": "mc",
+      "text": "Which set of sounds typically emerges BEFORE age two?",
+      "answer": "/m, n, p, b, w, h/",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00",
+      "options": [
+        "/s, z, r, l/",
+        "/m, n, p, b, w, h/",
+        "/k, g, f, v/",
+        "/tʃ, dʒ, ʃ, θ/"
+      ]
+    },
+    {
+      "id": "ch13-q011",
+      "type": "mc",
+      "text": "The influence neighboring sounds have on each other is called:",
+      "answer": "Coarticulation",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00",
+      "options": [
+        "Assimilation process",
+        "Coarticulation",
+        "Reduplication",
+        "Voicing"
+      ]
+    },
+    {
+      "id": "ch13-q012",
+      "type": "mc",
+      "text": "'doze' for 'nose' (nasal becomes non-nasal) is which process?",
+      "answer": "Denasalization",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00",
+      "options": [
+        "Denasalization",
+        "Stopping",
+        "Backing",
+        "Gliding"
+      ]
+    },
+    {
+      "id": "ch13-q013",
+      "type": "tf",
+      "text": "In the IPA, one symbol represents one sound, so 'sh' is written as a single symbol (ʃ).",
+      "answer": "True",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-q014",
+      "type": "tf",
+      "text": "Mastery means about 50% of children can produce the sound.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-q015",
+      "type": "tf",
+      "text": "Children typically produce three-consonant clusters before two-consonant clusters.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-q016",
+      "type": "tf",
+      "text": "/s/ and /z/ emerge around age 3 but are not mastered until about age 6.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-q017",
+      "type": "tf",
+      "text": "Phonological processes are errors that no typically developing child uses.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-q018",
+      "type": "fitb",
+      "text": "The six manners of production are stop, fricative, affricate, nasal, lateral, and ______.",
+      "answer": "glide",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-q019",
+      "type": "fitb",
+      "text": "Replacing a fricative or affricate with a stop (e.g., 'pan' for 'fan') is called ______.",
+      "answer": "stopping",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-q020",
+      "type": "fitb",
+      "text": "Deleting an unstressed syllable ('nana' for 'banana') is weak syllable ______.",
+      "answer": "deletion",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-q021",
+      "type": "fitb",
+      "text": "How well a speaker can be understood is called ______.",
+      "answer": "intelligibility",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-q022",
+      "type": "match",
+      "text": "Match each manner of production to an example sound.",
+      "answer": null,
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00",
+      "pairs": [
+        {
+          "left": "Stop",
+          "right": "/p, b, t, d, k, g/"
+        },
+        {
+          "left": "Fricative",
+          "right": "/f, v, s, z/"
+        },
+        {
+          "left": "Nasal",
+          "right": "/m, n, ŋ/"
+        },
+        {
+          "left": "Lateral",
+          "right": "/l/"
+        },
+        {
+          "left": "Glide",
+          "right": "/w/, /j/"
+        }
+      ]
+    },
+    {
+      "id": "ch13-q023",
+      "type": "match",
+      "text": "Match each phonological process to its example.",
+      "answer": null,
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00",
+      "pairs": [
+        {
+          "left": "Fronting",
+          "right": "'tootie' for 'cookie'"
+        },
+        {
+          "left": "Backing",
+          "right": "'gog' for 'dog'"
+        },
+        {
+          "left": "Gliding",
+          "right": "'wabbit' for 'rabbit'"
+        },
+        {
+          "left": "Stopping",
+          "right": "'pan' for 'fan'"
+        },
+        {
+          "left": "Cluster reduction",
+          "right": "'pane' for 'plane'"
+        }
+      ]
+    },
+    {
+      "id": "ch13-q024",
+      "type": "match",
+      "text": "Match each process category to its description.",
+      "answer": null,
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00",
+      "pairs": [
+        {
+          "left": "Syllable structure",
+          "right": "Leaving out sounds or syllables"
+        },
+        {
+          "left": "Substitution",
+          "right": "Swapping in an easier sound"
+        },
+        {
+          "left": "Assimilation",
+          "right": "One sound takes on another's features"
+        },
+        {
+          "left": "Vowel processes",
+          "right": "Vowels moved to a neutral/central position"
+        }
+      ]
+    },
+    {
+      "id": "ch13-q025",
+      "type": "match",
+      "text": "Match each intelligibility milestone to its age.",
+      "answer": null,
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00",
+      "pairs": [
+        {
+          "left": "~50% understood",
+          "right": "2 years"
+        },
+        {
+          "left": "~75% understood",
+          "right": "3rd year"
+        },
+        {
+          "left": "Fully intelligible",
+          "right": "~4 years"
+        }
+      ]
     }
   ],
   "notes": [
+    {
+      "id": "ch13-note005",
+      "title": "Phonological Processes (Simplification Patterns)",
+      "body": "Phonological processes are innate simplification strategies children use to produce not-yet-mastered sounds. Research gives approximate ages by which each should be SUPPRESSED; persisting past that age can make a child hard to understand (a phonological disorder = processes that persist too long or are atypical). Four categories:\n1. SYLLABLE STRUCTURE — leaving out sounds/syllables.\n2. SUBSTITUTION — using an easier, developmentally appropriate sound.\n3. ASSIMILATION — one sound takes on another's features/identity.\n4. VOWEL PROCESSES — vowels produced in a neutral/central position.\n\nCOMMON PROCESSES (definition · example · approx. gone by):\nSubstitution:\n- Fronting: velar/palatal → alveolar · 'tootie' for 'cookie' · 3.5 yr\n- Backing: alveolar → velar · 'gog' for 'dog' · (severe delays)\n- Gliding: /r/→/w/, /l/→/w/ or 'y' · 'wabbit' for 'rabbit' · 6 yr\n- Stopping: fricative/affricate → stop · 'pan' for 'fan' · /f,s/ by 3; sh,ch,j by 4.5; th by 5\n- Vowelization: /l/ or 'er' → vowel · 'appo' for 'apple'\n- Affrication: nonaffricate → affricate · 'joor' for 'door' · 3 yr\n- Deaffrication: affricate → fricative/stop · 'ships' for 'chips' · 4 yr\n- Depalatalization: palatal → nonpalatal · 'fit' for 'fish' · 5 yr\nAssimilation:\n- Denasalization: nasal → non-nasal · 'doze' for 'nose' · 2.5 yr\n- Final consonant devoicing: voiced → voiceless at end · 'pick' for 'pig' · 3 yr\n- Prevocalic voicing: voiceless → voiced at start · 'gomb' for 'comb' · 6 yr\n- Coalescence: two phonemes → one shared-feature phoneme · 'foon' for 'spoon'\n- Reduplication: repeat a syllable · 'baba' for 'bottle' · 3 yr\nSyllable structure:\n- Cluster reduction: cluster → single consonant · 'pane' for 'plane' · 4 yr (5 with /s/)\n- Final consonant deletion: drop final consonant · 'toe' for 'toad' · 3 yr\n- Weak syllable deletion: drop unstressed syllable · 'nana' for 'banana' · 4 yr\n- Epenthesis: insert a sound (usually 'uh') between consonants · 'bu-lue' for 'blue' · 8 yr\n\n★ KEY EXAM POINTS\n- Four categories: syllable structure, substitution, assimilation, vowel.\n- Fronting ('tat'/'cat') vs. backing ('gog'/'dog'); gliding ('wabbit'); stopping ('pan'/'fan').\n- A process that persists PAST its suppression age signals a possible phonological disorder.",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "Phonological Processes Cheat Sheet (Little Bee Speech; Bleile 1995, Bowen 2011)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-note004",
+      "title": "Consonant Clusters, Intelligibility & Coarticulation",
+      "body": "CONSONANT CLUSTERS = 2-3 consonants produced together. Produced by: adding a consonant before /l, w, r/ ('blue,' 'freeze'); adding /s/ before a consonant or at word ends ('spot,' 'fast,' 'pots'); 3-part clusters ('spring,' 'spleen,' 'streak'). Children often omit a sound ('spot'→'pot') or substitute ('crib'→'cwib') to simplify; two-sound clusters develop before three-sound clusters.\n\nINTELLIGIBILITY = how well a speaker is understood:\n- ~2 years: understood ~50% of the time.\n- 3rd year: ~75%.\n- ~4 years: completely intelligible.\nMeasured by percent of consonants correct, or percent of words intelligible in a spontaneous sample.\n\nCOARTICULATION = the influence neighboring sounds have on one another; a sound is shaped by those around it rather than produced in isolation. Example: the /s/ in 'see' (lips pulled back/smile) vs. 'saw' (lips pucker).\n\n★ KEY EXAM POINTS\n- Clusters: 2-sound before 3-sound; common to delete or substitute.\n- Intelligibility: 50% at 2, 75% in year 3, ~100% by 4.\n- Coarticulation = context shapes a sound ('see' vs. 'saw' /s/).",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-note003",
+      "title": "Speech-Sound Development: Prelinguistic → Mastery",
+      "body": "PRELINGUISTIC STAGE: vocal play (squeals, grunts, screams, growls, raspberries) → marginal babbling (varied CV sounds) → reduplicated babbling ('mamama') → more complex babbling with variation, intonation, and rhythm (the foundation of phonological development) → vocables (the child's own consistent word-like forms). Feedback from caregivers matters (reduced feedback affects children with hearing impairment). First words ~1st birthday, chosen partly because they fit the child's developing sound system; FROZEN FORMS are set sound combinations used for many things.\n\nEMERGENCE vs. MASTERY:\n- Customary production / emergence: ~half of children use the sound ≥50% of the time in ≥2 word positions (sometimes, not always).\n- Mastery: consistent production; overall mastery = ~90% of children produce it by a given age.\n\nTYPICAL ORDER OF SOUND EMERGENCE:\n- Before age 2: /m, n, p, b, w, h/ (mostly nasals and stops).\n- Around/after 2 (two-word stage): /ŋ, t, d, k, g, f/.\n- ~3 years: /s, z/ emerge (mastered ~6).\n- Harder fricatives/affricates ('th, sh, ch, dʒ'): develop ~3-5, mastered ~4-7.\n- /r/: the hardest — mastery up to ~8 years.\n\n★ KEY EXAM POINTS\n- Babbling order: vocal play → marginal → reduplicated → vocables → first words.\n- Emergence = ~50% in 2 positions; mastery = ~90% of children by an age.\n- Early: /m,n,p,b,w,h/; late/hard: fricatives, affricates, and /r/ (to ~8 yr).",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-note002",
+      "title": "Describing Consonants: Placement, Manner & Voicing",
+      "body": "Phonemes are described by PLACEMENT (where), MANNER (how), and VOICING (voiced/voiceless).\n\nPLACEMENT = where in the vocal tract the sound is made. Consonants by place of articulation (from the Consonant Placement chart, front → back):\n- Bilabial (two lips): p, b, m, w\n- Labio-dental (lip + teeth): f, v\n- Lingua-dental / interdental (tongue + teeth): θ, ð\n- Lingua-alveolar (tongue + alveolar ridge): t, d, s, z, n, l (the chart also groups tʃ, dʒ here)\n- Lingua-palatal (tongue + hard palate): ʃ, ʒ, r, j\n- Lingua-velar (tongue + soft palate): k, g, ŋ\n- Glottal (at the glottis): h\n\nMANNER = how the sound is produced:\n- Stop: airflow stopped then released — /p, b, t, d, k, g/\n- Fricative: air forced through a narrow constriction — /f, v, s, z/, 'th', 'sh', 'zh'\n- Affricate: stop + fricative combined — 'ch' (tʃ), 'j' (dʒ)\n- Nasal: produced through the nasal cavity, oral cavity closed — /m, n, ŋ/\n- Lateral: tongue tip up, air flows around the sides — /l/\n- Glide (semivowel): movement with continuous airflow — /w/, /j/ ('y')\n\nVOICING = whether the vocal folds vibrate (voiced) or not (voiceless).\nNATURAL vs. MARKED: natural sounds are learned early and common across languages; marked sounds develop later, are language-specific, and are harder for children with slow speech development.\n\n★ KEY EXAM POINTS\n- Three descriptors: placement, manner, voicing.\n- Know the six manners with example sounds; place runs bilabial → glottal (front → back).\n- Nasals = /m, n, ŋ/; the only lateral = /l/; glides = /w, j/; affricates = tʃ, dʒ.",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch13-note001",
+      "title": "Phonology, Phonemes & the IPA",
+      "body": "Speech is meaningful when sounds are sequenced into patterns that represent words. PHONOLOGY = the study of speech sounds and the rules for how sounds sequence into syllables and words. Speech sounds = PHONEMES. Sounds are categorized by their DISTINCTIVE FEATURES.\n\nThe INTERNATIONAL PHONETIC ALPHABET (IPA) gives each sound ONE symbol — some like the alphabet, some unique (e.g., 'sh' is two letters but one sound = ʃ). A letter between slashes (/s/) means the SOUND, not the letter.\n\nTHE 44 ENGLISH PHONEMES (IPA with a key word — from the Phonemic Chart):\nVOWELS — Monophthongs: iː (sheep) · ɪ (ship) · ʊ (good) · uː (shoot) · e (bed) · ə (teacher) · ɜː (bird) · ɔː (door) · æ (cat) · ʌ (up) · ɑː (far) · ɒ (on).\nVOWELS — Diphthongs: ɪə (here) · eɪ (wait) · ʊə (tourist) · ɔɪ (boy) · əʊ (show) · eə (hair) · aɪ (my) · aʊ (cow).\nCONSONANTS: p (pea) · b (boat) · t (tea) · d (dog) · tʃ (cheese) · dʒ (June) · k (car) · g (go) · f (fly) · v (video) · θ (think) · ð (this) · s (see) · z (zoo) · ʃ (shall) · ʒ (television) · m (man) · n (now) · ŋ (sing) · h (hat) · l (love) · r (red) · w (wet) · j (yes).\n\n★ KEY EXAM POINTS\n- Phonology = sounds + rules; phoneme = a speech sound; /x/ = the sound, not the letter.\n- IPA = one symbol per sound (ʃ = 'sh', θ/ð = 'th', ŋ = 'ng', tʃ = 'ch', dʒ = 'j', ʒ = 'zh').\n- Vowels split into monophthongs vs. diphthongs; 24 consonants, 20 vowels = 44 phonemes.",
+      "image": null,
+      "module": "mod-13",
+      "chapter": "Lecture 13: Development of Speech Sounds",
+      "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
+      "created": "2026-11-22T17:15:00-08:00"
+    },
     {
       "id": "ch12-note004",
       "title": "Writing & Its Development",
