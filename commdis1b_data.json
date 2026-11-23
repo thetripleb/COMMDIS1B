@@ -121,6 +121,15 @@
       ],
       "created": "2026-11-22T17:15:00-08:00",
       "desc": "Phonological/speech-sound development: phonology, phonemes, distinctive features and the IPA (the 44 English phonemes); describing consonants by placement, manner, and voicing; prelinguistic vocal development through emergence and mastery (sound-acquisition timeline); consonant clusters, intelligibility, and coarticulation; and phonological processes (substitution, assimilation, syllable-structure, vowel) with examples and suppression ages."
+    },
+    {
+      "id": "mod-14",
+      "name": "Module 14: Cultural Variations in Speech & Language",
+      "chapters": [
+        "Lecture 14: Cultural Variations in Speech & Language"
+      ],
+      "created": "2026-11-23T06:15:00-08:00",
+      "desc": "Articulatory phonetics review (eight places of articulation and voiced/voiceless cognates) and cultural variations in speech and language: dialect vs. accent, standard vs. vernacular, social/cultural vs. regional dialects, African American English (with pidgin/creole), Hispanic/Asian/Native American English features, and the clinical dialect-difference-vs-disorder principle; plus Brown's rules for counting morphemes (MLU)."
     }
   ],
   "glossary": [
@@ -325,6 +334,16 @@
       "created": "2026-11-22T17:15:00-08:00"
     },
     {
+      "id": "ch14-g004",
+      "term": "African American English (AAE)",
+      "def": "A valued, rule-governed dialect of English, generalized by the text as spoken by many working-class African Americans in working-class African American communities; has systematic phonological, syntactic, and lexical differences from Standard American English.",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
       "id": "tx-g013",
       "term": "Age of acquisition effect",
       "def": "As new learning occurs, this phenomenon allows the neural network to retain its plasticity and its stability in word representations so that word learning increases efficiently across time. This effect is associated with the tendency for words that are learned earlier to show faster retrieval during naming and reading tasks than words learned later.",
@@ -473,6 +492,16 @@
       "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
       "created": "2026-08-19T17:17:56-07:00",
       "def": "Pyramid-shaped cartilages that sit atop the cricoid. Each has a vocal process and a lateral process; muscles move the lateral processes to bring the vocal folds together or apart."
+    },
+    {
+      "id": "ch14-g007",
+      "term": "Asian English (AE)",
+      "def": "English influenced by Asian languages; hard to generalize given the many countries, languages, and cultures involved.",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
     },
     {
       "id": "tx-g023",
@@ -883,6 +912,16 @@
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "ch14-g001",
+      "term": "Cognates",
+      "def": "Pairs of sounds produced in the same place and manner but differing in voicing — one voiceless, one voiced (e.g., /p/ voiceless and /b/ voiced, both bilabial stops).",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Articulatory Phonetics (SanDiegoVoiceandAccent.com)",
+      "created": "2026-11-23T06:15:00-08:00"
     },
     {
       "id": "ch2-ppt-g016",
@@ -1453,6 +1492,16 @@
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "ch14-g009",
+      "term": "Dialect difference vs. disorder",
+      "def": "The clinical principle that dialectal influences are not language disorders; recognizing dialect features helps prevent misdiagnosing culturally/linguistically diverse children.",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
     },
     {
       "id": "ch1-g007",
@@ -2143,6 +2192,16 @@
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "ch14-g006",
+      "term": "Hispanic English (HE)",
+      "def": "English influenced by Spanish (which has 18 consonants and 5 vowels); varies by region and social/cultural group.",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
     },
     {
       "id": "tx-g115",
@@ -3285,6 +3344,16 @@
       "def": "The nose cavity; a resonating chamber, coupled or sealed off from the vocal tract by the velum."
     },
     {
+      "id": "ch14-g008",
+      "term": "Native American English (NAE)",
+      "def": "English influenced by Native American languages; hard to generalize given many tribes, regions, governing bodies, languages, and cultures.",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
       "id": "ch2-ppt-g003",
       "term": "Nativism",
       "def": "The theory that language is innate and biologically based (an argument for NATURE); humans are pre-wired to acquire language.",
@@ -3913,6 +3982,16 @@
       "chapter": null,
       "source": "Born to Talk",
       "created": "2026-08-19T18:49:16-07:00"
+    },
+    {
+      "id": "ch14-g002",
+      "term": "Post-alveolar",
+      "def": "A place of articulation just behind the alveolar ridge; English post-alveolar sounds are /ʃ/ (SH), /ʒ/ (ZH), /tʃ/ (CH), and /dʒ/ (J).",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Articulatory Phonetics (SanDiegoVoiceandAccent.com)",
+      "created": "2026-11-23T06:15:00-08:00"
     },
     {
       "id": "tx-g217",
@@ -4925,6 +5004,16 @@
       "created": "2026-08-19T18:49:16-07:00"
     },
     {
+      "id": "ch14-g003",
+      "term": "Social/cultural dialect",
+      "def": "A dialect shaped by cultural influences such as ethnicity, education, occupation, and region.",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
       "id": "tx-g285",
       "term": "Socioeconomic status (SES)",
       "def": "Position of an individual on a hierarchical social-economic scale that measures factors such as education, income, type of occupation, and place of residence.",
@@ -4993,6 +5082,16 @@
       "source": "Reece Lecture 1: A&P of Speech, Language & Hearing",
       "created": "2026-08-19T17:17:56-07:00",
       "def": "The 31 pairs of nerves that, among other roles, are responsible for controlling respiration."
+    },
+    {
+      "id": "ch14-g005",
+      "term": "Standard American English (SAE)",
+      "def": "The standard dialect of American English used as the comparison point for describing other dialects.",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
     },
     {
       "id": "tx-g290",
@@ -8625,6 +8724,256 @@
       "chapter": "Lecture 13: Development of Speech Sounds",
       "source": "COMM DIS 1B Lecture 13: Development of Speech Sounds (Ch. 8, pp. 323-343)",
       "created": "2026-11-22T17:15:00-08:00"
+    },
+    {
+      "id": "ch14-f001",
+      "front": "What are cognates? Give an example.",
+      "back": "Sound pairs with the same place and manner but different voicing — e.g., /p/ (voiceless) and /b/ (voiced), both bilabial stops.",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
+      "id": "ch14-f002",
+      "front": "How can you feel voicing?",
+      "back": "Place a hand on the front of your neck and feel the vibration — present for voiced sounds (/b/), absent for voiceless (/p/).",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
+      "id": "ch14-f003",
+      "front": "Name the eight places of articulation (Lecture 14 scheme).",
+      "back": "Bilabial, labio-dental, lingua-dental, alveolar, post-alveolar, palatal, velar, glottal.",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
+      "id": "ch14-f004",
+      "front": "Which four sounds are post-alveolar?",
+      "back": "/ʃ/ (SH), /ʒ/ (ZH), /tʃ/ (CH), /dʒ/ (J).",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
+      "id": "ch14-f005",
+      "front": "Which English sound counts as BOTH bilabial and velar?",
+      "back": "/w/.",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
+      "id": "ch14-f006",
+      "front": "Which is the only English palatal sound, and the only glottal?",
+      "back": "Palatal = /j/ (Y); glottal = /h/ (H).",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
+      "id": "ch14-f007",
+      "front": "What is a dialect?",
+      "back": "Any variety of a language shared by a group of speakers (differences in grammar, phonology, semantics, vocabulary, pragmatics).",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
+      "id": "ch14-f008",
+      "front": "Dialect vs. accent?",
+      "back": "Dialect = variation in LANGUAGE (grammar, vocabulary, etc.). Accent = variation in SPEECH/pronunciation only.",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
+      "id": "ch14-f009",
+      "front": "Standard vs. vernacular dialect?",
+      "back": "Standard = spoken by those with the most power (not superior). Vernacular = a nonstandard dialect.",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
+      "id": "ch14-f010",
+      "front": "What are the two categories of dialect used by the text?",
+      "back": "Social/cultural and regional.",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
+      "id": "ch14-f011",
+      "front": "Which language component is MOST affected in regional dialects?",
+      "back": "Vocabulary.",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
+      "id": "ch14-f012",
+      "front": "Pidgin vs. creole?",
+      "back": "Pidgin = an informal common language (mostly nouns + gestures) between groups. Creole = when that language becomes the group's primary, dominant language.",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
+      "id": "ch14-f013",
+      "front": "Why is it clinically important to know dialect features?",
+      "back": "To avoid misdiagnosing a language disorder in a child who simply has dialectal/cultural influences.",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
+      "id": "ch14-f014",
+      "front": "Give three features often seen in AAE.",
+      "back": "E.g., deleting the 2nd sound of a final cluster ('des' for 'desk'), /d/ for /th/ ('dat' for 'that'), dropping plural/possessive /s/ with a quantifier/identified possessor, dropping '-ed,' 'ain't,' variable subject-verb agreement.",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
+      "id": "ch14-f015",
+      "front": "How many consonants and vowels does Spanish have?",
+      "back": "18 consonants and 5 vowels.",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
+      "id": "ch14-f016",
+      "front": "Give features often seen in Hispanic English.",
+      "back": "May delete auxiliary verbs, articles (a/an/the), or confuse/omit pronouns; differences in negatives; may lack noun-verb agreement.",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
+      "id": "ch14-f017",
+      "front": "Why is Asian English hard to generalize?",
+      "back": "Asia has many countries/regions with vastly different languages and cultures.",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
+      "id": "ch14-f018",
+      "front": "Give features often seen in Native American English.",
+      "back": "Six consonants not used (/v, f, dʒ, th, r, ŋ/); limited clusters (not in final position); vowel lengthening; action-oriented verb system; number implied by the verb; 'noun + possessive pronoun + object' for possession.",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
+      "id": "ch14-f019",
+      "front": "What is the MLU formula, and how many utterances?",
+      "back": "MLU = total morphemes ÷ total utterances; use 100 utterances, starting on the 2nd page of the transcript.",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
+      "id": "ch14-f020",
+      "front": "In MLU counting, what do you NOT count?",
+      "back": "Fillers (um, uh, mm, oh) and unintelligible utterances — but DO count no, yeah, hi.",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
+      "id": "ch14-f021",
+      "front": "MLU: how are compound words, proper names, and irregular past tense counted?",
+      "back": "Each as ONE morpheme (birthday=1, Mickey Mouse=1, went=1).",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
+      "id": "ch14-f022",
+      "front": "MLU: how are plurals, possessives, -ed, -ing, and 3rd-person -s counted?",
+      "back": "As SEPARATE morphemes (dog-s=2, mommy-'s=2, jump-ed=2, play-ing=2, run-s=2).",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
+      "id": "ch14-f023",
+      "front": "MLU: how are contractions counted?",
+      "back": "Negative contractions where parts aren't used separately = 1 (can't, don't, won't); other contractions = 2 (it's, I'm, he's, we're).",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
+      "id": "ch14-f024",
+      "front": "Count the morphemes: 'The dogs are jumping.'",
+      "back": "6 — the(1) + dog-s(2) + are(1) + jump-ing(2).",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
+      "id": "ch14-f025",
+      "front": "How are catenatives (gonna, wanna, hafta) counted in MLU?",
+      "back": "As ONE morpheme each.",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
     }
   ],
   "questions": [
@@ -13410,9 +13759,492 @@
           "right": "~4 years"
         }
       ]
+    },
+    {
+      "id": "ch14-q001",
+      "type": "mc",
+      "text": "/p/ and /b/ differ only in voicing (same place and manner). They are:",
+      "answer": "Cognates",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00",
+      "options": [
+        "Allophones",
+        "Cognates",
+        "Diphthongs",
+        "Clusters"
+      ]
+    },
+    {
+      "id": "ch14-q002",
+      "type": "mc",
+      "text": "The sounds /ʃ, ʒ, tʃ, dʒ/ are made at which place of articulation?",
+      "answer": "Post-alveolar",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00",
+      "options": [
+        "Alveolar",
+        "Post-alveolar",
+        "Palatal",
+        "Velar"
+      ]
+    },
+    {
+      "id": "ch14-q003",
+      "type": "mc",
+      "text": "Which English sound is considered both bilabial AND velar?",
+      "answer": "/w/",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00",
+      "options": [
+        "/r/",
+        "/j/",
+        "/w/",
+        "/h/"
+      ]
+    },
+    {
+      "id": "ch14-q004",
+      "type": "mc",
+      "text": "A variety of a language shared by a group of speakers is a:",
+      "answer": "Dialect",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00",
+      "options": [
+        "Accent",
+        "Dialect",
+        "Cognate",
+        "Register"
+      ]
+    },
+    {
+      "id": "ch14-q005",
+      "type": "mc",
+      "text": "Differences in pronunciation only (speech, not language) describe a(n):",
+      "answer": "Accent",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00",
+      "options": [
+        "Dialect",
+        "Accent",
+        "Creole",
+        "Vernacular"
+      ]
+    },
+    {
+      "id": "ch14-q006",
+      "type": "mc",
+      "text": "In regional dialects, which component of language is MOST affected?",
+      "answer": "Vocabulary",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00",
+      "options": [
+        "Phonology",
+        "Grammar",
+        "Vocabulary",
+        "Pragmatics"
+      ]
+    },
+    {
+      "id": "ch14-q007",
+      "type": "mc",
+      "text": "An informal common language of mostly nouns and gestures between groups is a:",
+      "answer": "Pidgin",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00",
+      "options": [
+        "Creole",
+        "Pidgin",
+        "Dialect",
+        "Accent"
+      ]
+    },
+    {
+      "id": "ch14-q008",
+      "type": "mc",
+      "text": "Spanish has how many consonants and vowels?",
+      "answer": "18 consonants, 5 vowels",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00",
+      "options": [
+        "24 consonants, 20 vowels",
+        "18 consonants, 5 vowels",
+        "21 consonants, 5 vowels",
+        "18 consonants, 12 vowels"
+      ]
+    },
+    {
+      "id": "ch14-q009",
+      "type": "mc",
+      "text": "The MLU formula is:",
+      "answer": "Total morphemes ÷ total utterances",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00",
+      "options": [
+        "Total words ÷ total sentences",
+        "Total morphemes ÷ total utterances",
+        "Total utterances ÷ total morphemes",
+        "Total morphemes ÷ total words"
+      ]
+    },
+    {
+      "id": "ch14-q010",
+      "type": "mc",
+      "text": "In MLU counting, 'jumping' (jump-ing) counts as how many morphemes?",
+      "answer": "2",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "0"
+      ]
+    },
+    {
+      "id": "ch14-q011",
+      "type": "mc",
+      "text": "In MLU counting, the catenative 'gonna' counts as:",
+      "answer": "1 morpheme",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00",
+      "options": [
+        "1 morpheme",
+        "2 morphemes",
+        "3 morphemes",
+        "Not counted"
+      ]
+    },
+    {
+      "id": "ch14-q012",
+      "type": "mc",
+      "text": "A nonstandard dialect is also called a ______ dialect.",
+      "answer": "Vernacular",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00",
+      "options": [
+        "Standard",
+        "Vernacular",
+        "Regional",
+        "Creole"
+      ]
+    },
+    {
+      "id": "ch14-q013",
+      "type": "tf",
+      "text": "A standard dialect is linguistically superior to other dialects.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
+      "id": "ch14-q014",
+      "type": "tf",
+      "text": "Dialectal differences should be treated as a language disorder.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
+      "id": "ch14-q015",
+      "type": "tf",
+      "text": "Fillers like 'um' and 'uh' are NOT counted in MLU, but 'no' and 'yeah' are.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
+      "id": "ch14-q016",
+      "type": "tf",
+      "text": "A creole is less developed than a pidgin.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
+      "id": "ch14-q017",
+      "type": "tf",
+      "text": "Voiced and voiceless cognates share the same place and manner of production.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
+      "id": "ch14-q018",
+      "type": "fitb",
+      "text": "Sound pairs that share place and manner but differ in voicing are called ______.",
+      "answer": "cognates",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
+      "id": "ch14-q019",
+      "type": "fitb",
+      "text": "Variation in pronunciation only (not grammar/vocabulary) is called a(n) ______.",
+      "answer": "accent",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
+      "id": "ch14-q020",
+      "type": "fitb",
+      "text": "MLU = total morphemes ÷ total ______.",
+      "answer": "utterances",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
+      "id": "ch14-q021",
+      "type": "fitb",
+      "text": "When a pidgin becomes a group's primary, dominant language it is called a ______.",
+      "answer": "creole",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
+      "id": "ch14-q022",
+      "type": "match",
+      "text": "Match each place of articulation to its sound(s).",
+      "answer": null,
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00",
+      "pairs": [
+        {
+          "left": "Bilabial",
+          "right": "/p, b, m, w/"
+        },
+        {
+          "left": "Labio-dental",
+          "right": "/f, v/"
+        },
+        {
+          "left": "Post-alveolar",
+          "right": "/ʃ, ʒ, tʃ, dʒ/"
+        },
+        {
+          "left": "Palatal",
+          "right": "/j/"
+        },
+        {
+          "left": "Glottal",
+          "right": "/h/"
+        }
+      ]
+    },
+    {
+      "id": "ch14-q023",
+      "type": "match",
+      "text": "Match each term to its definition.",
+      "answer": null,
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00",
+      "pairs": [
+        {
+          "left": "Dialect",
+          "right": "Variety of a language shared by a group"
+        },
+        {
+          "left": "Accent",
+          "right": "Differences in pronunciation only"
+        },
+        {
+          "left": "Standard dialect",
+          "right": "Spoken by those with the most power"
+        },
+        {
+          "left": "Vernacular dialect",
+          "right": "A nonstandard dialect"
+        }
+      ]
+    },
+    {
+      "id": "ch14-q024",
+      "type": "match",
+      "text": "Match each MLU item to its morpheme count.",
+      "answer": null,
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00",
+      "pairs": [
+        {
+          "left": "Compound word (birthday)",
+          "right": "Counts as 1 (single whole word)"
+        },
+        {
+          "left": "Irregular past (went)",
+          "right": "Counts as 1 (irregular form)"
+        },
+        {
+          "left": "Plural (dog-s)",
+          "right": "Counts as 2 (base + plural -s)"
+        },
+        {
+          "left": "Progressive (play-ing)",
+          "right": "Counts as 2 (base + -ing)"
+        }
+      ]
+    },
+    {
+      "id": "ch14-q025",
+      "type": "match",
+      "text": "Match each dialect/variety to a key fact.",
+      "answer": null,
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00",
+      "pairs": [
+        {
+          "left": "AAE",
+          "right": "Valued, rule-governed dialect of English"
+        },
+        {
+          "left": "Hispanic English",
+          "right": "Spanish has 18 consonants, 5 vowels"
+        },
+        {
+          "left": "Pidgin",
+          "right": "Informal common language of nouns/gestures"
+        },
+        {
+          "left": "Creole",
+          "right": "Pidgin that becomes the dominant language"
+        }
+      ]
     }
   ],
   "notes": [
+    {
+      "id": "ch14-note006",
+      "title": "Brown's Rules for Counting Morphemes (MLU)",
+      "body": "MLU = total morphemes ÷ total utterances (Brown, 1973).\n\nSAMPLE SETUP: use 100 utterances, starting on the 2nd page of the transcript; fully transcribed utterances only (skip any with unintelligible parts). Exact repeated utterances DO count. Stuttering/false starts: count the word once in its most complete form. Repetition for emphasis ('no, no, no'): count each occurrence.\n\nDON'T COUNT: fillers (um, uh, mm, oh). DO count: no, yeah, hi.\n\nCOUNT AS ONE MORPHEME:\n- Compound words (birthday, toothbrush, seesaw)\n- Proper names (Mickey Mouse, Santa Claus)\n- Ritualized reduplications (choo-choo, night-night)\n- Irregular past tense (went, got, did, saw)\n- Diminutives (doggie, mommy, kitty)\n- Catenatives (gonna, wanna, hafta)\n\nCOUNT AS SEPARATE MORPHEMES:\n- Auxiliaries (is, have, will, can, must, would) — 1 each\n- Plural -s (dog-s = 2); possessive 's (mommy-'s = 2); 3rd person sing. -s (run-s = 2); regular past -ed (jump-ed = 2); progressive -ing (play-ing = 2)\n\nCONTRACTIONS (convention, not in Brown's original; varies): negative contractions where parts aren't used separately = 1 (can't, don't, won't); others = 2 (it's, I'm, he's, we're).\n\nWORKED EXAMPLES:\n- 'Doggie runs.' = doggie(1) + run-s(2) = 3\n- 'I'm gonna play.' = I'm(2) + gonna(1) + play(1) = 4\n- 'Mommy's toothbrush fell.' = mommy-'s(2) + toothbrush(1) + fell(1) = 4\n- 'He went to the birthday.' = he+went+to+the+birthday = 5\n- 'The dogs are jumping.' = the(1) + dog-s(2) + are(1) + jump-ing(2) = 6\n\n★ KEY EXAM POINTS\n- MLU = morphemes ÷ utterances; 100 utterances, skip unintelligible, don't count fillers.\n- ONE: compounds, proper names, reduplications, irregular past, diminutives, catenatives.\n- SEPARATE: plural/possessive/3rd-person -s, -ed, -ing, auxiliaries; negative contractions = 1, others = 2.",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "Brown's Rules for Counting Morphemes/MLU (Brown, 1973, A First Language)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
+      "id": "ch14-note005",
+      "title": "Hispanic, Asian & Native American English; Regional Dialects",
+      "body": "HISPANIC ENGLISH (Spanish-influenced; Spanish has 18 consonants, 5 vowels; dialects vary by region/culture):\n- May delete auxiliary verbs; delete/confuse pronouns; delete articles (a/an/the); differences in negatives; may lack noun-verb agreement.\n\nASIAN ENGLISH (hard to generalize — many countries/languages/cultures):\n- May delete consonants (/p, t, v, s, z/); drop plural /s/ but add it to irregulars ('mans'); drop possessive /s/; drop auxiliaries; drop past '-ed'; drop articles.\n\nNATIVE AMERICAN ENGLISH (hard to generalize — many tribes/regions/languages):\n- Six consonants not used (/v, f, dʒ, th, r, ŋ/); limited clusters (not in final position); eleven consonants in final position; fifteen sounds not in English; vowel lengthening; action-oriented verb system; number implied by the verb (not plurals); 'noun + possessive pronoun + object' for possession; negatives to show contrasting opposites.\n\nREGIONAL DIALECTS: differ across phonology, grammar, and semantics, but VOCABULARY is the dimension most affected.\n\nTAKE-AWAY: cultural awareness (not just acceptance) matters — differences are not 'wrong,' just culturally influenced. Awareness prevents overlooking diverse children's talents and helps identify those with true needs.\n\n★ KEY EXAM POINTS\n- HE: Spanish 18 C / 5 V; dropped auxiliaries, articles, agreement.\n- AE and NAE are hard to generalize (many languages/cultures); NAE omits 6 consonants, uses vowel lengthening.\n- Regional dialects → vocabulary most affected; be culturally AWARE, not just accepting.",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
+      "id": "ch14-note004",
+      "title": "African American English (AAE), Pidgin & Creole",
+      "body": "AAE is a valued, rule-governed DIALECT of English (generalized by the text as spoken by many working-class African Americans in working-class African American communities). It is nonstandard but important and systematic, with phonological, syntactic, and lexical differences from Standard American English (SAE); it shares features with Southern dialects.\n\nCommon AAE features:\n- Delete the 2nd sound of a final cluster: 'des' for 'desk.'\n- Substitute /d/ for /th/: 'dat' for 'that.'\n- Drop plural /s/ when a quantifier is used; drop possessive /s/ when the possessor is identified.\n- Drop past-tense '-ed.'\n- Variable subject-verb agreement (auxiliary/copula).\n- Use 'ain't' for negatives.\n\nPIDGIN & CREOLE: when groups speaking different languages come together, they may form a PIDGIN — an informal common language of mostly nouns and gestures. When it becomes the group's primary, dominant language, it is a CREOLE.\n\n★ KEY EXAM POINTS\n- AAE = rule-governed, valued dialect; know several features (final-cluster reduction, /d/ for /th/, dropped /s/ and '-ed,' 'ain't').\n- Pidgin (informal, nouns+gestures) → creole (becomes dominant language).\n- Compare SAE vs. AAE (text chart, p. 348).",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
+      "id": "ch14-note003",
+      "title": "Dialects & Accents",
+      "body": "Babies are born able to produce all speech sounds and learn any language; home language and culture shape which sounds and patterns they acquire.\n- DIALECT: any variety of a language shared by a group of speakers — differences (and similarities) in grammar, phonology, semantics, vocabulary, and pragmatics.\n- STANDARD DIALECT: the variety spoken by those with the most power — NOT superior, and it varies by region/group.\n- VERNACULAR DIALECT: a nonstandard dialect.\n- ACCENT: differences in SPEECH (pronunciation) only, not language — what you hear.\n- Two categories (per the text): SOCIAL/CULTURAL dialects (shaped by ethnicity, education, occupation, region) and REGIONAL dialects (differ across all components, but VOCABULARY is most affected).\n\nCLINICAL PRINCIPLE: a dialect difference is NOT a disorder. Knowing dialect features helps prevent misdiagnosing language disorders in culturally/linguistically diverse children — and helps identify those who genuinely have greater needs.\n\n★ KEY EXAM POINTS\n- Dialect = language variation; accent = pronunciation only.\n- Standard (powerful group, not superior) vs. vernacular (nonstandard).\n- Regional dialect → vocabulary most affected; difference ≠ disorder.",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Cultural Variations in Speech & Language (Ch. 8, pp. 343-362)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
+      "id": "ch14-note002",
+      "title": "Cognates (Voiced/Voiceless Pairs)",
+      "body": "COGNATES are pairs of sounds with the SAME place and manner but DIFFERENT voicing — one voiceless, one voiced. Example: /p/ and /b/ are both bilabial stops; /p/ is voiceless, /b/ is voiced.\n\nFeel voicing by placing a hand on the front of the neck — you feel vibration on the voiced member (/b/) but not the voiceless one (/p/).\n\nCommon English cognate pairs (voiceless / voiced): /p/-/b/, /t/-/d/, /k/-/g/, /f/-/v/, /θ/-/ð/, /s/-/z/, /ʃ/-/ʒ/, /tʃ/-/dʒ/.\n\n★ KEY EXAM POINTS\n- Cognates = same place + same manner, differ only in voicing.\n- Hand-on-neck test detects voicing.\n- Know the 8 common voiceless/voiced pairs.",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Articulatory Phonetics (SanDiegoVoiceandAccent.com)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
+    {
+      "id": "ch14-note001",
+      "title": "Articulatory Phonetics: Places of Articulation (Review/Expanded)",
+      "body": "A more detailed place-of-articulation breakdown (SanDiegoVoiceandAccent.com), expanding Lecture 13's chart:\n- Bilabial (both lips) — 4 sounds: P /p/, B /b/, M /m/, W /w/.\n- Labio-dental (lower lip to upper teeth) — 2: F /f/, V /v/.\n- Lingua-dental (tongue between teeth) — 2: TH /θ, ð/.\n- Alveolar (tongue at the bumpy ridge behind the front teeth) — 7: T /t/, D /d/, S /s/, Z /z/, N /n/, L /l/, R /ɹ/.\n- Post-alveolar (tongue just behind the alveolar ridge) — 4: SH /ʃ/, ZH /ʒ/, CH /tʃ/, J /dʒ/.\n- Palatal (tongue to the middle of the roof of the mouth) — 1: Y /j/.\n- Velar (back/soft part of the roof) — 4: K /k/, G /g/, NG /ŋ/, W /w/ (W is both bilabial AND velar).\n- Glottal (at the vocal cords; tongue not involved) — 1: H /h/.\n\nThese symbols are IPA (from Lecture 13). This is the PLACE part of place-manner-voicing (PVM).\n\n★ KEY EXAM POINTS\n- Alveolar is the busiest place (7 sounds); post-alveolar = ʃ ʒ tʃ dʒ.\n- /w/ is both bilabial and velar; palatal = only /j/; glottal = only /h/.\n- Places front→back: bilabial → labio-dental → dental → alveolar → post-alveolar → palatal → velar → glottal.",
+      "image": null,
+      "module": "mod-14",
+      "chapter": "Lecture 14: Cultural Variations in Speech & Language",
+      "source": "COMM DIS 1B Lecture 14: Articulatory Phonetics (SanDiegoVoiceandAccent.com)",
+      "created": "2026-11-23T06:15:00-08:00"
+    },
     {
       "id": "ch13-note005",
       "title": "Phonological Processes (Simplification Patterns)",
